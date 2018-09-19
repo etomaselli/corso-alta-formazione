@@ -1,0 +1,6046 @@
+Year;Country;Population;Type
+1980;North America;320.27638;Region
+1980;Bermuda;0.05473;State
+1980;Canada;24.5933;State
+1980;Greenland;0.05021;State
+1980;Mexico;68.34748;State
+1980;Saint Pierre and Miquelon;0.00599;State
+1980;United States;227.22468;State
+1980;Central & South America;293.05856;Region
+1980;Antigua and Barbuda;0.06855;State
+1980;Argentina;28.3698;State
+1980;Bahamas - The;0.20976;State
+1980;Barbados;0.25197;State
+1980;Belize;0.14442;State
+1980;Bolivia;5.4413;State
+1980;Brazil;123.01963;State
+1980;Cayman Islands;0.01708;State
+1980;Chile;11.09372;State
+1980;Colombia;26.63129;State
+1980;Costa Rica;2.29912;State
+1980;Cuba;9.65298;State
+1980;Dominica;0.07389;State
+1980;Dominican Republic;5.69686;State
+1980;Ecuador;7.9205;State
+1980;El Salvador;4.57041;State
+1980;Falkland Islands (Islas Malvinas);0.002;State
+1980;French Guiana;0.07;State
+1980;Grenada;0.09016;State
+1980;Guadeloupe;0.337;State
+1980;Guatemala;6.64959;State
+1980;Guyana;0.75935;State
+1980;Haiti;5.5077;State
+1980;Honduras;3.40247;State
+1980;Jamaica;2.2288;State
+1980;Martinique;0.339;State
+1980;Montserrat;0.01177;State
+1980;Netherlands Antilles;0.23244;State
+1980;Nicaragua;2.80565;State
+1980;Panama;1.95957;State
+1980;Paraguay;3.1716;State
+1980;Peru;17.2953;State
+1980;Puerto Rico;3.20965;State
+1980;Saint Kitts and Nevis;0.04357;State
+1980;Saint Lucia;0.12248;State
+1980;Saint Vincent/Grenadines;0.09814;State
+1980;Suriname;0.35408;State
+1980;Trinidad and Tobago;1.09051;State
+1980;Turks and Caicos Islands;0.00747;State
+1980;Uruguay;2.93049;State
+1980;Venezuela;14.76789;State
+1980;Virgin Islands -  U.S.;0.09964;State
+1980;Virgin Islands - British;0.011;State
+1980;Europe;529.50082;Continent
+1980;Albania;2.67141;State
+1980;Austria;7.54943;State
+1980;Belgium;9.8468;State
+1980;Bulgaria;8.84353;State
+1980;Cyprus;0.63027;State
+1980;Denmark;5.12303;State
+1980;Faroe Islands;0.04345;State
+1980;Finland;4.77954;State
+1980;France;53.98766;State
+1980;Germany;71.54;State
+1980;Gibraltar;0.02883;State
+1980;Greece;9.64251;State
+1980;Hungary;10.71112;State
+1980;Iceland;0.22816;State
+1980;Ireland;3.401;State
+1980;Italy;56.47271;State
+1980;Luxembourg;0.3644;State
+1980;Malta;0.364;State
+1980;Netherlands;14.1439;State
+1980;Norway;4.08562;State
+1980;Poland;35.57802;State
+1980;Portugal;9.7778;State
+1980;Romania;22.13004;State
+1980;Spain;37.48836;State
+1980;Sweden;8.31047;State
+1980;Switzerland;6.4103;State
+1980;Turkey;45.04797;State
+1980;United Kingdom;56.51888;State
+1980;Eurasia;265.92182;Region
+1980;Middle East;93.78699;Region
+1980;Bahrain;0.34757;State
+1980;Iran;39.70873;State
+1980;Iraq;13.23284;State
+1980;Israel;3.73747;State
+1980;Jordan;2.16278;State
+1980;Kuwait;1.36977;State
+1980;Lebanon;2.8987;State
+1980;Oman;1.18548;State
+1980;Qatar;0.2369;State
+1980;Saudi Arabia;10.02152;State
+1980;Syria;8.75241;State
+1980;United Arab Emirates;1.00029;State
+1980;Yemen;9.13255;State
+1980;Africa;478.96479;Continent
+1980;Algeria;18.80606;State
+1980;Angola;6.74308;State
+1980;Benin;3.45806;State
+1980;Botswana;0.90048;State
+1980;Burkina Faso;6.31819;State
+1980;Burundi;4.29821;State
+1980;Cameroon;8.76249;State
+1980;Cape Verde;0.29645;State
+1980;Central African Republic;2.34878;State
+1980;Chad;4.52239;State
+1980;Comoros;0.33351;State
+1980;Congo (Brazzaville);1.67429;State
+1980;Congo (Kinshasa);29.01255;State
+1980;Cote dIvoire (IvoryCoast);8.59326;State
+1980;Djibouti;0.32687;State
+1980;Egypt;42.63422;State
+1980;Equatorial Guinea;0.25601;State
+1980;Ethiopia;38.6052;State
+1980;Gabon;0.71383;State
+1980;Gambia - The;0.67052;State
+1980;Ghana;11.01119;State
+1980;Guinea;4.44737;State
+1980;Guinea-Bissau;0.7889;State
+1980;Kenya;16.33054;State
+1980;Lesotho;1.35857;State
+1980;Liberia;1.8571;State
+1980;Libya;3.06862;State
+1980;Madagascar;8.69125;State
+1980;Malawi;6.25893;State
+1980;Mali;6.82161;State
+1980;Mauritania;1.54491;State
+1980;Mauritius;0.9637;State
+1980;Morocco;19.48727;State
+1980;Mozambique;12.10262;State
+1980;Niger;6.09347;State
+1980;Nigeria;74.82127;State
+1980;Reunion;0.51;State
+1980;Rwanda;5.13984;State
+1980;Saint Helena;0.00647;State
+1980;Sao Tome and Principe;0.09407;State
+1980;Senegal;5.61133;State
+1980;Seychelles;0.06395;State
+1980;Sierra Leone;3.33503;State
+1980;Somalia;5.79356;State
+1980;South Africa;30.30961;State
+1980;Sudan;19.48245;State
+1980;Swaziland;0.61146;State
+1980;Tanzania;18.66506;State
+1980;Togo;2.62551;State
+1980;Tunisia;6.44318;State
+1980;Uganda;12.41472;State
+1980;Western Sahara;0.12404;State
+1980;Zambia;5.64278;State
+1980;Zimbabwe;7.16997;State
+1980;Asia & Oceania;2469.81743;Region
+1980;Afghanistan;15.0436;State
+1980;American Samoa;0.03242;State
+1980;Australia;14.6159;State
+1980;Bangladesh;87.93733;State
+1980;Bhutan;0.44604;State
+1980;Brunei;0.18522;State
+1980;Burma (Myanmar);33.33642;State
+1980;Cambodia;6.88852;State
+1980;China;984.73646;State
+1980;Cook Islands;0.01801;State
+1980;Fiji;0.63451;State
+1980;French Polynesia;0.1509;State
+1980;Guam;0.10687;State
+1980;Hong Kong;5.0631;State
+1980;India;684.8877;State
+1980;Indonesia;151.0244;State
+1980;Japan;116.80731;State
+1980;Kiribati;0.05754;State
+1980;Korea - North;17.11363;State
+1980;Korea - South;38.124;State
+1980;Laos;3.29316;State
+1980;Macau;0.25577;State
+1980;Malaysia;13.46009;State
+1980;Maldives;0.15287;State
+1980;Mongolia;1.66238;State
+1980;Nauru;0.00771;State
+1980;Nepal;14.66525;State
+1980;New Caledonia;0.1394;State
+1980;New Zealand;3.16815;State
+1980;Niue;0.002;State
+1980;Pakistan;85.21912;State
+1980;Papua New Guinea;2.8464;State
+1980;Philippines;50.94018;State
+1980;Samoa;0.15904;State
+1980;Singapore;2.4139;State
+1980;Solomon Islands;0.23077;State
+1980;Sri Lanka;15.05597;State
+1980;Taiwan;17.84832;State
+1980;Thailand;47.02576;State
+1980;Tonga;0.09136;State
+1980;U.S. Pacific Islands;0.13796;State
+1980;Vanuatu;0.11679;State
+1980;Vietnam;53.7152;State
+1980;World;4451.32679;World
+1981;North America;324.44694;Region
+1981;Bermuda;0.05491;State
+1981;Canada;24.9;State
+1981;Greenland;0.05103;State
+1981;Mexico;69.96926;State
+1981;Saint Pierre and Miquelon;0.00601;State
+1981;United States;229.46571;State
+1981;Central & South America;299.43033;Region
+1981;Antigua and Barbuda;0.06826;State
+1981;Argentina;28.84806;State
+1981;Bahamas - The;0.21345;State
+1981;Barbados;0.25236;State
+1981;Belize;0.14921;State
+1981;Bolivia;5.54522;State
+1981;Brazil;125.99213;State
+1981;Cayman Islands;0.0179;State
+1981;Chile;11.2823;State
+1981;Colombia;27.21489;State
+1981;Costa Rica;2.35729;State
+1981;Cuba;9.71198;State
+1981;Dominica;0.07352;State
+1981;Dominican Republic;5.83171;State
+1981;Ecuador;8.14108;State
+1981;El Salvador;4.51972;State
+1981;Falkland Islands (Islas Malvinas);0.002;State
+1981;French Guiana;0.07;State
+1981;Grenada;0.09235;State
+1981;Guadeloupe;0.339;State
+1981;Guatemala;6.82868;State
+1981;Guyana;0.76193;State
+1981;Haiti;5.62287;State
+1981;Honduras;3.54306;State
+1981;Jamaica;2.25837;State
+1981;Martinique;0.341;State
+1981;Montserrat;0.01179;State
+1981;Netherlands Antilles;0.23449;State
+1981;Nicaragua;2.90173;State
+1981;Panama;1.9989;State
+1981;Paraguay;3.25084;State
+1981;Peru;17.7548;State
+1981;Puerto Rico;3.23897;State
+1981;Saint Kitts and Nevis;0.04348;State
+1981;Saint Lucia;0.124;State
+1981;Saint Vincent/Grenadines;0.0992;State
+1981;Suriname;0.35251;State
+1981;Trinidad and Tobago;1.10784;State
+1981;Turks and Caicos Islands;0.00779;State
+1981;Uruguay;2.94813;State
+1981;Venezuela;15.16626;State
+1981;Virgin Islands -  U.S.;0.09985;State
+1981;Virgin Islands - British;0.01142;State
+1981;Europe;532.62947;Continent
+1981;Albania;2.72427;State
+1981;Austria;7.56463;State
+1981;Belgium;9.8524;State
+1981;Bulgaria;8.86944;State
+1981;Cyprus;0.63805;State
+1981;Denmark;5.12157;State
+1981;Faroe Islands;0.04386;State
+1981;Finland;4.79996;State
+1981;France;54.27995;State
+1981;Germany;71.66;State
+1981;Gibraltar;0.02927;State
+1981;Greece;9.72935;State
+1981;Hungary;10.71185;State
+1981;Iceland;0.2308;State
+1981;Ireland;3.4434;State
+1981;Italy;56.5242;State
+1981;Luxembourg;0.3654;State
+1981;Malta;0.36365;State
+1981;Netherlands;14.24605;State
+1981;Norway;4.0997;State
+1981;Poland;35.90196;State
+1981;Portugal;9.85008;State
+1981;Romania;22.25655;State
+1981;Spain;37.7508;State
+1981;Sweden;8.32049;State
+1981;Switzerland;6.45112;State
+1981;Turkey;46.25323;State
+1981;United Kingdom;56.58903;State
+1981;Eurasia;268.11401;Region
+1981;Middle East;97.61915;Region
+1981;Bahrain;0.36343;State
+1981;Iran;41.45082;State
+1981;Iraq;13.7031;State
+1981;Israel;3.80134;State
+1981;Jordan;2.25377;State
+1981;Kuwait;1.43219;State
+1981;Lebanon;2.9517;State
+1981;Oman;1.24951;State
+1981;Qatar;0.24928;State
+1981;Saudi Arabia;10.65493;State
+1981;Syria;9.04923;State
+1981;United Arab Emirates;1.06972;State
+1981;Yemen;9.39014;State
+1981;Africa;493.63386;Continent
+1981;Algeria;19.40704;State
+1981;Angola;6.87957;State
+1981;Benin;3.56485;State
+1981;Botswana;0.93444;State
+1981;Burkina Faso;6.47437;State
+1981;Burundi;4.47776;State
+1981;Cameroon;9.04792;State
+1981;Cape Verde;0.3002;State
+1981;Central African Republic;2.41277;State
+1981;Chad;4.51494;State
+1981;Comoros;0.34088;State
+1981;Congo (Brazzaville);1.72374;State
+1981;Congo (Kinshasa);29.80802;State
+1981;Cote dIvoire (IvoryCoast);8.92247;State
+1981;Djibouti;0.34483;State
+1981;Egypt;44.1961;State
+1981;Equatorial Guinea;0.27178;State
+1981;Ethiopia;40.35937;State
+1981;Gabon;0.73084;State
+1981;Gambia - The;0.69266;State
+1981;Ghana;11.17096;State
+1981;Guinea;4.54036;State
+1981;Guinea-Bissau;0.80706;State
+1981;Kenya;16.98722;State
+1981;Lesotho;1.39518;State
+1981;Liberia;1.913;State
+1981;Libya;3.20768;State
+1981;Madagascar;8.93876;State
+1981;Malawi;6.45967;State
+1981;Mali;6.95002;State
+1981;Mauritania;1.57765;State
+1981;Mauritius;0.97905;State
+1981;Morocco;19.84622;State
+1981;Mozambique;12.36323;State
+1981;Niger;6.239;State
+1981;Nigeria;77.14958;State
+1981;Reunion;0.51;State
+1981;Rwanda;5.30899;State
+1981;Saint Helena;0.00658;State
+1981;Sao Tome and Principe;0.09644;State
+1981;Senegal;5.75446;State
+1981;Seychelles;0.0647;State
+1981;Sierra Leone;3.40215;State
+1981;Somalia;5.8288;State
+1981;South Africa;31.24317;State
+1981;Sudan;20.19661;State
+1981;Swaziland;0.63131;State
+1981;Tanzania;19.212;State
+1981;Togo;2.71957;State
+1981;Tunisia;6.60571;State
+1981;Uganda;12.72525;State
+1981;Western Sahara;0.13909;State
+1981;Zambia;5.83063;State
+1981;Zimbabwe;7.42922;State
+1981;Asia & Oceania;2518.13689;Region
+1981;Afghanistan;13.67368;State
+1981;American Samoa;0.0336;State
+1981;Australia;14.92326;State
+1981;Bangladesh;94.14314;State
+1981;Bhutan;0.46195;State
+1981;Brunei;0.19283;State
+1981;Burma (Myanmar);33.98181;State
+1981;Cambodia;7.0792;State
+1981;China;997.00072;State
+1981;Cook Islands;0.01765;State
+1981;Fiji;0.64677;State
+1981;French Polynesia;0.15569;State
+1981;Guam;0.10917;State
+1981;Hong Kong;5.1834;State
+1981;India;699.15377;State
+1981;Indonesia;154.13906;State
+1981;Japan;117.64809;State
+1981;Kiribati;0.05845;State
+1981;Korea - North;17.38401;State
+1981;Korea - South;38.723;State
+1981;Laos;3.33698;State
+1981;Macau;0.26093;State
+1981;Malaysia;13.87521;State
+1981;Maldives;0.15725;State
+1981;Mongolia;1.70883;State
+1981;Nauru;0.00785;State
+1981;Nepal;15.01086;State
+1981;New Caledonia;0.1425;State
+1981;New Zealand;3.18345;State
+1981;Niue;0.002;State
+1981;Pakistan;90.97508;State
+1981;Papua New Guinea;2.91716;State
+1981;Philippines;52.2276;State
+1981;Samoa;0.16092;State
+1981;Singapore;2.53537;State
+1981;Solomon Islands;0.23874;State
+1981;Sri Lanka;15.31549;State
+1981;Taiwan;18.17743;State
+1981;Thailand;47.9365;State
+1981;Tonga;0.09177;State
+1981;U.S. Pacific Islands;0.14283;State
+1981;Vanuatu;0.12026;State
+1981;Vietnam;54.90268;State
+1981;World;4534.01064;World
+1982;North America;328.62014;Region
+1982;Bermuda;0.05517;State
+1982;Canada;25.2019;State
+1982;Greenland;0.05166;State
+1982;Mexico;71.6409;State
+1982;Saint Pierre and Miquelon;0.00605;State
+1982;United States;231.66446;State
+1982;Central & South America;305.95253;Region
+1982;Antigua and Barbuda;0.06801;State
+1982;Argentina;29.32988;State
+1982;Bahamas - The;0.21713;State
+1982;Barbados;0.25348;State
+1982;Belize;0.1533;State
+1982;Bolivia;5.64222;State
+1982;Brazil;129.02765;State
+1982;Cayman Islands;0.01852;State
+1982;Chile;11.48711;State
+1982;Colombia;27.82604;State
+1982;Costa Rica;2.42437;State
+1982;Cuba;9.78922;State
+1982;Dominica;0.07381;State
+1982;Dominican Republic;5.96874;State
+1982;Ecuador;8.36585;State
+1982;El Salvador;4.47992;State
+1982;Falkland Islands (Islas Malvinas);0.002;State
+1982;French Guiana;0.07;State
+1982;Grenada;0.09241;State
+1982;Guadeloupe;0.341;State
+1982;Guatemala;6.98272;State
+1982;Guyana;0.76286;State
+1982;Haiti;5.74042;State
+1982;Honduras;3.67004;State
+1982;Jamaica;2.29831;State
+1982;Martinique;0.343;State
+1982;Montserrat;0.01166;State
+1982;Netherlands Antilles;0.23757;State
+1982;Nicaragua;2.97991;State
+1982;Panama;2.0395;State
+1982;Paraguay;3.33837;State
+1982;Peru;18.17252;State
+1982;Puerto Rico;3.279;State
+1982;Saint Kitts and Nevis;0.04338;State
+1982;Saint Lucia;0.12558;State
+1982;Saint Vincent/Grenadines;0.10048;State
+1982;Suriname;0.36009;State
+1982;Trinidad and Tobago;1.12732;State
+1982;Turks and Caicos Islands;0.00815;State
+1982;Uruguay;2.96835;State
+1982;Venezuela;15.62077;State
+1982;Virgin Islands -  U.S.;0.10007;State
+1982;Virgin Islands - British;0.01182;State
+1982;Europe;535.24974;Continent
+1982;Albania;2.7801;State
+1982;Austria;7.57461;State
+1982;Belgium;9.8563;State
+1982;Bulgaria;8.8921;State
+1982;Cyprus;0.64532;State
+1982;Denmark;5.11781;State
+1982;Faroe Islands;0.04425;State
+1982;Finland;4.82693;State
+1982;France;54.5712;State
+1982;Germany;71.6;State
+1982;Gibraltar;0.02885;State
+1982;Greece;9.78648;State
+1982;Hungary;10.70554;State
+1982;Iceland;0.234;State
+1982;Ireland;3.48;State
+1982;Italy;56.55763;State
+1982;Luxembourg;0.36572;State
+1982;Malta;0.36022;State
+1982;Netherlands;14.3104;State
+1982;Norway;4.11479;State
+1982;Poland;36.22738;State
+1982;Portugal;9.85965;State
+1982;Romania;22.35673;State
+1982;Spain;37.98331;State
+1982;Sweden;8.32526;State
+1982;Switzerland;6.49438;State
+1982;Turkey;47.46418;State
+1982;United Kingdom;56.53848;State
+1982;Eurasia;270.37541;Region
+1982;Middle East;101.52251;Region
+1982;Bahrain;0.37796;State
+1982;Iran;43.21824;State
+1982;Iraq;14.17332;State
+1982;Israel;3.85842;State
+1982;Jordan;2.34764;State
+1982;Kuwait;1.49749;State
+1982;Lebanon;3.0056;State
+1982;Oman;1.3136;State
+1982;Qatar;0.25961;State
+1982;Saudi Arabia;11.28881;State
+1982;Syria;9.38665;State
+1982;United Arab Emirates;1.13755;State
+1982;Yemen;9.65762;State
+1982;Africa;508.69882;Continent
+1982;Algeria;20.03375;State
+1982;Angola;7.01853;State
+1982;Benin;3.67513;State
+1982;Botswana;0.97065;State
+1982;Burkina Faso;6.63723;State
+1982;Burundi;4.58491;State
+1982;Cameroon;9.28255;State
+1982;Cape Verde;0.30409;State
+1982;Central African Republic;2.47757;State
+1982;Chad;4.73288;State
+1982;Comoros;0.34882;State
+1982;Congo (Brazzaville);1.77516;State
+1982;Congo (Kinshasa);30.64884;State
+1982;Cote dIvoire (IvoryCoast);9.25983;State
+1982;Djibouti;0.35616;State
+1982;Egypt;45.68181;State
+1982;Equatorial Guinea;0.28548;State
+1982;Ethiopia;42.18999;State
+1982;Gabon;0.75424;State
+1982;Gambia - The;0.71552;State
+1982;Ghana;11.39415;State
+1982;Guinea;4.63601;State
+1982;Guinea-Bissau;0.82577;State
+1982;Kenya;17.65997;State
+1982;Lesotho;1.43282;State
+1982;Liberia;1.97148;State
+1982;Libya;3.34789;State
+1982;Madagascar;9.19587;State
+1982;Malawi;6.66854;State
+1982;Mali;7.08238;State
+1982;Mauritania;1.61189;State
+1982;Mauritius;0.99204;State
+1982;Morocco;20.19873;State
+1982;Mozambique;12.58733;State
+1982;Niger;6.38918;State
+1982;Nigeria;79.51098;State
+1982;Reunion;0.52;State
+1982;Rwanda;5.48328;State
+1982;Saint Helena;0.00664;State
+1982;Sao Tome and Principe;0.09824;State
+1982;Senegal;5.90285;State
+1982;Seychelles;0.06528;State
+1982;Sierra Leone;3.47225;State
+1982;Somalia;5.8345;State
+1982;South Africa;32.2392;State
+1982;Sudan;20.94364;State
+1982;Swaziland;0.64981;State
+1982;Tanzania;19.77679;State
+1982;Togo;2.8166;State
+1982;Tunisia;6.7341;State
+1982;Uganda;13.07893;State
+1982;Western Sahara;0.15455;State
+1982;Zambia;6.0475;State
+1982;Zimbabwe;7.63652;State
+1982;Asia & Oceania;2563.52187;Region
+1982;Afghanistan;12.57743;State
+1982;American Samoa;0.03471;State
+1982;Australia;15.16178;State
+1982;Bangladesh;96.18533;State
+1982;Bhutan;0.47824;State
+1982;Brunei;0.19886;State
+1982;Burma (Myanmar);34.64219;State
+1982;Cambodia;7.29713;State
+1982;China;1012.49049;State
+1982;Cook Islands;0.01744;State
+1982;Fiji;0.65891;State
+1982;French Polynesia;0.16042;State
+1982;Guam;0.10928;State
+1982;Hong Kong;5.2645;State
+1982;India;713.71094;State
+1982;Indonesia;157.27963;State
+1982;Japan;118.45497;State
+1982;Kiribati;0.05935;State
+1982;Korea - North;17.64752;State
+1982;Korea - South;39.326;State
+1982;Laos;3.41116;State
+1982;Macau;0.27081;State
+1982;Malaysia;14.30829;State
+1982;Maldives;0.1619;State
+1982;Mongolia;1.75603;State
+1982;Nauru;0.008;State
+1982;Nepal;15.37507;State
+1982;New Caledonia;0.145;State
+1982;New Zealand;3.2149;State
+1982;Niue;0.002;State
+1982;Pakistan;94.09612;State
+1982;Papua New Guinea;2.991;State
+1982;Philippines;53.55718;State
+1982;Samoa;0.16074;State
+1982;Singapore;2.65187;State
+1982;Solomon Islands;0.24693;State
+1982;Sri Lanka;15.57547;State
+1982;Taiwan;18.50139;State
+1982;Thailand;48.82716;State
+1982;Tonga;0.0922;State
+1982;U.S. Pacific Islands;0.14762;State
+1982;Vanuatu;0.12379;State
+1982;Vietnam;56.14218;State
+1982;World;4613.94102;World
+1983;North America;332.72487;Region
+1983;Bermuda;0.05551;State
+1983;Canada;25.4563;State
+1983;Greenland;0.05211;State
+1983;Mexico;73.36288;State
+1983;Saint Pierre and Miquelon;0.00607;State
+1983;United States;233.79199;State
+1983;Central & South America;312.51136;Region
+1983;Antigua and Barbuda;0.06562;State
+1983;Argentina;29.79355;State
+1983;Bahamas - The;0.22086;State
+1983;Barbados;0.25485;State
+1983;Belize;0.15685;State
+1983;Bolivia;5.73743;State
+1983;Brazil;131.96012;State
+1983;Cayman Islands;0.01909;State
+1983;Chile;11.68662;State
+1983;Colombia;28.45499;State
+1983;Costa Rica;2.49435;State
+1983;Cuba;9.88126;State
+1983;Dominica;0.07429;State
+1983;Dominican Republic;6.10582;State
+1983;Ecuador;8.59349;State
+1983;El Salvador;4.52671;State
+1983;Falkland Islands (Islas Malvinas);0.002;State
+1983;French Guiana;0.08;State
+1983;Grenada;0.09253;State
+1983;Guadeloupe;0.345;State
+1983;Guatemala;7.18865;State
+1983;Guyana;0.76216;State
+1983;Haiti;5.86229;State
+1983;Honduras;3.79614;State
+1983;Jamaica;2.30639;State
+1983;Martinique;0.346;State
+1983;Montserrat;0.01156;State
+1983;Netherlands Antilles;0.24092;State
+1983;Nicaragua;3.04918;State
+1983;Panama;2.08079;State
+1983;Paraguay;3.43192;State
+1983;Peru;18.59145;State
+1983;Puerto Rico;3.31603;State
+1983;Saint Kitts and Nevis;0.04323;State
+1983;Saint Lucia;0.12729;State
+1983;Saint Vincent/Grenadines;0.10181;State
+1983;Suriname;0.36762;State
+1983;Trinidad and Tobago;1.14815;State
+1983;Turks and Caicos Islands;0.00852;State
+1983;Uruguay;2.98883;State
+1983;Venezuela;16.08442;State
+1983;Virgin Islands -  U.S.;0.10035;State
+1983;Virgin Islands - British;0.01226;State
+1983;Europe;537.6101;Continent
+1983;Albania;2.83732;State
+1983;Austria;7.5529;State
+1983;Belgium;9.85552;State
+1983;Bulgaria;8.91028;State
+1983;Cyprus;0.6565;State
+1983;Denmark;5.1143;State
+1983;Faroe Islands;0.04457;State
+1983;Finland;4.85579;State
+1983;France;54.78401;State
+1983;Germany;71.38;State
+1983;Gibraltar;0.02835;State
+1983;Greece;9.84053;State
+1983;Hungary;10.68946;State
+1983;Iceland;0.23704;State
+1983;Ireland;3.504;State
+1983;Italy;56.65244;State
+1983;Luxembourg;0.36589;State
+1983;Malta;0.35577;State
+1983;Netherlands;14.36238;State
+1983;Norway;4.12843;State
+1983;Poland;36.57142;State
+1983;Portugal;9.87224;State
+1983;Romania;22.40728;State
+1983;Spain;38.18417;State
+1983;Sweden;8.32903;State
+1983;Switzerland;6.52752;State
+1983;Turkey;48.66062;State
+1983;United Kingdom;56.57376;State
+1983;Eurasia;272.79689;Region
+1983;Middle East;105.53011;Region
+1983;Bahrain;0.39303;State
+1983;Iran;44.98932;State
+1983;Iraq;14.65222;State
+1983;Israel;3.92689;State
+1983;Jordan;2.44068;State
+1983;Kuwait;1.56582;State
+1983;Lebanon;3.06024;State
+1983;Oman;1.37675;State
+1983;Qatar;0.29241;State
+1983;Saudi Arabia;11.95226;State
+1983;Syria;9.73512;State
+1983;United Arab Emirates;1.2091;State
+1983;Yemen;9.93626;State
+1983;Africa;523.66026;Continent
+1983;Algeria;20.68098;State
+1983;Angola;7.24054;State
+1983;Benin;3.78904;State
+1983;Botswana;1.00702;State
+1983;Burkina Faso;6.80728;State
+1983;Burundi;4.7052;State
+1983;Cameroon;9.56272;State
+1983;Cape Verde;0.3082;State
+1983;Central African Republic;2.54328;State
+1983;Chad;4.97116;State
+1983;Comoros;0.3572;State
+1983;Congo (Brazzaville);1.82856;State
+1983;Congo (Kinshasa);31.44687;State
+1983;Cote dIvoire (IvoryCoast);9.60646;State
+1983;Djibouti;0.37012;State
+1983;Egypt;47.09303;State
+1983;Equatorial Guinea;0.29958;State
+1983;Ethiopia;43.4599;State
+1983;Gabon;0.77902;State
+1983;Gambia - The;0.73914;State
+1983;Ghana;12.15058;State
+1983;Guinea;4.7344;State
+1983;Guinea-Bissau;0.84501;State
+1983;Kenya;18.34799;State
+1983;Lesotho;1.47148;State
+1983;Liberia;2.03237;State
+1983;Libya;3.48858;State
+1983;Madagascar;9.46302;State
+1983;Malawi;6.88393;State
+1983;Mali;7.21901;State
+1983;Mauritania;1.64759;State
+1983;Mauritius;1.00218;State
+1983;Morocco;20.6794;State
+1983;Mozambique;12.77284;State
+1983;Niger;6.54413;State
+1983;Nigeria;81.16374;State
+1983;Reunion;0.53;State
+1983;Rwanda;5.66317;State
+1983;Saint Helena;0.00675;State
+1983;Sao Tome and Principe;0.10013;State
+1983;Senegal;6.05554;State
+1983;Seychelles;0.06585;State
+1983;Sierra Leone;3.54564;State
+1983;Somalia;6.01035;State
+1983;South Africa;33.27827;State
+1983;Sudan;21.69704;State
+1983;Swaziland;0.67241;State
+1983;Tanzania;20.36842;State
+1983;Togo;2.9175;State
+1983;Tunisia;6.85989;State
+1983;Uganda;13.47039;State
+1983;Western Sahara;0.16568;State
+1983;Zambia;6.28337;State
+1983;Zimbabwe;7.92834;State
+1983;Asia & Oceania;2610.10261;Region
+1983;Afghanistan;12.43058;State
+1983;American Samoa;0.03584;State
+1983;Australia;15.34807;State
+1983;Bangladesh;98.23486;State
+1983;Bhutan;0.49489;State
+1983;Brunei;0.20495;State
+1983;Burma (Myanmar);35.32599;State
+1983;Cambodia;7.53065;State
+1983;China;1028.35653;State
+1983;Cook Islands;0.01749;State
+1983;Fiji;0.67191;State
+1983;French Polynesia;0.16532;State
+1983;Guam;0.11408;State
+1983;Hong Kong;5.3451;State
+1983;India;728.52155;State
+1983;Indonesia;160.44071;State
+1983;Japan;119.26995;State
+1983;Kiribati;0.06025;State
+1983;Korea - North;17.91799;State
+1983;Korea - South;39.91;State
+1983;Laos;3.49496;State
+1983;Macau;0.28545;State
+1983;Malaysia;14.75262;State
+1983;Maldives;0.16685;State
+1983;Mongolia;1.805;State
+1983;Nauru;0.00815;State
+1983;Nepal;15.75685;State
+1983;New Caledonia;0.14658;State
+1983;New Zealand;3.25645;State
+1983;Niue;0.002;State
+1983;Pakistan;96.88143;State
+1983;Papua New Guinea;3.0676;State
+1983;Philippines;54.88541;State
+1983;Samoa;0.16066;State
+1983;Singapore;2.68926;State
+1983;Solomon Islands;0.25535;State
+1983;Sri Lanka;15.78446;State
+1983;Taiwan;18.80339;State
+1983;Thailand;49.69425;State
+1983;Tonga;0.09263;State
+1983;U.S. Pacific Islands;0.15281;State
+1983;Vanuatu;0.12738;State
+1983;Vietnam;57.43635;State
+1983;World;4694.9362;World
+1984;North America;336.72143;Region
+1984;Bermuda;0.05585;State
+1984;Canada;25.7018;State
+1984;Greenland;0.05263;State
+1984;Mexico;75.08014;State
+1984;Saint Pierre and Miquelon;0.00611;State
+1984;United States;235.8249;State
+1984;Central & South America;318.87955;Region
+1984;Antigua and Barbuda;0.06447;State
+1984;Argentina;30.23064;State
+1984;Bahamas - The;0.22462;State
+1984;Barbados;0.25611;State
+1984;Belize;0.16081;State
+1984;Bolivia;5.83429;State
+1984;Brazil;134.69947;State
+1984;Cayman Islands;0.02002;State
+1984;Chile;11.87977;State
+1984;Colombia;29.09546;State
+1984;Costa Rica;2.5676;State
+1984;Cuba;9.97373;State
+1984;Dominica;0.07399;State
+1984;Dominican Republic;6.24155;State
+1984;Ecuador;8.82583;State
+1984;El Salvador;4.59375;State
+1984;Falkland Islands (Islas Malvinas);0.002;State
+1984;French Guiana;0.08;State
+1984;Grenada;0.09274;State
+1984;Guadeloupe;0.35;State
+1984;Guatemala;7.38034;State
+1984;Guyana;0.76207;State
+1984;Haiti;5.98898;State
+1984;Honduras;3.93299;State
+1984;Jamaica;2.31306;State
+1984;Martinique;0.35;State
+1984;Montserrat;0.01144;State
+1984;Netherlands Antilles;0.24385;State
+1984;Nicaragua;3.12177;State
+1984;Panama;2.12346;State
+1984;Paraguay;3.53055;State
+1984;Peru;19.01088;State
+1984;Puerto Rico;3.35004;State
+1984;Saint Kitts and Nevis;0.04309;State
+1984;Saint Lucia;0.12912;State
+1984;Saint Vincent/Grenadines;0.10289;State
+1984;Suriname;0.37426;State
+1984;Trinidad and Tobago;1.16888;State
+1984;Turks and Caicos Islands;0.00891;State
+1984;Uruguay;3.00827;State
+1984;Venezuela;16.54452;State
+1984;Virgin Islands -  U.S.;0.1006;State
+1984;Virgin Islands - British;0.01273;State
+1984;Europe;539.96611;Continent
+1984;Albania;2.896;State
+1984;Austria;7.55413;State
+1984;Belgium;9.8553;State
+1984;Bulgaria;8.92827;State
+1984;Cyprus;0.66797;State
+1984;Denmark;5.11162;State
+1984;Faroe Islands;0.04506;State
+1984;Finland;4.88179;State
+1984;France;55.08925;State
+1984;Germany;71.13;State
+1984;Gibraltar;0.02823;State
+1984;Greece;9.88717;State
+1984;Hungary;10.6681;State
+1984;Iceland;0.2395;State
+1984;Ireland;3.529;State
+1984;Italy;56.71946;State
+1984;Luxembourg;0.36627;State
+1984;Malta;0.35138;State
+1984;Netherlands;14.42002;State
+1984;Norway;4.14009;State
+1984;Poland;36.90413;State
+1984;Portugal;9.88539;State
+1984;Romania;22.45379;State
+1984;Spain;38.36286;State
+1984;Sweden;8.34262;State
+1984;Switzerland;6.55628;State
+1984;Turkey;49.83974;State
+1984;United Kingdom;56.64573;State
+1984;Eurasia;275.30423;Region
+1984;Middle East;109.62352;Region
+1984;Bahrain;0.4083;State
+1984;Iran;46.79208;State
+1984;Iraq;15.16055;State
+1984;Israel;3.99734;State
+1984;Jordan;2.53438;State
+1984;Kuwait;1.63731;State
+1984;Lebanon;3.11544;State
+1984;Oman;1.43812;State
+1984;Qatar;0.32447;State
+1984;Saudi Arabia;12.60694;State
+1984;Syria;10.09494;State
+1984;United Arab Emirates;1.28439;State
+1984;Yemen;10.22927;State
+1984;Africa;538.6777;Continent
+1984;Algeria;21.34055;State
+1984;Angola;7.44245;State
+1984;Benin;3.90705;State
+1984;Botswana;1.0434;State
+1984;Burkina Faso;6.98504;State
+1984;Burundi;4.81683;State
+1984;Cameroon;9.86713;State
+1984;Cape Verde;0.31249;State
+1984;Central African Republic;2.62927;State
+1984;Chad;5.02517;State
+1984;Comoros;0.36603;State
+1984;Congo (Brazzaville);1.88398;State
+1984;Congo (Kinshasa);32.34098;State
+1984;Cote dIvoire (IvoryCoast);9.96343;State
+1984;Djibouti;0.37461;State
+1984;Egypt;48.55016;State
+1984;Equatorial Guinea;0.31464;State
+1984;Ethiopia;44.5123;State
+1984;Gabon;0.80526;State
+1984;Gambia - The;0.764;State
+1984;Ghana;12.83231;State
+1984;Guinea;4.95358;State
+1984;Guinea-Bissau;0.86478;State
+1984;Kenya;19.05021;State
+1984;Lesotho;1.51111;State
+1984;Liberia;2.09577;State
+1984;Libya;3.62917;State
+1984;Madagascar;9.74054;State
+1984;Malawi;7.10435;State
+1984;Mali;7.36021;State
+1984;Mauritania;1.68477;State
+1984;Mauritius;1.01204;State
+1984;Morocco;21.16079;State
+1984;Mozambique;12.92282;State
+1984;Niger;6.70405;State
+1984;Nigeria;82.72429;State
+1984;Reunion;0.54;State
+1984;Rwanda;5.83374;State
+1984;Saint Helena;0.00749;State
+1984;Sao Tome and Principe;0.10212;State
+1984;Senegal;6.2137;State
+1984;Seychelles;0.0665;State
+1984;Sierra Leone;3.62254;State
+1984;Somalia;6.21774;State
+1984;South Africa;34.35109;State
+1984;Sudan;22.40189;State
+1984;Swaziland;0.69634;State
+1984;Tanzania;20.98409;State
+1984;Togo;3.02179;State
+1984;Tunisia;7.18453;State
+1984;Uganda;13.91951;State
+1984;Western Sahara;0.1724;State
+1984;Zambia;6.50548;State
+1984;Zimbabwe;8.24121;State
+1984;Asia & Oceania;2655.88059;Region
+1984;Afghanistan;12.75384;State
+1984;American Samoa;0.03709;State
+1984;Australia;15.51048;State
+1984;Bangladesh;100.27995;State
+1984;Bhutan;0.51189;State
+1984;Brunei;0.21122;State
+1984;Burma (Myanmar);36.03536;State
+1984;Cambodia;7.69058;State
+1984;China;1042.75605;State
+1984;Cook Islands;0.01774;State
+1984;Fiji;0.68557;State
+1984;French Polynesia;0.17028;State
+1984;Guam;0.1173;State
+1984;Hong Kong;5.3979;State
+1984;India;744.01697;State
+1984;Indonesia;163.61264;State
+1984;Japan;120.0347;State
+1984;Kiribati;0.06115;State
+1984;Korea - North;18.196;State
+1984;Korea - South;40.406;State
+1984;Laos;3.57671;State
+1984;Macau;0.29898;State
+1984;Malaysia;15.19792;State
+1984;Maldives;0.1721;State
+1984;Mongolia;1.85569;State
+1984;Nauru;0.00833;State
+1984;Nepal;16.15506;State
+1984;New Caledonia;0.14966;State
+1984;New Zealand;3.29609;State
+1984;Niue;0.002;State
+1984;Pakistan;99.35434;State
+1984;Papua New Guinea;3.1469;State
+1984;Philippines;56.25788;State
+1984;Samoa;0.16066;State
+1984;Singapore;2.7433;State
+1984;Solomon Islands;0.26401;State
+1984;Sri Lanka;15.97692;State
+1984;Taiwan;19.08335;State
+1984;Thailand;50.53378;State
+1984;Tonga;0.09288;State
+1984;U.S. Pacific Islands;0.15825;State
+1984;Vanuatu;0.13103;State
+1984;Vietnam;58.76204;State
+1984;World;4775.05313;World
+1985;North America;340.74811;Region
+1985;Bermuda;0.05618;State
+1985;Canada;25.9416;State
+1985;Greenland;0.05315;State
+1985;Mexico;76.76723;State
+1985;Saint Pierre and Miquelon;0.00616;State
+1985;United States;237.9238;State
+1985;Central & South America;325.22704;Region
+1985;Antigua and Barbuda;0.0644;State
+1985;Argentina;30.67176;State
+1985;Bahamas - The;0.2282;State
+1985;Barbados;0.25725;State
+1985;Belize;0.16556;State
+1985;Bolivia;5.93494;State
+1985;Brazil;137.38198;State
+1985;Cayman Islands;0.02085;State
+1985;Chile;12.0678;State
+1985;Colombia;29.74762;State
+1985;Costa Rica;2.64431;State
+1985;Cuba;10.06563;State
+1985;Dominica;0.07311;State
+1985;Dominican Republic;6.37855;State
+1985;Ecuador;9.06166;State
+1985;El Salvador;4.67105;State
+1985;Falkland Islands (Islas Malvinas);0.002;State
+1985;French Guiana;0.09;State
+1985;Grenada;0.09306;State
+1985;Guadeloupe;0.354;State
+1985;Guatemala;7.58084;State
+1985;Guyana;0.76225;State
+1985;Haiti;6.11992;State
+1985;Honduras;4.07731;State
+1985;Jamaica;2.31818;State
+1985;Martinique;0.353;State
+1985;Montserrat;0.01132;State
+1985;Netherlands Antilles;0.24443;State
+1985;Nicaragua;3.19084;State
+1985;Panama;2.16762;State
+1985;Paraguay;3.63346;State
+1985;Peru;19.43193;State
+1985;Puerto Rico;3.38211;State
+1985;Saint Kitts and Nevis;0.04293;State
+1985;Saint Lucia;0.13101;State
+1985;Saint Vincent/Grenadines;0.10385;State
+1985;Suriname;0.38042;State
+1985;Trinidad and Tobago;1.18903;State
+1985;Turks and Caicos Islands;0.00932;State
+1985;Uruguay;3.0121;State
+1985;Venezuela;16.99751;State
+1985;Virgin Islands -  U.S.;0.10076;State
+1985;Virgin Islands - British;0.01318;State
+1985;Europe;542.38088;Continent
+1985;Albania;2.9567;State
+1985;Austria;7.55978;State
+1985;Belgium;9.8582;State
+1985;Bulgaria;8.94357;State
+1985;Cyprus;0.67922;State
+1985;Denmark;5.11369;State
+1985;Faroe Islands;0.04557;State
+1985;Finland;4.90178;State
+1985;France;55.31477;State
+1985;Germany;70.97;State
+1985;Gibraltar;0.02865;State
+1985;Greece;9.92325;State
+1985;Hungary;10.64871;State
+1985;Iceland;0.2414;State
+1985;Ireland;3.54;State
+1985;Italy;56.7538;State
+1985;Luxembourg;0.36717;State
+1985;Malta;0.34704;State
+1985;Netherlands;14.49138;State
+1985;Norway;4.15242;State
+1985;Poland;37.22579;State
+1985;Portugal;9.89719;State
+1985;Romania;22.5212;State
+1985;Spain;38.53485;State
+1985;Sweden;8.35634;State
+1985;Switzerland;6.59065;State
+1985;Turkey;50.99701;State
+1985;United Kingdom;56.79629;State
+1985;Eurasia;277.78052;Region
+1985;Middle East;113.89203;Region
+1985;Bahrain;0.42399;State
+1985;Iran;48.61894;State
+1985;Iraq;15.69362;State
+1985;Israel;4.06847;State
+1985;Jordan;2.63036;State
+1985;Kuwait;1.73282;State
+1985;Lebanon;3.17096;State
+1985;Oman;1.49723;State
+1985;Qatar;0.35603;State
+1985;Saudi Arabia;13.33007;State
+1985;Syria;10.46614;State
+1985;United Arab Emirates;1.36348;State
+1985;Yemen;10.53993;State
+1985;Africa;553.7385;Continent
+1985;Algeria;22.00845;State
+1985;Angola;7.58471;State
+1985;Benin;4.03048;State
+1985;Botswana;1.07969;State
+1985;Burkina Faso;7.17093;State
+1985;Burundi;4.92176;State
+1985;Cameroon;10.19137;State
+1985;Cape Verde;0.31689;State
+1985;Central African Republic;2.71415;State
+1985;Chad;5.06604;State
+1985;Comoros;0.3753;State
+1985;Congo (Brazzaville);1.94177;State
+1985;Congo (Kinshasa);33.34422;State
+1985;Cote dIvoire (IvoryCoast);10.33168;State
+1985;Djibouti;0.38222;State
+1985;Egypt;50.05238;State
+1985;Equatorial Guinea;0.32519;State
+1985;Ethiopia;45.16862;State
+1985;Gabon;0.83304;State
+1985;Gambia - The;0.79055;State
+1985;Ghana;13.22862;State
+1985;Guinea;5.22674;State
+1985;Guinea-Bissau;0.88506;State
+1985;Kenya;19.76149;State
+1985;Lesotho;1.55164;State
+1985;Liberia;2.16175;State
+1985;Libya;3.68003;State
+1985;Madagascar;10.02863;State
+1985;Malawi;7.33001;State
+1985;Mali;7.5062;State
+1985;Mauritania;1.72347;State
+1985;Mauritius;1.02054;State
+1985;Morocco;21.64379;State
+1985;Mozambique;13.0626;State
+1985;Niger;6.86921;State
+1985;Nigeria;84.88938;State
+1985;Reunion;0.55;State
+1985;Rwanda;5.98659;State
+1985;Saint Helena;0.00794;State
+1985;Sao Tome and Principe;0.10419;State
+1985;Senegal;6.37841;State
+1985;Seychelles;0.06718;State
+1985;Sierra Leone;3.70309;State
+1985;Somalia;6.45854;State
+1985;South Africa;35.45826;State
+1985;Sudan;23.14525;State
+1985;Swaziland;0.72157;State
+1985;Tanzania;21.61843;State
+1985;Togo;3.12943;State
+1985;Tunisia;7.3637;State
+1985;Uganda;14.39174;State
+1985;Western Sahara;0.17933;State
+1985;Zambia;6.71579;State
+1985;Zimbabwe;8.56049;State
+1985;Asia & Oceania;2702.75408;Region
+1985;Afghanistan;13.09371;State
+1985;American Samoa;0.03863;State
+1985;Australia;15.69524;State
+1985;Bangladesh;102.30835;State
+1985;Bhutan;0.5292;State
+1985;Brunei;0.21784;State
+1985;Burma (Myanmar);36.76587;State
+1985;Cambodia;7.84124;State
+1985;China;1058.00772;State
+1985;Cook Islands;0.01749;State
+1985;Fiji;0.69894;State
+1985;French Polynesia;0.17541;State
+1985;Guam;0.12062;State
+1985;Hong Kong;5.4562;State
+1985;India;759.61221;State
+1985;Indonesia;166.77028;State
+1985;Japan;120.75434;State
+1985;Kiribati;0.06203;State
+1985;Korea - North;18.48142;State
+1985;Korea - South;40.806;State
+1985;Laos;3.65717;State
+1985;Macau;0.30584;State
+1985;Malaysia;15.64911;State
+1985;Maldives;0.1773;State
+1985;Mongolia;1.9077;State
+1985;Nauru;0.00852;State
+1985;Nepal;16.56998;State
+1985;New Caledonia;0.15259;State
+1985;New Zealand;3.32181;State
+1985;Niue;0.002;State
+1985;Pakistan;102.07865;State
+1985;Papua New Guinea;3.22893;State
+1985;Philippines;57.70569;State
+1985;Samoa;0.16074;State
+1985;Singapore;2.7499;State
+1985;Solomon Islands;0.27293;State
+1985;Sri Lanka;16.18811;State
+1985;Taiwan;19.33736;State
+1985;Thailand;51.34181;State
+1985;Tonga;0.09335;State
+1985;U.S. Pacific Islands;0.16406;State
+1985;Vanuatu;0.13473;State
+1985;Vietnam;60.09307;State
+1985;World;4856.52116;World
+1986;North America;344.89548;Region
+1986;Bermuda;0.05651;State
+1986;Canada;26.2038;State
+1986;Greenland;0.05364;State
+1986;Mexico;78.44243;State
+1986;Saint Pierre and Miquelon;0.00621;State
+1986;United States;240.13289;State
+1986;Central & South America;331.82291;Region
+1986;Antigua and Barbuda;0.0644;State
+1986;Argentina;31.14499;State
+1986;Bahamas - The;0.23143;State
+1986;Barbados;0.25827;State
+1986;Belize;0.17124;State
+1986;Bolivia;6.04135;State
+1986;Brazil;140.19628;State
+1986;Cayman Islands;0.02144;State
+1986;Chile;12.261;State
+1986;Colombia;30.41039;State
+1986;Costa Rica;2.72338;State
+1986;Cuba;10.14438;State
+1986;Dominica;0.07238;State
+1986;Dominican Republic;6.51682;State
+1986;Ecuador;9.30108;State
+1986;El Salvador;4.75832;State
+1986;Falkland Islands (Islas Malvinas);0.002;State
+1986;French Guiana;0.09;State
+1986;Grenada;0.09355;State
+1986;Guadeloupe;0.358;State
+1986;Guatemala;7.82;State
+1986;Guyana;0.76338;State
+1986;Haiti;6.25386;State
+1986;Honduras;4.22692;State
+1986;Jamaica;2.32255;State
+1986;Martinique;0.357;State
+1986;Montserrat;0.01121;State
+1986;Netherlands Antilles;0.18433;State
+1986;Nicaragua;3.26371;State
+1986;Panama;2.21216;State
+1986;Paraguay;3.7399;State
+1986;Peru;19.85549;State
+1986;Puerto Rico;3.4133;State
+1986;Saint Kitts and Nevis;0.04273;State
+1986;Saint Lucia;0.13271;State
+1986;Saint Vincent/Grenadines;0.10476;State
+1986;Suriname;0.38489;State
+1986;Trinidad and Tobago;1.20833;State
+1986;Turks and Caicos Islands;0.00973;State
+1986;Uruguay;3.03081;State
+1986;Venezuela;17.45016;State
+1986;Virgin Islands -  U.S.;0.10084;State
+1986;Virgin Islands - British;0.01363;State
+1986;Europe;544.93264;Continent
+1986;Albania;3.01544;State
+1986;Austria;7.56824;State
+1986;Belgium;9.8618;State
+1986;Bulgaria;8.95877;State
+1986;Cyprus;0.69043;State
+1986;Denmark;5.12053;State
+1986;Faroe Islands;0.04605;State
+1986;Finland;4.91739;State
+1986;France;55.5418;State
+1986;Germany;71.01;State
+1986;Gibraltar;0.02907;State
+1986;Greece;9.95137;State
+1986;Hungary;10.63056;State
+1986;Iceland;0.243;State
+1986;Ireland;3.5405;State
+1986;Italy;56.7566;State
+1986;Luxembourg;0.36902;State
+1986;Malta;0.34663;State
+1986;Netherlands;14.57188;State
+1986;Norway;4.1666;State
+1986;Poland;37.50428;State
+1986;Portugal;9.90741;State
+1986;Romania;22.59968;State
+1986;Spain;38.70756;State
+1986;Sweden;8.38407;State
+1986;Switzerland;6.63043;State
+1986;Turkey;52.12734;State
+1986;United Kingdom;56.96793;State
+1986;Eurasia;280.2583;Region
+1986;Middle East;118.1603;Region
+1986;Bahrain;0.43962;State
+1986;Iran;50.46435;State
+1986;Iraq;16.24734;State
+1986;Israel;4.13968;State
+1986;Jordan;2.7275;State
+1986;Kuwait;1.81154;State
+1986;Lebanon;3.22558;State
+1986;Oman;1.55439;State
+1986;Qatar;0.38726;State
+1986;Saudi Arabia;13.9983;State
+1986;Syria;10.84857;State
+1986;United Arab Emirates;1.44657;State
+1986;Yemen;10.86958;State
+1986;Africa;569.05927;Continent
+1986;Algeria;22.64254;State
+1986;Angola;7.74863;State
+1986;Benin;4.15785;State
+1986;Botswana;1.11576;State
+1986;Burkina Faso;7.3711;State
+1986;Burundi;5.01886;State
+1986;Cameroon;10.53015;State
+1986;Cape Verde;0.32134;State
+1986;Central African Republic;2.77536;State
+1986;Chad;5.2142;State
+1986;Comoros;0.38505;State
+1986;Congo (Brazzaville);2.00214;State
+1986;Congo (Kinshasa);34.37623;State
+1986;Cote dIvoire (IvoryCoast);10.71206;State
+1986;Djibouti;0.39651;State
+1986;Egypt;51.59343;State
+1986;Equatorial Guinea;0.33365;State
+1986;Ethiopia;45.98822;State
+1986;Gabon;0.85945;State
+1986;Gambia - The;0.81876;State
+1986;Ghana;13.78192;State
+1986;Guinea;5.39433;State
+1986;Guinea-Bissau;0.90593;State
+1986;Kenya;20.47712;State
+1986;Lesotho;1.5866;State
+1986;Liberia;2.23038;State
+1986;Libya;3.70454;State
+1986;Madagascar;10.32739;State
+1986;Malawi;7.60855;State
+1986;Mali;7.65726;State
+1986;Mauritania;1.76368;State
+1986;Mauritius;1.02823;State
+1986;Morocco;22.12744;State
+1986;Mozambique;13.14302;State
+1986;Niger;7.03981;State
+1986;Nigeria;87.09224;State
+1986;Reunion;0.56;State
+1986;Rwanda;6.16171;State
+1986;Saint Helena;0.00831;State
+1986;Sao Tome and Principe;0.10635;State
+1986;Senegal;6.54979;State
+1986;Seychelles;0.06784;State
+1986;Sierra Leone;3.78739;State
+1986;Somalia;6.71493;State
+1986;South Africa;36.34173;State
+1986;Sudan;23.78422;State
+1986;Swaziland;0.74942;State
+1986;Tanzania;22.28417;State
+1986;Togo;3.24072;State
+1986;Tunisia;7.54708;State
+1986;Uganda;14.91072;State
+1986;Western Sahara;0.18648;State
+1986;Zambia;6.95192;State
+1986;Zimbabwe;8.87678;State
+1986;Asia & Oceania;2751.06581;Region
+1986;Afghanistan;13.08496;State
+1986;American Samoa;0.04016;State
+1986;Australia;15.90042;State
+1986;Bangladesh;104.34543;State
+1986;Bhutan;0.54681;State
+1986;Brunei;0.22473;State
+1986;Burma (Myanmar);37.51768;State
+1986;Cambodia;8.10142;State
+1986;China;1074.52256;State
+1986;Cook Islands;0.01765;State
+1986;Fiji;0.71299;State
+1986;French Polynesia;0.18064;State
+1986;Guam;0.12288;State
+1986;Hong Kong;5.5246;State
+1986;India;775.06324;State
+1986;Indonesia;169.89552;State
+1986;Japan;121.49191;State
+1986;Kiribati;0.06377;State
+1986;Korea - North;18.77246;State
+1986;Korea - South;41.214;State
+1986;Laos;3.76177;State
+1986;Macau;0.3122;State
+1986;Malaysia;16.11117;State
+1986;Maldives;0.18461;State
+1986;Mongolia;1.9608;State
+1986;Nauru;0.00871;State
+1986;Nepal;17.00221;State
+1986;New Caledonia;0.15558;State
+1986;New Zealand;3.33863;State
+1986;Niue;0.002;State
+1986;Pakistan;105.23962;State
+1986;Papua New Guinea;3.31375;State
+1986;Philippines;59.18595;State
+1986;Samoa;0.16086;State
+1986;Singapore;2.75007;State
+1986;Solomon Islands;0.28212;State
+1986;Sri Lanka;16.42379;State
+1986;Taiwan;19.55558;State
+1986;Thailand;52.12948;State
+1986;Tonga;0.09374;State
+1986;U.S. Pacific Islands;0.17104;State
+1986;Vanuatu;0.13848;State
+1986;Vietnam;61.43983;State
+1986;World;4940.1947;World
+1987;North America;349.07829;Region
+1987;Bermuda;0.05683;State
+1987;Canada;26.5497;State
+1987;Greenland;0.0541;State
+1987;Mexico;80.12249;State
+1987;Saint Pierre and Miquelon;0.00625;State
+1987;United States;242.28892;State
+1987;Central & South America;338.59859;Region
+1987;Antigua and Barbuda;0.06442;State
+1987;Argentina;31.62462;State
+1987;Bahamas - The;0.23448;State
+1987;Barbados;0.25912;State
+1987;Belize;0.17635;State
+1987;Bolivia;6.15637;State
+1987;Brazil;143.02654;State
+1987;Cayman Islands;0.02207;State
+1987;Chile;12.46452;State
+1987;Colombia;31.0853;State
+1987;Costa Rica;2.79934;State
+1987;Cuba;10.21682;State
+1987;Dominica;0.07182;State
+1987;Dominican Republic;6.65696;State
+1987;Ecuador;9.54516;State
+1987;El Salvador;4.85014;State
+1987;Falkland Islands (Islas Malvinas);0.002;State
+1987;French Guiana;0.1;State
+1987;Grenada;0.09406;State
+1987;Guadeloupe;0.363;State
+1987;Guatemala;8.15988;State
+1987;Guyana;0.76496;State
+1987;Haiti;6.38967;State
+1987;Honduras;4.37326;State
+1987;Jamaica;2.32587;State
+1987;Martinique;0.361;State
+1987;Montserrat;0.01109;State
+1987;Netherlands Antilles;0.18567;State
+1987;Nicaragua;3.34537;State
+1987;Panama;2.25674;State
+1987;Paraguay;3.84989;State
+1987;Peru;20.28036;State
+1987;Puerto Rico;3.44447;State
+1987;Saint Kitts and Nevis;0.04248;State
+1987;Saint Lucia;0.13418;State
+1987;Saint Vincent/Grenadines;0.1055;State
+1987;Suriname;0.38662;State
+1987;Trinidad and Tobago;1.22499;State
+1987;Turks and Caicos Islands;0.01016;State
+1987;Uruguay;3.04899;State
+1987;Venezuela;17.91018;State
+1987;Virgin Islands -  U.S.;0.1009;State
+1987;Virgin Islands - British;0.0141;State
+1987;Europe;547.46078;Continent
+1987;Albania;3.07532;State
+1987;Austria;7.5789;State
+1987;Belgium;9.8702;State
+1987;Bulgaria;8.97196;State
+1987;Cyprus;0.70162;State
+1987;Denmark;5.12702;State
+1987;Faroe Islands;0.04668;State
+1987;Finland;4.93173;State
+1987;France;55.78574;State
+1987;Germany;71.09;State
+1987;Gibraltar;0.02953;State
+1987;Greece;9.97449;State
+1987;Hungary;10.61274;State
+1987;Iceland;0.24468;State
+1987;Ireland;3.5399;State
+1987;Italy;56.75266;State
+1987;Luxembourg;0.37166;State
+1987;Malta;0.34905;State
+1987;Netherlands;14.66528;State
+1987;Norway;4.18615;State
+1987;Poland;37.74071;State
+1987;Portugal;9.91529;State
+1987;Romania;22.68637;State
+1987;Spain;38.8807;State
+1987;Sweden;8.4214;State
+1987;Switzerland;6.67749;State
+1987;Turkey;53.24267;State
+1987;United Kingdom;57.14729;State
+1987;Eurasia;282.67508;Region
+1987;Middle East;122.16299;Region
+1987;Bahrain;0.45471;State
+1987;Iran;52.34019;State
+1987;Iraq;16.54319;State
+1987;Israel;4.21038;State
+1987;Jordan;2.8239;State
+1987;Kuwait;1.89154;State
+1987;Lebanon;3.27798;State
+1987;Oman;1.61167;State
+1987;Qatar;0.39695;State
+1987;Saudi Arabia;14.61975;State
+1987;Syria;11.24297;State
+1987;United Arab Emirates;1.53044;State
+1987;Yemen;11.21934;State
+1987;Africa;584.06285;Continent
+1987;Algeria;23.25496;State
+1987;Angola;7.8784;State
+1987;Benin;4.28791;State
+1987;Botswana;1.15201;State
+1987;Burkina Faso;7.59181;State
+1987;Burundi;5.14452;State
+1987;Cameroon;10.8671;State
+1987;Cape Verde;0.32587;State
+1987;Central African Republic;2.84088;State
+1987;Chad;5.39152;State
+1987;Comoros;0.39528;State
+1987;Congo (Brazzaville);2.06497;State
+1987;Congo (Kinshasa);35.48216;State
+1987;Cote dIvoire (IvoryCoast);11.10527;State
+1987;Djibouti;0.40946;State
+1987;Egypt;52.3751;State
+1987;Equatorial Guinea;0.34247;State
+1987;Ethiopia;47.22622;State
+1987;Gabon;0.88092;State
+1987;Gambia - The;0.8487;State
+1987;Ghana;14.17388;State
+1987;Guinea;5.52841;State
+1987;Guinea-Bissau;0.92741;State
+1987;Kenya;21.19578;State
+1987;Lesotho;1.61569;State
+1987;Liberia;2.30176;State
+1987;Libya;3.80514;State
+1987;Madagascar;10.63688;State
+1987;Malawi;8.05274;State
+1987;Mali;7.81357;State
+1987;Mauritania;1.80539;State
+1987;Mauritius;1.03627;State
+1987;Morocco;22.61059;State
+1987;Mozambique;12.89485;State
+1987;Niger;7.21596;State
+1987;Nigeria;89.40502;State
+1987;Reunion;0.57;State
+1987;Rwanda;6.3728;State
+1987;Saint Helena;0.00654;State
+1987;Sao Tome and Principe;0.1086;State
+1987;Senegal;6.72784;State
+1987;Seychelles;0.06846;State
+1987;Sierra Leone;3.87558;State
+1987;Somalia;6.93908;State
+1987;South Africa;37.22598;State
+1987;Sudan;24.2799;State
+1987;Swaziland;0.77759;State
+1987;Tanzania;23.01672;State
+1987;Togo;3.35592;State
+1987;Tunisia;7.72802;State
+1987;Uganda;15.52009;State
+1987;Western Sahara;0.19385;State
+1987;Zambia;7.19455;State
+1987;Zimbabwe;9.21648;State
+1987;Asia & Oceania;2802.31491;Region
+1987;Afghanistan;12.99949;State
+1987;American Samoa;0.04188;State
+1987;Australia;16.13672;State
+1987;Bangladesh;106.38194;State
+1987;Bhutan;0.56472;State
+1987;Brunei;0.23182;State
+1987;Burma (Myanmar);38.28766;State
+1987;Cambodia;8.40395;State
+1987;China;1093.72571;State
+1987;Cook Islands;0.01767;State
+1987;Fiji;0.71967;State
+1987;French Polynesia;0.18584;State
+1987;Guam;0.12572;State
+1987;Hong Kong;5.58451;State
+1987;India;790.64043;State
+1987;Indonesia;173.01546;State
+1987;Japan;122.09133;State
+1987;Kiribati;0.06559;State
+1987;Korea - North;19.06755;State
+1987;Korea - South;41.622;State
+1987;Laos;3.86931;State
+1987;Macau;0.32298;State
+1987;Malaysia;16.5789;State
+1987;Maldives;0.19221;State
+1987;Mongolia;2.01513;State
+1987;Nauru;0.00891;State
+1987;Nepal;17.45269;State
+1987;New Caledonia;0.15873;State
+1987;New Zealand;3.35049;State
+1987;Niue;0.002;State
+1987;Pakistan;108.58408;State
+1987;Papua New Guinea;3.40147;State
+1987;Philippines;60.64811;State
+1987;Samoa;0.1611;State
+1987;Singapore;2.79455;State
+1987;Solomon Islands;0.29154;State
+1987;Sri Lanka;16.66312;State
+1987;Taiwan;19.7578;State
+1987;Thailand;52.91034;State
+1987;Tonga;0.094;State
+1987;U.S. Pacific Islands;0.17903;State
+1987;Vanuatu;0.14227;State
+1987;Vietnam;62.82649;State
+1987;World;5026.35348;World
+1988;North America;353.2939;Region
+1988;Bermuda;0.05717;State
+1988;Canada;26.8948;State
+1988;Greenland;0.05485;State
+1988;Mexico;81.78182;State
+1988;Saint Pierre and Miquelon;0.00628;State
+1988;United States;244.49898;State
+1988;Central & South America;345.44544;Region
+1988;Antigua and Barbuda;0.06443;State
+1988;Argentina;32.09932;State
+1988;Bahamas - The;0.23771;State
+1988;Barbados;0.25995;State
+1988;Belize;0.1814;State
+1988;Bolivia;6.28316;State
+1988;Brazil;145.87275;State
+1988;Cayman Islands;0.0245;State
+1988;Chile;12.67869;State
+1988;Colombia;31.77087;State
+1988;Costa Rica;2.87412;State
+1988;Cuba;10.30552;State
+1988;Dominica;0.07134;State
+1988;Dominican Republic;6.79877;State
+1988;Ecuador;9.79412;State
+1988;El Salvador;4.93899;State
+1988;Falkland Islands (Islas Malvinas);0.002;State
+1988;French Guiana;0.11;State
+1988;Grenada;0.09429;State
+1988;Guadeloupe;0.367;State
+1988;Guatemala;8.49582;State
+1988;Guyana;0.76655;State
+1988;Haiti;6.51878;State
+1988;Honduras;4.51498;State
+1988;Jamaica;2.32943;State
+1988;Martinique;0.365;State
+1988;Montserrat;0.01097;State
+1988;Netherlands Antilles;0.18669;State
+1988;Nicaragua;3.43506;State
+1988;Panama;2.30168;State
+1988;Paraguay;3.96344;State
+1988;Peru;20.71066;State
+1988;Puerto Rico;3.47499;State
+1988;Saint Kitts and Nevis;0.04219;State
+1988;Saint Lucia;0.1355;State
+1988;Saint Vincent/Grenadines;0.10614;State
+1988;Suriname;0.38856;State
+1988;Trinidad and Tobago;1.23838;State
+1988;Turks and Caicos Islands;0.01061;State
+1988;Uruguay;3.0675;State
+1988;Venezuela;18.37853;State
+1988;Virgin Islands -  U.S.;0.10095;State
+1988;Virgin Islands - British;0.01462;State
+1988;Europe;550.04403;Continent
+1988;Albania;3.13684;State
+1988;Austria;7.59979;State
+1988;Belgium;9.884;State
+1988;Bulgaria;8.98203;State
+1988;Cyprus;0.71303;State
+1988;Denmark;5.12952;State
+1988;Faroe Islands;0.04709;State
+1988;Finland;4.94663;State
+1988;France;56.04352;State
+1988;Germany;71.42;State
+1988;Gibraltar;0.03003;State
+1988;Greece;9.98272;State
+1988;Hungary;10.4425;State
+1988;Iceland;0.24989;State
+1988;Ireland;3.5296;State
+1988;Italy;56.75707;State
+1988;Luxembourg;0.37562;State
+1988;Malta;0.35195;State
+1988;Netherlands;14.76134;State
+1988;Norway;4.20873;State
+1988;Poland;37.86684;State
+1988;Portugal;9.92061;State
+1988;Romania;22.7689;State
+1988;Spain;39.05388;State
+1988;Sweden;8.46934;State
+1988;Switzerland;6.73194;State
+1988;Turkey;54.35553;State
+1988;United Kingdom;57.31941;State
+1988;Eurasia;284.97091;Region
+1988;Middle East;126.3694;Region
+1988;Bahrain;0.4696;State
+1988;Iran;54.17826;State
+1988;Iraq;17.04056;State
+1988;Israel;4.28204;State
+1988;Jordan;2.92078;State
+1988;Kuwait;1.9732;State
+1988;Lebanon;3.32778;State
+1988;Oman;1.67076;State
+1988;Qatar;0.41346;State
+1988;Saudi Arabia;15.23313;State
+1988;Syria;11.64601;State
+1988;United Arab Emirates;1.62275;State
+1988;Yemen;11.59107;State
+1988;Africa;599.18529;Continent
+1988;Algeria;23.88077;State
+1988;Angola;8.02339;State
+1988;Benin;4.42211;State
+1988;Botswana;1.18894;State
+1988;Burkina Faso;7.83349;State
+1988;Burundi;5.27884;State
+1988;Cameroon;11.20098;State
+1988;Cape Verde;0.3305;State
+1988;Central African Republic;2.91718;State
+1988;Chad;5.55634;State
+1988;Comoros;0.40603;State
+1988;Congo (Brazzaville);2.13006;State
+1988;Congo (Kinshasa);36.62816;State
+1988;Cote dIvoire (IvoryCoast);11.51174;State
+1988;Djibouti;0.41715;State
+1988;Egypt;53.16221;State
+1988;Equatorial Guinea;0.35165;State
+1988;Ethiopia;48.67474;State
+1988;Gabon;0.89974;State
+1988;Gambia - The;0.88042;State
+1988;Ghana;14.57413;State
+1988;Guinea;5.66683;State
+1988;Guinea-Bissau;0.94954;State
+1988;Kenya;21.91587;State
+1988;Lesotho;1.64484;State
+1988;Liberia;2.37595;State
+1988;Libya;3.91898;State
+1988;Madagascar;10.95734;State
+1988;Malawi;8.58662;State
+1988;Mali;7.97719;State
+1988;Mauritania;1.8485;State
+1988;Mauritius;1.04494;State
+1988;Morocco;23.08648;State
+1988;Mozambique;12.52301;State
+1988;Niger;7.39913;State
+1988;Nigeria;91.76042;State
+1988;Reunion;0.57;State
+1988;Rwanda;6.59722;State
+1988;Saint Helena;0.00659;State
+1988;Sao Tome and Principe;0.11094;State
+1988;Senegal;6.91257;State
+1988;Seychelles;0.0692;State
+1988;Sierra Leone;3.96778;State
+1988;Somalia;6.91829;State
+1988;South Africa;38.12772;State
+1988;Sudan;24.67247;State
+1988;Swaziland;0.81499;State
+1988;Tanzania;23.76376;State
+1988;Togo;3.47514;State
+1988;Tunisia;7.89856;State
+1988;Uganda;16.17642;State
+1988;Western Sahara;0.20143;State
+1988;Zambia;7.41797;State
+1988;Zimbabwe;9.56005;State
+1988;Asia & Oceania;2853.88173;Region
+1988;Afghanistan;13.09382;State
+1988;American Samoa;0.04362;State
+1988;Australia;16.40073;State
+1988;Bangladesh;108.37452;State
+1988;Bhutan;0.58289;State
+1988;Brunei;0.23888;State
+1988;Burma (Myanmar);39.02532;State
+1988;Cambodia;8.71641;State
+1988;China;1112.86641;State
+1988;Cook Islands;0.01791;State
+1988;Fiji;0.72637;State
+1988;French Polynesia;0.19117;State
+1988;Guam;0.12755;State
+1988;Hong Kong;5.62841;State
+1988;India;806.3794;State
+1988;Indonesia;176.16566;State
+1988;Japan;122.613;State
+1988;Kiribati;0.06748;State
+1988;Korea - North;19.37114;State
+1988;Korea - South;42.031;State
+1988;Laos;3.97988;State
+1988;Macau;0.33214;State
+1988;Malaysia;17.05511;State
+1988;Maldives;0.20008;State
+1988;Mongolia;2.07072;State
+1988;Nauru;0.0091;State
+1988;Nepal;17.92208;State
+1988;New Caledonia;0.16194;State
+1988;New Zealand;3.35931;State
+1988;Niue;0.002;State
+1988;Pakistan;112.02109;State
+1988;Papua New Guinea;3.49213;State
+1988;Philippines;62.08071;State
+1988;Samoa;0.16152;State
+1988;Singapore;2.86927;State
+1988;Solomon Islands;0.30118;State
+1988;Sri Lanka;16.90308;State
+1988;Taiwan;19.9761;State
+1988;Thailand;53.68343;State
+1988;Tonga;0.09332;State
+1988;U.S. Pacific Islands;0.18841;State
+1988;Vanuatu;0.14612;State
+1988;Vietnam;64.21135;State
+1988;World;5113.1907;World
+1989;North America;357.68457;Region
+1989;Bermuda;0.05749;State
+1989;Canada;27.3793;State
+1989;Greenland;0.05541;State
+1989;Mexico;83.36684;State
+1989;Saint Pierre and Miquelon;0.00631;State
+1989;United States;246.81923;State
+1989;Central & South America;352.20471;Region
+1989;Antigua and Barbuda;0.06439;State
+1989;Argentina;32.57162;State
+1989;Bahamas - The;0.24124;State
+1989;Barbados;0.26109;State
+1989;Belize;0.18643;State
+1989;Bolivia;6.42314;State
+1989;Brazil;148.65864;State
+1989;Cayman Islands;0.02507;State
+1989;Chile;12.90232;State
+1989;Colombia;32.46085;State
+1989;Costa Rica;2.94989;State
+1989;Cuba;10.4079;State
+1989;Dominica;0.07051;State
+1989;Dominican Republic;6.94187;State
+1989;Ecuador;10.04822;State
+1989;El Salvador;5.02478;State
+1989;Falkland Islands (Islas Malvinas);0.002;State
+1989;French Guiana;0.11;State
+1989;Grenada;0.0943;State
+1989;Guadeloupe;0.38;State
+1989;Guatemala;8.73058;State
+1989;Guyana;0.7686;State
+1989;Haiti;6.65269;State
+1989;Honduras;4.65602;State
+1989;Jamaica;2.33666;State
+1989;Martinique;0.369;State
+1989;Montserrat;0.01085;State
+1989;Netherlands Antilles;0.18763;State
+1989;Nicaragua;3.53193;State
+1989;Panama;2.3472;State
+1989;Paraguay;4.08056;State
+1989;Peru;21.1507;State
+1989;Puerto Rico;3.5056;State
+1989;Saint Kitts and Nevis;0.04192;State
+1989;Saint Lucia;0.1365;State
+1989;Saint Vincent/Grenadines;0.10675;State
+1989;Suriname;0.39255;State
+1989;Trinidad and Tobago;1.24816;State
+1989;Turks and Caicos Islands;0.01106;State
+1989;Uruguay;3.0879;State
+1989;Venezuela;18.85072;State
+1989;Virgin Islands -  U.S.;0.10104;State
+1989;Virgin Islands - British;0.01514;State
+1989;Europe;553.34384;Continent
+1989;Albania;3.1958;State
+1989;Austria;7.62786;State
+1989;Belgium;9.9377;State
+1989;Bulgaria;8.99006;State
+1989;Cyprus;0.72686;State
+1989;Denmark;5.13259;State
+1989;Faroe Islands;0.04728;State
+1989;Finland;4.96244;State
+1989;France;56.58272;State
+1989;Germany;77.99;State
+1989;Gibraltar;0.03042;State
+1989;Greece;10.03077;State
+1989;Hungary;10.39796;State
+1989;Iceland;0.25275;State
+1989;Ireland;3.5132;State
+1989;Italy;56.76072;State
+1989;Luxembourg;0.37762;State
+1989;Malta;0.35532;State
+1989;Netherlands;14.84891;State
+1989;Norway;4.22614;State
+1989;Poland;37.97016;State
+1989;Portugal;9.92315;State
+1989;Romania;22.85212;State
+1989;Spain;39.21452;State
+1989;Sweden;8.52628;State
+1989;Switzerland;6.79173;State
+1989;Turkey;55.46248;State
+1989;United Kingdom;57.47839;State
+1989;Eurasia;286.40742;Region
+1989;Middle East;130.54699;Region
+1989;Bahrain;0.48494;State
+1989;Iran;55.92667;State
+1989;Iraq;17.57254;State
+1989;Israel;4.35535;State
+1989;Jordan;3.0235;State
+1989;Kuwait;2.05683;State
+1989;Lebanon;3.37448;State
+1989;Oman;1.73179;State
+1989;Qatar;0.43016;State
+1989;Saudi Arabia;15.82936;State
+1989;Syria;12.05294;State
+1989;United Arab Emirates;1.72206;State
+1989;Yemen;11.98639;State
+1989;Africa;614.7485;Continent
+1989;Algeria;24.49631;State
+1989;Angola;8.15384;State
+1989;Benin;4.56116;State
+1989;Botswana;1.22652;State
+1989;Burkina Faso;8.09154;State
+1989;Burundi;5.40437;State
+1989;Cameroon;11.54012;State
+1989;Cape Verde;0.33517;State
+1989;Central African Republic;2.99987;State
+1989;Chad;5.71491;State
+1989;Comoros;0.41731;State
+1989;Congo (Brazzaville);2.19717;State
+1989;Congo (Kinshasa);37.80413;State
+1989;Cote dIvoire (IvoryCoast);11.93065;State
+1989;Djibouti;0.44245;State
+1989;Egypt;53.94841;State
+1989;Equatorial Guinea;0.36119;State
+1989;Ethiopia;50.12821;State
+1989;Gabon;0.91884;State
+1989;Gambia - The;0.91399;State
+1989;Ghana;14.98276;State
+1989;Guinea;5.80969;State
+1989;Guinea-Bissau;0.97239;State
+1989;Kenya;22.63477;State
+1989;Lesotho;1.67402;State
+1989;Liberia;2.45297;State
+1989;Libya;4.03295;State
+1989;Madagascar;11.28916;State
+1989;Malawi;9.09083;State
+1989;Mali;8.15635;State
+1989;Mauritania;1.88583;State
+1989;Mauritius;1.0534;State
+1989;Morocco;23.5498;State
+1989;Mozambique;12.4821;State
+1989;Niger;7.60756;State
+1989;Nigeria;94.15965;State
+1989;Reunion;0.59;State
+1989;Rwanda;6.81686;State
+1989;Saint Helena;0.00663;State
+1989;Sao Tome and Principe;0.11338;State
+1989;Senegal;7.12729;State
+1989;Seychelles;0.07001;State
+1989;Sierra Leone;4.06415;State
+1989;Somalia;6.76633;State
+1989;South Africa;39.04797;State
+1989;Sudan;25.19269;State
+1989;Swaziland;0.8493;State
+1989;Tanzania;24.48489;State
+1989;Togo;3.59714;State
+1989;Tunisia;8.05669;State
+1989;Uganda;16.83238;State
+1989;Western Sahara;0.20926;State
+1989;Zambia;7.63494;State
+1989;Zimbabwe;9.8682;State
+1989;Asia & Oceania;2904.74454;Region
+1989;Afghanistan;13.40714;State
+1989;American Samoa;0.04538;State
+1989;Australia;16.6806;State
+1989;Bangladesh;110.31623;State
+1989;Bhutan;0.59961;State
+1989;Brunei;0.24585;State
+1989;Burma (Myanmar);39.73446;State
+1989;Cambodia;9.03814;State
+1989;China;1130.72941;State
+1989;Cook Islands;0.01815;State
+1989;Fiji;0.73303;State
+1989;French Polynesia;0.19654;State
+1989;Guam;0.13095;State
+1989;Hong Kong;5.66072;State
+1989;India;822.21883;State
+1989;Indonesia;179.33997;State
+1989;Japan;123.1075;State
+1989;Kiribati;0.06939;State
+1989;Korea - North;19.68791;State
+1989;Korea - South;42.449;State
+1989;Laos;4.09357;State
+1989;Macau;0.34124;State
+1989;Malaysia;17.47198;State
+1989;Maldives;0.2082;State
+1989;Mongolia;2.1606;State
+1989;Nauru;0.0093;State
+1989;Nepal;18.41093;State
+1989;New Caledonia;0.16512;State
+1989;New Zealand;3.37554;State
+1989;Niue;0.002;State
+1989;Pakistan;115.41922;State
+1989;Papua New Guinea;3.58588;State
+1989;Philippines;63.55467;State
+1989;Samoa;0.1621;State
+1989;Singapore;2.95775;State
+1989;Solomon Islands;0.31104;State
+1989;Sri Lanka;17.14229;State
+1989;Taiwan;20.20754;State
+1989;Thailand;54.44569;State
+1989;Tonga;0.09278;State
+1989;U.S. Pacific Islands;0.1998;State
+1989;Vanuatu;0.15;State
+1989;Vietnam;65.86848;State
+1989;World;5199.68056;World
+1990;North America;362.4468;Region
+1990;Bermuda;0.05778;State
+1990;Canada;27.7906;State
+1990;Greenland;0.05563;State
+1990;Mexico;84.91365;State
+1990;Saint Pierre and Miquelon;0.00632;State
+1990;United States;249.62281;State
+1990;Central & South America;358.79973;Region
+1990;Antigua and Barbuda;0.06416;State
+1990;Argentina;33.03558;State
+1990;Bahamas - The;0.24513;State
+1990;Barbados;0.26226;State
+1990;Belize;0.19087;State
+1990;Bolivia;6.5739;State
+1990;Brazil;151.17006;State
+1990;Cayman Islands;0.02636;State
+1990;Chile;13.12892;State
+1990;Colombia;33.14725;State
+1990;Costa Rica;3.02327;State
+1990;Cuba;10.51344;State
+1990;Dominica;0.07001;State
+1990;Dominican Republic;7.08362;State
+1990;Ecuador;10.31804;State
+1990;El Salvador;5.10982;State
+1990;Falkland Islands (Islas Malvinas);0.002;State
+1990;French Guiana;0.12;State
+1990;Grenada;0.0942;State
+1990;Guadeloupe;0.39;State
+1990;Guatemala;8.96555;State
+1990;Guyana;0.77153;State
+1990;Haiti;6.79794;State
+1990;Honduras;4.79403;State
+1990;Jamaica;2.34701;State
+1990;Martinique;0.374;State
+1990;Montserrat;0.01073;State
+1990;Netherlands Antilles;0.18879;State
+1990;Nicaragua;3.68513;State
+1990;Panama;2.39344;State
+1990;Paraguay;4.20049;State
+1990;Peru;21.59975;State
+1990;Puerto Rico;3.53691;State
+1990;Saint Kitts and Nevis;0.04166;State
+1990;Saint Lucia;0.13756;State
+1990;Saint Vincent/Grenadines;0.10739;State
+1990;Suriname;0.3948;State
+1990;Trinidad and Tobago;1.25519;State
+1990;Turks and Caicos Islands;0.01151;State
+1990;Uruguay;3.10954;State
+1990;Venezuela;19.32522;State
+1990;Virgin Islands -  U.S.;0.10396;State
+1990;Virgin Islands - British;0.01569;State
+1990;Europe;556.54704;Continent
+1990;Albania;3.24493;State
+1990;Austria;7.72295;State
+1990;Belgium;9.96931;State
+1990;Bulgaria;8.89403;State
+1990;Cyprus;0.74506;State
+1990;Denmark;5.14095;State
+1990;Faroe Islands;0.04744;State
+1990;Finland;4.98643;State
+1990;France;56.9051;State
+1990;Germany;80.23;State
+1990;Gibraltar;0.02911;State
+1990;Greece;10.1296;State
+1990;Hungary;10.37188;State
+1990;Iceland;0.25472;State
+1990;Ireland;3.5082;State
+1990;Italy;56.76636;State
+1990;Luxembourg;0.38297;State
+1990;Malta;0.35911;State
+1990;Netherlands;14.95151;State
+1990;Norway;4.24201;State
+1990;Poland;38.11941;State
+1990;Portugal;9.92269;State
+1990;Romania;22.86595;State
+1990;Spain;39.35077;State
+1990;Sweden;8.60082;State
+1990;Switzerland;6.86542;State
+1990;Turkey;56.56068;State
+1990;United Kingdom;57.6413;State
+1990;Eurasia;288.36232;Region
+1990;Middle East;135.1109;Region
+1990;Bahrain;0.50065;State
+1990;Iran;58.1001;State
+1990;Iraq;18.13996;State
+1990;Israel;4.47781;State
+1990;Jordan;3.26656;State
+1990;Kuwait;2.14206;State
+1990;Lebanon;3.44018;State
+1990;Oman;1.79438;State
+1990;Qatar;0.44613;State
+1990;Saudi Arabia;16.06076;State
+1990;Syria;12.5;State
+1990;United Arab Emirates;1.82625;State
+1990;Yemen;12.41608;State
+1990;Africa;630.91638;Continent
+1990;Algeria;25.08903;State
+1990;Angola;8.29661;State
+1990;Benin;4.70544;State
+1990;Botswana;1.26461;State
+1990;Burkina Faso;8.36104;State
+1990;Burundi;5.53564;State
+1990;Cameroon;11.8845;State
+1990;Cape Verde;0.33976;State
+1990;Central African Republic;3.08497;State
+1990;Chad;5.84141;State
+1990;Comoros;0.42914;State
+1990;Congo (Brazzaville);2.266;State
+1990;Congo (Kinshasa);39.04746;State
+1990;Cote dIvoire (IvoryCoast);12.49088;State
+1990;Djibouti;0.49919;State
+1990;Egypt;54.90738;State
+1990;Equatorial Guinea;0.3711;State
+1990;Ethiopia;51.53533;State
+1990;Gabon;0.93808;State
+1990;Gambia - The;0.94943;State
+1990;Ghana;15.40774;State
+1990;Guinea;6.11845;State
+1990;Guinea-Bissau;0.99599;State
+1990;Kenya;23.35448;State
+1990;Lesotho;1.70326;State
+1990;Liberia;2.13859;State
+1990;Libya;4.14639;State
+1990;Madagascar;11.63287;State
+1990;Malawi;9.546;State
+1990;Mali;8.32711;State
+1990;Mauritania;1.92498;State
+1990;Mauritius;1.0616;State
+1990;Morocco;23.99997;State
+1990;Mozambique;12.66657;State
+1990;Niger;7.84173;State
+1990;Nigeria;96.60376;State
+1990;Reunion;0.6;State
+1990;Rwanda;6.99932;State
+1990;Saint Helena;0.00668;State
+1990;Sao Tome and Principe;0.11593;State
+1990;Senegal;7.34761;State
+1990;Seychelles;0.0708;State
+1990;Sierra Leone;4.2282;State
+1990;Somalia;6.69204;State
+1990;South Africa;38.47627;State
+1990;Sudan;25.8881;State
+1990;Swaziland;0.8816;State
+1990;Tanzania;25.21428;State
+1990;Togo;3.72079;State
+1990;Tunisia;8.21101;State
+1990;Uganda;17.45576;State
+1990;Western Sahara;0.21737;State
+1990;Zambia;7.85755;State
+1990;Zimbabwe;10.15604;State
+1990;Asia & Oceania;2954.74639;Region
+1990;Afghanistan;13.44937;State
+1990;American Samoa;0.0472;State
+1990;Australia;16.95624;State
+1990;Bangladesh;112.21257;State
+1990;Bhutan;0.61474;State
+1990;Brunei;0.25289;State
+1990;Burma (Myanmar);40.46361;State
+1990;Cambodia;9.36752;State
+1990;China;1148.36447;State
+1990;Cook Islands;0.01839;State
+1990;Fiji;0.73962;State
+1990;French Polynesia;0.20182;State
+1990;Guam;0.13413;State
+1990;Hong Kong;5.68796;State
+1990;India;838.15883;State
+1990;Indonesia;182.51628;State
+1990;Japan;123.5374;State
+1990;Kiribati;0.07129;State
+1990;Korea - North;20.01855;State
+1990;Korea - South;42.869;State
+1990;Laos;4.21045;State
+1990;Macau;0.35176;State
+1990;Malaysia;17.88222;State
+1990;Maldives;0.21661;State
+1990;Mongolia;2.21754;State
+1990;Nauru;0.00949;State
+1990;Nepal;18.91826;State
+1990;New Caledonia;0.1689;State
+1990;New Zealand;3.41168;State
+1990;Niue;0.002;State
+1990;Pakistan;118.81619;State
+1990;Papua New Guinea;3.68283;State
+1990;Philippines;65.08772;State
+1990;Samoa;0.16283;State
+1990;Singapore;3.0471;State
+1990;Solomon Islands;0.32113;State
+1990;Sri Lanka;17.36508;State
+1990;Taiwan;20.27825;State
+1990;Thailand;55.19672;State
+1990;Tonga;0.09212;State
+1990;U.S. Pacific Islands;0.21367;State
+1990;Vanuatu;0.15388;State
+1990;Vietnam;67.25811;State
+1990;World;5286.92957;World
+1991;North America;367.70684;Region
+1991;Bermuda;0.0581;State
+1991;Canada;28.1179;State
+1991;Greenland;0.05554;State
+1991;Mexico;86.48803;State
+1991;Saint Pierre and Miquelon;0.00633;State
+1991;United States;252.98094;State
+1991;Central & South America;365.15137;Region
+1991;Antigua and Barbuda;0.06403;State
+1991;Argentina;33.50441;State
+1991;Bahamas - The;0.24931;State
+1991;Barbados;0.26334;State
+1991;Belize;0.19575;State
+1991;Bolivia;6.73148;State
+1991;Brazil;153.58396;State
+1991;Cayman Islands;0.02751;State
+1991;Chile;13.35367;State
+1991;Colombia;33.83221;State
+1991;Costa Rica;3.09302;State
+1991;Cuba;10.61114;State
+1991;Dominica;0.07012;State
+1991;Dominican Republic;7.2248;State
+1991;Ecuador;10.42992;State
+1991;El Salvador;5.19624;State
+1991;Falkland Islands (Islas Malvinas);0.002;State
+1991;French Guiana;0.12;State
+1991;Grenada;0.09406;State
+1991;Guadeloupe;0.4;State
+1991;Guatemala;9.21325;State
+1991;Guyana;0.77053;State
+1991;Haiti;6.92983;State
+1991;Honduras;4.93323;State
+1991;Jamaica;2.35772;State
+1991;Martinique;0.378;State
+1991;Montserrat;0.01061;State
+1991;Netherlands Antilles;0.19014;State
+1991;Nicaragua;3.87306;State
+1991;Panama;2.44075;State
+1991;Paraguay;4.32234;State
+1991;Peru;22.05702;State
+1991;Puerto Rico;3.56211;State
+1991;Saint Kitts and Nevis;0.04141;State
+1991;Saint Lucia;0.13917;State
+1991;Saint Vincent/Grenadines;0.10796;State
+1991;Suriname;0.39536;State
+1991;Trinidad and Tobago;1.26039;State
+1991;Turks and Caicos Islands;0.01208;State
+1991;Uruguay;3.13141;State
+1991;Venezuela;19.79068;State
+1991;Virgin Islands -  U.S.;0.10481;State
+1991;Virgin Islands - British;0.01627;State
+1991;Europe;559.51433;Continent
+1991;Albania;3.18105;State
+1991;Austria;7.81842;State
+1991;Belgium;10.00449;State
+1991;Bulgaria;8.77237;State
+1991;Cyprus;0.76623;State
+1991;Denmark;5.15435;State
+1991;Faroe Islands;0.04757;State
+1991;Finland;5.01379;State
+1991;France;57.24172;State
+1991;Germany;79.98424;State
+1991;Gibraltar;0.0281;State
+1991;Greece;10.25088;State
+1991;Hungary;10.39781;State
+1991;Iceland;0.25683;State
+1991;Ireland;3.53077;State
+1991;Italy;56.77124;State
+1991;Luxembourg;0.38715;State
+1991;Malta;0.36258;State
+1991;Netherlands;15.06622;State
+1991;Norway;4.26173;State
+1991;Poland;38.25322;State
+1991;Portugal;9.91901;State
+1991;Romania;22.82556;State
+1991;Spain;39.46142;State
+1991;Sweden;8.66811;State
+1991;Switzerland;6.94985;State
+1991;Turkey;57.65023;State
+1991;United Kingdom;57.80509;State
+1991;Eurasia;289.94844;Region
+1991;Middle East;137.61894;Region
+1991;Bahrain;0.51543;State
+1991;Iran;60.49643;State
+1991;Iraq;17.47737;State
+1991;Israel;4.64934;State
+1991;Jordan;3.63483;State
+1991;Kuwait;0.95422;State
+1991;Lebanon;3.50613;State
+1991;Oman;1.86607;State
+1991;Qatar;0.46112;State
+1991;Saudi Arabia;16.30577;State
+1991;Syria;12.93313;State
+1991;United Arab Emirates;1.93669;State
+1991;Yemen;12.88242;State
+1991;Africa;647.76698;Continent
+1991;Algeria;25.68708;State
+1991;Angola;8.49681;State
+1991;Benin;4.85506;State
+1991;Botswana;1.3031;State
+1991;Burkina Faso;8.64225;State
+1991;Burundi;5.67438;State
+1991;Cameroon;12.2303;State
+1991;Cape Verde;0.34683;State
+1991;Central African Republic;3.17449;State
+1991;Chad;6.02822;State
+1991;Comoros;0.44154;State
+1991;Congo (Brazzaville);2.3374;State
+1991;Congo (Kinshasa);40.36625;State
+1991;Cote dIvoire (IvoryCoast);13.03952;State
+1991;Djibouti;0.55198;State
+1991;Egypt;55.86165;State
+1991;Equatorial Guinea;0.38138;State
+1991;Ethiopia;53.20516;State
+1991;Gabon;0.96043;State
+1991;Gambia - The;0.98663;State
+1991;Ghana;15.84823;State
+1991;Guinea;6.55247;State
+1991;Guinea-Bissau;1.02022;State
+1991;Kenya;24.12143;State
+1991;Lesotho;1.7325;State
+1991;Liberia;1.81471;State
+1991;Libya;4.25939;State
+1991;Madagascar;11.98871;State
+1991;Malawi;9.93081;State
+1991;Mali;8.51187;State
+1991;Mauritania;1.97343;State
+1991;Mauritius;1.07172;State
+1991;Morocco;24.43372;State
+1991;Mozambique;12.9348;State
+1991;Niger;8.08532;State
+1991;Nigeria;99.0925;State
+1991;Reunion;0.607;State
+1991;Rwanda;7.14374;State
+1991;Saint Helena;0.00673;State
+1991;Sao Tome and Principe;0.1186;State
+1991;Senegal;7.55397;State
+1991;Seychelles;0.07165;State
+1991;Sierra Leone;4.3349;State
+1991;Somalia;6.46448;State
+1991;South Africa;39.29952;State
+1991;Sudan;26.76895;State
+1991;Swaziland;0.92247;State
+1991;Tanzania;25.97254;State
+1991;Togo;3.84605;State
+1991;Tunisia;8.36852;State
+1991;Uganda;18.08214;State
+1991;Western Sahara;0.22575;State
+1991;Zambia;8.0883;State
+1991;Zimbabwe;10.43742;State
+1991;Asia & Oceania;3002.08385;Region
+1991;Afghanistan;13.52717;State
+1991;American Samoa;0.04857;State
+1991;Australia;17.20212;State
+1991;Bangladesh;113.91068;State
+1991;Bhutan;0.62504;State
+1991;Brunei;0.25925;State
+1991;Burma (Myanmar);41.18056;State
+1991;Cambodia;9.70681;State
+1991;China;1163.61039;State
+1991;Cook Islands;0.01864;State
+1991;Fiji;0.74617;State
+1991;French Polynesia;0.20708;State
+1991;Guam;0.13816;State
+1991;Hong Kong;5.752;State
+1991;India;853.72439;State
+1991;Indonesia;185.70794;State
+1991;Japan;123.94627;State
+1991;Kiribati;0.07266;State
+1991;Korea - North;20.36109;State
+1991;Korea - South;43.33991;State
+1991;Laos;4.33063;State
+1991;Macau;0.36386;State
+1991;Malaysia;18.37607;State
+1991;Maldives;0.22722;State
+1991;Mongolia;2.27038;State
+1991;Nauru;0.00967;State
+1991;Nepal;19.44833;State
+1991;New Caledonia;0.17333;State
+1991;New Zealand;3.4532;State
+1991;Niue;0.002;State
+1991;Pakistan;122.24818;State
+1991;Papua New Guinea;3.78309;State
+1991;Philippines;66.57223;State
+1991;Samoa;0.16369;State
+1991;Singapore;3.14458;State
+1991;Solomon Islands;0.33147;State
+1991;Sri Lanka;17.55905;State
+1991;Taiwan;20.49209;State
+1991;Thailand;55.94196;State
+1991;Tonga;0.09126;State
+1991;U.S. Pacific Islands;0.2207;State
+1991;Vanuatu;0.15772;State
+1991;Vietnam;68.63827;State
+1991;World;5369.79076;World
+1992;North America;373.29069;Region
+1992;Bermuda;0.0587;State
+1992;Canada;28.54489;State
+1992;Greenland;0.05549;State
+1992;Mexico;88.11103;State
+1992;Saint Pierre and Miquelon;0.00636;State
+1992;United States;256.51422;State
+1992;Central & South America;371.43224;Region
+1992;Antigua and Barbuda;0.06518;State
+1992;Argentina;33.96685;State
+1992;Bahamas - The;0.25356;State
+1992;Barbados;0.2646;State
+1992;Belize;0.20082;State
+1992;Bolivia;6.89345;State
+1992;Brazil;156.03206;State
+1992;Cayman Islands;0.02868;State
+1992;Chile;13.57416;State
+1992;Colombia;34.52032;State
+1992;Costa Rica;3.16836;State
+1992;Cuba;10.69191;State
+1992;Dominica;0.07028;State
+1992;Dominican Republic;7.36293;State
+1992;Ecuador;10.55381;State
+1992;El Salvador;5.28601;State
+1992;Falkland Islands (Islas Malvinas);0.002;State
+1992;French Guiana;0.13;State
+1992;Grenada;0.09465;State
+1992;Guadeloupe;0.41;State
+1992;Guatemala;9.36708;State
+1992;Guyana;0.7673;State
+1992;Haiti;7.06997;State
+1992;Honduras;5.07988;State
+1992;Jamaica;2.37785;State
+1992;Martinique;0.382;State
+1992;Montserrat;0.0105;State
+1992;Netherlands Antilles;0.192;State
+1992;Nicaragua;4.01959;State
+1992;Panama;2.48923;State
+1992;Paraguay;4.44589;State
+1992;Peru;22.52165;State
+1992;Puerto Rico;3.58518;State
+1992;Saint Kitts and Nevis;0.04154;State
+1992;Saint Lucia;0.14099;State
+1992;Saint Vincent/Grenadines;0.10822;State
+1992;Suriname;0.3965;State
+1992;Trinidad and Tobago;1.2635;State
+1992;Turks and Caicos Islands;0.01266;State
+1992;Uruguay;3.1531;State
+1992;Venezuela;20.24606;State
+1992;Virgin Islands -  U.S.;0.10571;State
+1992;Virgin Islands - British;0.01676;State
+1992;Europe;562.1496;Continent
+1992;Albania;3.07201;State
+1992;Austria;7.91497;State
+1992;Belgium;10.04562;State
+1992;Bulgaria;8.65851;State
+1992;Cyprus;0.78847;State
+1992;Denmark;5.17139;State
+1992;Faroe Islands;0.04778;State
+1992;Finland;5.04104;State
+1992;France;57.56004;State
+1992;Germany;80.59776;State
+1992;Gibraltar;0.02809;State
+1992;Greece;10.32543;State
+1992;Hungary;10.38305;State
+1992;Iceland;0.25901;State
+1992;Ireland;3.55776;State
+1992;Italy;56.86492;State
+1992;Luxembourg;0.39255;State
+1992;Malta;0.3659;State
+1992;Netherlands;15.17424;State
+1992;Norway;4.28636;State
+1992;Poland;38.3707;State
+1992;Portugal;9.92768;State
+1992;Romania;22.79703;State
+1992;Spain;39.55243;State
+1992;Sweden;8.71887;State
+1992;Switzerland;7.02515;State
+1992;Turkey;58.73117;State
+1992;United Kingdom;57.96863;State
+1992;Eurasia;290.94832;Region
+1992;Middle East;142.57975;Region
+1992;Bahrain;0.52971;State
+1992;Iran;62.31008;State
+1992;Iraq;17.86828;State
+1992;Israel;4.82246;State
+1992;Jordan;3.87091;State
+1992;Kuwait;1.41829;State
+1992;Lebanon;3.54803;State
+1992;Oman;1.93949;State
+1992;Qatar;0.47581;State
+1992;Saudi Arabia;17.06075;State
+1992;Syria;13.31165;State
+1992;United Arab Emirates;2.05629;State
+1992;Yemen;13.368;State
+1992;Africa;664.43368;Continent
+1992;Algeria;26.29845;State
+1992;Angola;8.74184;State
+1992;Benin;5.01014;State
+1992;Botswana;1.34473;State
+1992;Burkina Faso;8.93497;State
+1992;Burundi;5.85649;State
+1992;Cameroon;12.57475;State
+1992;Cape Verde;0.35649;State
+1992;Central African Republic;3.26652;State
+1992;Chad;6.26327;State
+1992;Comoros;0.45453;State
+1992;Congo (Brazzaville);2.4104;State
+1992;Congo (Kinshasa);41.6454;State
+1992;Cote dIvoire (IvoryCoast);13.42214;State
+1992;Djibouti;0.54709;State
+1992;Egypt;56.62499;State
+1992;Equatorial Guinea;0.39202;State
+1992;Ethiopia;54.76061;State
+1992;Gabon;0.98637;State
+1992;Gambia - The;1.02546;State
+1992;Ghana;16.29285;State
+1992;Guinea;6.80052;State
+1992;Guinea-Bissau;1.051;State
+1992;Kenya;25.01897;State
+1992;Lesotho;1.76171;State
+1992;Liberia;1.89388;State
+1992;Libya;4.372;State
+1992;Madagascar;12.35668;State
+1992;Malawi;10.3096;State
+1992;Mali;8.7424;State
+1992;Mauritania;2.04282;State
+1992;Mauritius;1.08481;State
+1992;Morocco;24.86108;State
+1992;Mozambique;13.18;State
+1992;Niger;8.33919;State
+1992;Nigeria;101.62507;State
+1992;Reunion;0.62;State
+1992;Rwanda;7.29857;State
+1992;Saint Helena;0.00678;State
+1992;Sao Tome and Principe;0.12091;State
+1992;Senegal;7.75925;State
+1992;Seychelles;0.0725;State
+1992;Sierra Leone;4.24628;State
+1992;Somalia;6.11621;State
+1992;South Africa;40.09107;State
+1992;Sudan;27.66838;State
+1992;Swaziland;0.95902;State
+1992;Tanzania;26.76747;State
+1992;Togo;3.97281;State
+1992;Tunisia;8.52679;State
+1992;Uganda;18.72945;State
+1992;Western Sahara;0.2344;State
+1992;Zambia;8.32181;State
+1992;Zimbabwe;10.72025;State
+1992;Asia & Oceania;3049.4639;Region
+1992;Afghanistan;14.8552;State
+1992;American Samoa;0.04995;State
+1992;Australia;17.41893;State
+1992;Bangladesh;115.75094;State
+1992;Bhutan;0.60166;State
+1992;Brunei;0.26576;State
+1992;Burma (Myanmar);41.79115;State
+1992;Cambodia;10.14276;State
+1992;China;1177.53561;State
+1992;Cook Islands;0.01858;State
+1992;Fiji;0.75274;State
+1992;French Polynesia;0.21217;State
+1992;Guam;0.14233;State
+1992;Hong Kong;5.8297;State
+1992;India;870.11319;State
+1992;Indonesia;188.90468;State
+1992;Japan;124.32927;State
+1992;Kiribati;0.07363;State
+1992;Korea - North;20.71138;State
+1992;Korea - South;43.83712;State
+1992;Laos;4.45418;State
+1992;Macau;0.37533;State
+1992;Malaysia;18.86191;State
+1992;Maldives;0.23785;State
+1992;Mongolia;2.31795;State
+1992;Nauru;0.00983;State
+1992;Nepal;20.03337;State
+1992;New Caledonia;0.17776;State
+1992;New Zealand;3.49155;State
+1992;Niue;0.002;State
+1992;Pakistan;124.96177;State
+1992;Papua New Guinea;3.8866;State
+1992;Philippines;67.97776;State
+1992;Samoa;0.1648;State
+1992;Singapore;3.23587;State
+1992;Solomon Islands;0.34204;State
+1992;Sri Lanka;17.75561;State
+1992;Taiwan;20.6872;State
+1992;Thailand;56.69281;State
+1992;Tonga;0.09214;State
+1992;U.S. Pacific Islands;0.22761;State
+1992;Vanuatu;0.16152;State
+1992;Vietnam;69.97972;State
+1992;World;5454.29816;World
+1993;North America;378.74233;Region
+1993;Bermuda;0.05924;State
+1993;Canada;28.95334;State
+1993;Greenland;0.05564;State
+1993;Mexico;89.74914;State
+1993;Saint Pierre and Miquelon;0.00638;State
+1993;United States;259.91859;State
+1993;Central & South America;377.7438;Region
+1993;Antigua and Barbuda;0.06633;State
+1993;Argentina;34.40715;State
+1993;Bahamas - The;0.25766;State
+1993;Barbados;0.2657;State
+1993;Belize;0.20609;State
+1993;Bolivia;7.05434;State
+1993;Brazil;158.51205;State
+1993;Cayman Islands;0.03001;State
+1993;Chile;13.78943;State
+1993;Colombia;35.2056;State
+1993;Costa Rica;3.25653;State
+1993;Cuba;10.75667;State
+1993;Dominica;0.07042;State
+1993;Dominican Republic;7.49428;State
+1993;Ecuador;10.75368;State
+1993;El Salvador;5.33415;State
+1993;Falkland Islands (Islas Malvinas);0.002;State
+1993;French Guiana;0.13;State
+1993;Grenada;0.09576;State
+1993;Guadeloupe;0.41;State
+1993;Guatemala;9.52288;State
+1993;Guyana;0.7669;State
+1993;Haiti;7.23284;State
+1993;Honduras;5.23262;State
+1993;Jamaica;2.40685;State
+1993;Martinique;0.386;State
+1993;Montserrat;0.01041;State
+1993;Netherlands Antilles;0.1945;State
+1993;Nicaragua;4.14231;State
+1993;Panama;2.53836;State
+1993;Paraguay;4.57099;State
+1993;Peru;22.99269;State
+1993;Puerto Rico;3.6155;State
+1993;Saint Kitts and Nevis;0.04206;State
+1993;Saint Lucia;0.14279;State
+1993;Saint Vincent/Grenadines;0.10854;State
+1993;Suriname;0.39724;State
+1993;Trinidad and Tobago;1.26512;State
+1993;Turks and Caicos Islands;0.01325;State
+1993;Uruguay;3.17479;State
+1993;Venezuela;20.69145;State
+1993;Virgin Islands -  U.S.;0.10658;State
+1993;Virgin Islands - British;0.01722;State
+1993;Europe;564.5766;Continent
+1993;Albania;3.06629;State
+1993;Austria;7.9886;State
+1993;Belgium;10.08543;State
+1993;Bulgaria;8.44187;State
+1993;Cyprus;0.80976;State
+1993;Denmark;5.18839;State
+1993;Faroe Islands;0.04609;State
+1993;Finland;5.06485;State
+1993;France;57.86641;State
+1993;Germany;81.13227;State
+1993;Gibraltar;0.02722;State
+1993;Greece;10.38299;State
+1993;Hungary;10.33003;State
+1993;Iceland;0.26127;State
+1993;Ireland;3.57835;State
+1993;Italy;57.0511;State
+1993;Luxembourg;0.39808;State
+1993;Malta;0.37001;State
+1993;Netherlands;15.27494;State
+1993;Norway;4.31196;State
+1993;Poland;38.46775;State
+1993;Portugal;9.96783;State
+1993;Romania;22.76576;State
+1993;Spain;39.6377;State
+1993;Sweden;8.76928;State
+1993;Switzerland;7.08838;State
+1993;Turkey;59.80053;State
+1993;United Kingdom;58.08795;State
+1993;Eurasia;291.21018;Region
+1993;Middle East;146.00671;Region
+1993;Bahrain;0.54425;State
+1993;Iran;63.09966;State
+1993;Iraq;18.41148;State
+1993;Israel;4.99777;State
+1993;Jordan;3.98707;State
+1993;Kuwait;1.48398;State
+1993;Lebanon;3.58539;State
+1993;Oman;2.01457;State
+1993;Qatar;0.49104;State
+1993;Saudi Arabia;17.63636;State
+1993;Syria;13.68518;State
+1993;United Arab Emirates;2.1842;State
+1993;Yemen;13.88576;State
+1993;Africa;680.91751;Continent
+1993;Algeria;26.91644;State
+1993;Angola;8.96626;State
+1993;Benin;5.25036;State
+1993;Botswana;1.38935;State
+1993;Burkina Faso;9.2377;State
+1993;Burundi;5.68543;State
+1993;Cameroon;12.92047;State
+1993;Cape Verde;0.36624;State
+1993;Central African Republic;3.36703;State
+1993;Chad;6.3791;State
+1993;Comoros;0.4681;State
+1993;Congo (Brazzaville);2.48894;State
+1993;Congo (Kinshasa);43.02695;State
+1993;Cote dIvoire (IvoryCoast);13.86057;State
+1993;Djibouti;0.53443;State
+1993;Egypt;57.3843;State
+1993;Equatorial Guinea;0.40304;State
+1993;Ethiopia;56.03139;State
+1993;Gabon;1.01316;State
+1993;Gambia - The;1.06595;State
+1993;Ghana;16.80537;State
+1993;Guinea;6.98911;State
+1993;Guinea-Bissau;1.08446;State
+1993;Kenya;25.81755;State
+1993;Lesotho;1.79079;State
+1993;Liberia;1.95263;State
+1993;Libya;4.48362;State
+1993;Madagascar;12.73661;State
+1993;Malawi;10.49511;State
+1993;Mali;8.95321;State
+1993;Mauritania;2.11924;State
+1993;Mauritius;1.09864;State
+1993;Morocco;25.29264;State
+1993;Mozambique;13.69137;State
+1993;Niger;8.60931;State
+1993;Nigeria;104.19968;State
+1993;Reunion;0.63;State
+1993;Rwanda;7.59668;State
+1993;Saint Helena;0.00684;State
+1993;Sao Tome and Principe;0.12285;State
+1993;Senegal;7.961;State
+1993;Seychelles;0.07332;State
+1993;Sierra Leone;4.09967;State
+1993;Somalia;6.10102;State
+1993;South Africa;40.94061;State
+1993;Sudan;28.39476;State
+1993;Swaziland;0.98872;State
+1993;Tanzania;27.69659;State
+1993;Togo;3.95258;State
+1993;Tunisia;8.68412;State
+1993;Uganda;19.42438;State
+1993;Western Sahara;0.2433;State
+1993;Zambia;8.55505;State
+1993;Zimbabwe;10.97637;State
+1993;Asia & Oceania;3097.01107;Region
+1993;Afghanistan;16.81974;State
+1993;American Samoa;0.05138;State
+1993;Australia;17.6078;State
+1993;Bangladesh;117.62067;State
+1993;Bhutan;0.57669;State
+1993;Brunei;0.27311;State
+1993;Burma (Myanmar);42.43742;State
+1993;Cambodia;10.62423;State
+1993;China;1190.76183;State
+1993;Cook Islands;0.01851;State
+1993;Fiji;0.75933;State
+1993;French Polynesia;0.21719;State
+1993;Guam;0.14383;State
+1993;Hong Kong;5.93451;State
+1993;India;886.74371;State
+1993;Indonesia;192.09324;State
+1993;Japan;124.66802;State
+1993;Kiribati;0.07467;State
+1993;Korea - North;21.07265;State
+1993;Korea - South;44.30704;State
+1993;Laos;4.58122;State
+1993;Macau;0.3844;State
+1993;Malaysia;19.33822;State
+1993;Maldives;0.24691;State
+1993;Mongolia;2.35969;State
+1993;Nauru;0.00982;State
+1993;Nepal;20.64137;State
+1993;New Caledonia;0.18246;State
+1993;New Zealand;3.53464;State
+1993;Niue;0.002;State
+1993;Pakistan;127.56273;State
+1993;Papua New Guinea;3.99325;State
+1993;Philippines;69.41697;State
+1993;Samoa;0.16612;State
+1993;Singapore;3.32815;State
+1993;Solomon Islands;0.35284;State
+1993;Sri Lanka;17.99715;State
+1993;Taiwan;20.88606;State
+1993;Thailand;57.44296;State
+1993;Tonga;0.09378;State
+1993;U.S. Pacific Islands;0.23438;State
+1993;Vanuatu;0.16526;State
+1993;Vietnam;71.28515;State
+1993;World;5536.20819;World
+1994;North America;383.9166;Region
+1994;Bermuda;0.05975;State
+1994;Canada;29.33081;State
+1994;Greenland;0.05592;State
+1994;Mexico;91.3379;State
+1994;Saint Pierre and Miquelon;0.0064;State
+1994;United States;263.12582;State
+1994;Central & South America;384.26984;Region
+1994;Antigua and Barbuda;0.06749;State
+1994;Argentina;34.84689;State
+1994;Bahamas - The;0.26151;State
+1994;Barbados;0.26663;State
+1994;Belize;0.21155;State
+1994;Bolivia;7.21481;State
+1994;Brazil;161.01706;State
+1994;Cayman Islands;0.0313;State
+1994;Chile;14.00122;State
+1994;Colombia;35.88762;State
+1994;Costa Rica;3.3512;State
+1994;Cuba;10.81326;State
+1994;Dominica;0.07092;State
+1994;Dominican Republic;7.62413;State
+1994;Ecuador;11.01255;State
+1994;El Salvador;5.3952;State
+1994;Falkland Islands (Islas Malvinas);0.002;State
+1994;French Guiana;0.14;State
+1994;Grenada;0.09675;State
+1994;Guadeloupe;0.42;State
+1994;Guatemala;9.77911;State
+1994;Guyana;0.76765;State
+1994;Haiti;7.39969;State
+1994;Honduras;5.38981;State
+1994;Jamaica;2.43644;State
+1994;Martinique;0.39;State
+1994;Montserrat;0.01034;State
+1994;Netherlands Antilles;0.19679;State
+1994;Nicaragua;4.26426;State
+1994;Panama;2.58771;State
+1994;Paraguay;4.69758;State
+1994;Peru;23.46919;State
+1994;Puerto Rico;3.64924;State
+1994;Saint Kitts and Nevis;0.04261;State
+1994;Saint Lucia;0.14464;State
+1994;Saint Vincent/Grenadines;0.10869;State
+1994;Suriname;0.39877;State
+1994;Trinidad and Tobago;1.26525;State
+1994;Turks and Caicos Islands;0.01384;State
+1994;Uruguay;3.19725;State
+1994;Venezuela;21.12604;State
+1994;Virgin Islands -  U.S.;0.10732;State
+1994;Virgin Islands - British;0.01769;State
+1994;Europe;566.98518;Continent
+1994;Albania;3.11116;State
+1994;Austria;8.02754;State
+1994;Belgium;10.12291;State
+1994;Bulgaria;8.35334;State
+1994;Cyprus;0.82921;State
+1994;Denmark;5.2056;State
+1994;Faroe Islands;0.0445;State
+1994;Finland;5.08604;State
+1994;France;58.11596;State
+1994;Germany;81.41416;State
+1994;Gibraltar;0.02678;State
+1994;Greece;10.42983;State
+1994;Hungary;10.29655;State
+1994;Iceland;0.26608;State
+1994;Ireland;3.59554;State
+1994;Italy;57.20409;State
+1994;Luxembourg;0.40376;State
+1994;Malta;0.37361;State
+1994;Netherlands;15.3822;State
+1994;Norway;4.33664;State
+1994;Poland;38.5483;State
+1994;Portugal;10.02769;State
+1994;Romania;22.73302;State
+1994;Spain;39.70788;State
+1994;Sweden;8.83149;State
+1994;Switzerland;7.14508;State
+1994;Turkey;60.86709;State
+1994;United Kingdom;58.24043;State
+1994;Eurasia;291.05061;Region
+1994;Middle East;148.9879;Region
+1994;Bahrain;0.55868;State
+1994;Iran;63.46037;State
+1994;Iraq;18.97609;State
+1994;Israel;5.17486;State
+1994;Jordan;4.08473;State
+1994;Kuwait;1.55165;State
+1994;Lebanon;3.62071;State
+1994;Oman;2.07679;State
+1994;Qatar;0.50626;State
+1994;Saudi Arabia;18.20242;State
+1994;Syria;14.06143;State
+1994;United Arab Emirates;2.31918;State
+1994;Yemen;14.39475;State
+1994;Africa;696.76671;Continent
+1994;Algeria;27.52148;State
+1994;Angola;9.17228;State
+1994;Benin;5.48815;State
+1994;Botswana;1.43369;State
+1994;Burkina Faso;9.57065;State
+1994;Burundi;5.74968;State
+1994;Cameroon;13.26417;State
+1994;Cape Verde;0.37592;State
+1994;Central African Republic;3.46585;State
+1994;Chad;6.49669;State
+1994;Comoros;0.48226;State
+1994;Congo (Brazzaville);2.57029;State
+1994;Congo (Kinshasa);44.48648;State
+1994;Cote dIvoire (IvoryCoast);14.37992;State
+1994;Djibouti;0.54689;State
+1994;Egypt;58.15695;State
+1994;Equatorial Guinea;0.41444;State
+1994;Ethiopia;54.03425;State
+1994;Gabon;1.04081;State
+1994;Gambia - The;1.10758;State
+1994;Ghana;17.30185;State
+1994;Guinea;7.20949;State
+1994;Guinea-Bissau;1.11651;State
+1994;Kenya;26.45452;State
+1994;Lesotho;1.8195;State
+1994;Liberia;1.91753;State
+1994;Libya;4.59332;State
+1994;Madagascar;13.12841;State
+1994;Malawi;10.32045;State
+1994;Mali;9.17522;State
+1994;Mauritania;2.18334;State
+1994;Mauritius;1.1113;State
+1994;Morocco;25.72317;State
+1994;Mozambique;14.78146;State
+1994;Niger;8.89259;State
+1994;Nigeria;106.81404;State
+1994;Reunion;0.64;State
+1994;Rwanda;6.50553;State
+1994;Saint Helena;0.00689;State
+1994;Sao Tome and Principe;0.12492;State
+1994;Senegal;8.16615;State
+1994;Seychelles;0.07413;State
+1994;Sierra Leone;3.97796;State
+1994;Somalia;6.26444;State
+1994;South Africa;41.66156;State
+1994;Sudan;29.16041;State
+1994;Swaziland;0.99492;State
+1994;Tanzania;28.79766;State
+1994;Togo;3.98199;State
+1994;Tunisia;8.8354;State
+1994;Uganda;20.12759;State
+1994;Western Sahara;0.25244;State
+1994;Zambia;8.78912;State
+1994;Zimbabwe;11.08648;State
+1994;Asia & Oceania;3144.70448;Region
+1994;Afghanistan;18.28771;State
+1994;American Samoa;0.05273;State
+1994;Australia;17.78109;State
+1994;Bangladesh;119.51509;State
+1994;Bhutan;0.57472;State
+1994;Brunei;0.2805;State
+1994;Burma (Myanmar);43.21759;State
+1994;Cambodia;10.97424;State
+1994;China;1203.80174;State
+1994;Cook Islands;0.01842;State
+1994;Fiji;0.76592;State
+1994;French Polynesia;0.22207;State
+1994;Guam;0.14316;State
+1994;Hong Kong;6.06729;State
+1994;India;903.57929;State
+1994;Indonesia;195.3278;State
+1994;Japan;125.01405;State
+1994;Kiribati;0.07561;State
+1994;Korea - North;21.32897;State
+1994;Korea - South;44.7189;State
+1994;Laos;4.71183;State
+1994;Macau;0.39294;State
+1994;Malaysia;19.83502;State
+1994;Maldives;0.25338;State
+1994;Mongolia;2.40065;State
+1994;Nauru;0.00982;State
+1994;Nepal;21.24674;State
+1994;New Caledonia;0.18745;State
+1994;New Zealand;3.5843;State
+1994;Niue;0.002;State
+1994;Pakistan;130.74625;State
+1994;Papua New Guinea;4.1031;State
+1994;Philippines;70.94455;State
+1994;Samoa;0.16748;State
+1994;Singapore;3.42798;State
+1994;Solomon Islands;0.36385;State
+1994;Sri Lanka;18.24706;State
+1994;Taiwan;21.09325;State
+1994;Thailand;58.19106;State
+1994;Tonga;0.09444;State
+1994;U.S. Pacific Islands;0.22598;State
+1994;Vanuatu;0.16894;State
+1994;Vietnam;72.55954;State
+1994;World;5616.68132;World
+1995;North America;388.97216;Region
+1995;Bermuda;0.06029;State
+1995;Canada;29.69053;State
+1995;Greenland;0.05619;State
+1995;Mexico;92.88035;State
+1995;Saint Pierre and Miquelon;0.0064;State
+1995;United States;266.27839;State
+1995;Central & South America;390.75665;Region
+1995;Antigua and Barbuda;0.06871;State
+1995;Argentina;35.27384;State
+1995;Bahamas - The;0.26518;State
+1995;Barbados;0.26767;State
+1995;Belize;0.21717;State
+1995;Bolivia;7.37487;State
+1995;Brazil;163.54428;State
+1995;Cayman Islands;0.03249;State
+1995;Chile;14.20661;State
+1995;Colombia;36.53183;State
+1995;Costa Rica;3.44474;State
+1995;Cuba;10.86545;State
+1995;Dominica;0.07142;State
+1995;Dominican Republic;7.75897;State
+1995;Ecuador;11.26561;State
+1995;El Salvador;5.47983;State
+1995;Falkland Islands (Islas Malvinas);0.002;State
+1995;French Guiana;0.15;State
+1995;Grenada;0.09774;State
+1995;Guadeloupe;0.42;State
+1995;Guatemala;10.02782;State
+1995;Guyana;0.76916;State
+1995;Haiti;7.5704;State
+1995;Honduras;5.55079;State
+1995;Jamaica;2.46907;State
+1995;Martinique;0.394;State
+1995;Montserrat;0.01027;State
+1995;Netherlands Antilles;0.19891;State
+1995;Nicaragua;4.38462;State
+1995;Panama;2.63817;State
+1995;Paraguay;4.82556;State
+1995;Peru;23.94219;State
+1995;Puerto Rico;3.6831;State
+1995;Saint Kitts and Nevis;0.04313;State
+1995;Saint Lucia;0.1465;State
+1995;Saint Vincent/Grenadines;0.10879;State
+1995;Suriname;0.40283;State
+1995;Trinidad and Tobago;1.26432;State
+1995;Turks and Caicos Islands;0.01444;State
+1995;Uruguay;3.21926;State
+1995;Venezuela;21.549;State
+1995;Virgin Islands -  U.S.;0.10782;State
+1995;Virgin Islands - British;0.01813;State
+1995;Europe;569.20044;Continent
+1995;Albania;3.15815;State
+1995;Austria;8.04743;State
+1995;Belgium;10.15546;State
+1995;Bulgaria;8.25581;State
+1995;Cyprus;0.84735;State
+1995;Denmark;5.23261;State
+1995;Faroe Islands;0.04354;State
+1995;Finland;5.10465;State
+1995;France;58.36558;State
+1995;Germany;81.6537;State
+1995;Gibraltar;0.02677;State
+1995;Greece;10.45755;State
+1995;Hungary;10.28081;State
+1995;Iceland;0.26753;State
+1995;Ireland;3.61389;State
+1995;Italy;57.29941;State
+1995;Luxembourg;0.4097;State
+1995;Malta;0.37689;State
+1995;Netherlands;15.45905;State
+1995;Norway;4.3591;State
+1995;Poland;38.60064;State
+1995;Portugal;10.06554;State
+1995;Romania;22.68741;State
+1995;Spain;39.76471;State
+1995;Sweden;8.87789;State
+1995;Switzerland;7.18796;State
+1995;Turkey;61.94015;State
+1995;United Kingdom;58.42269;State
+1995;Eurasia;290.85266;Region
+1995;Middle East;152.34103;Region
+1995;Bahrain;0.57295;State
+1995;Iran;64.21727;State
+1995;Iraq;19.56361;State
+1995;Israel;5.3529;State
+1995;Jordan;4.17643;State
+1995;Kuwait;1.62105;State
+1995;Lebanon;3.6539;State
+1995;Oman;2.13857;State
+1995;Qatar;0.52121;State
+1995;Saudi Arabia;18.75504;State
+1995;Syria;14.44857;State
+1995;United Arab Emirates;2.45798;State
+1995;Yemen;14.86156;State
+1995;Africa;713.37126;Continent
+1995;Algeria;28.08915;State
+1995;Angola;9.41912;State
+1995;Benin;5.64683;State
+1995;Botswana;1.47759;State
+1995;Burkina Faso;9.90278;State
+1995;Burundi;6.16495;State
+1995;Cameroon;13.60316;State
+1995;Cape Verde;0.38543;State
+1995;Central African Republic;3.54441;State
+1995;Chad;6.76969;State
+1995;Comoros;0.49701;State
+1995;Congo (Brazzaville);2.65;State
+1995;Congo (Kinshasa);46.29859;State
+1995;Cote dIvoire (IvoryCoast);14.8458;State
+1995;Djibouti;0.55303;State
+1995;Egypt;58.94503;State
+1995;Equatorial Guinea;0.42623;State
+1995;Ethiopia;55.54997;State
+1995;Gabon;1.06907;State
+1995;Gambia - The;1.1498;State
+1995;Ghana;17.70406;State
+1995;Guinea;7.4457;State
+1995;Guinea-Bissau;1.14333;State
+1995;Kenya;27.12391;State
+1995;Lesotho;1.84757;State
+1995;Liberia;1.90028;State
+1995;Libya;4.66286;State
+1995;Madagascar;13.53236;State
+1995;Malawi;10.26405;State
+1995;Mali;9.33602;State
+1995;Mauritania;2.23479;State
+1995;Mauritius;1.12312;State
+1995;Morocco;26.1476;State
+1995;Mozambique;15.76475;State
+1995;Niger;9.19933;State
+1995;Nigeria;109.46508;State
+1995;Reunion;0.65;State
+1995;Rwanda;5.47298;State
+1995;Saint Helena;0.00695;State
+1995;Sao Tome and Principe;0.12714;State
+1995;Senegal;8.37806;State
+1995;Seychelles;0.07493;State
+1995;Sierra Leone;3.88144;State
+1995;Somalia;6.40072;State
+1995;South Africa;42.22792;State
+1995;Sudan;29.95296;State
+1995;Swaziland;1.00364;State
+1995;Tanzania;29.7529;State
+1995;Togo;4.20291;State
+1995;Tunisia;8.97627;State
+1995;Uganda;20.68952;State
+1995;Western Sahara;0.26387;State
+1995;Zambia;9.02068;State
+1995;Zimbabwe;11.15949;State
+1995;Asia & Oceania;3191.91196;Region
+1995;Afghanistan;19.22594;State
+1995;American Samoa;0.05391;State
+1995;Australia;17.97563;State
+1995;Bangladesh;121.44231;State
+1995;Bhutan;0.56631;State
+1995;Brunei;0.28799;State
+1995;Burma (Myanmar);43.99398;State
+1995;Cambodia;11.23414;State
+1995;China;1216.37844;State
+1995;Cook Islands;0.01831;State
+1995;Fiji;0.77252;State
+1995;French Polynesia;0.22676;State
+1995;Guam;0.14419;State
+1995;Hong Kong;6.22535;State
+1995;India;920.58497;State
+1995;Indonesia;198.63437;State
+1995;Japan;125.34135;State
+1995;Kiribati;0.07654;State
+1995;Korea - North;21.53398;State
+1995;Korea - South;45.10508;State
+1995;Laos;4.84612;State
+1995;Macau;0.4013;State
+1995;Malaysia;20.33903;State
+1995;Maldives;0.26058;State
+1995;Mongolia;2.44704;State
+1995;Nauru;0.00982;State
+1995;Nepal;21.87667;State
+1995;New Caledonia;0.19178;State
+1995;New Zealand;3.64018;State
+1995;Niue;0.002;State
+1995;Pakistan;134.18537;State
+1995;Papua New Guinea;4.21589;State
+1995;Philippines;72.59743;State
+1995;Samoa;0.16889;State
+1995;Singapore;3.54287;State
+1995;Solomon Islands;0.37507;State
+1995;Sri Lanka;18.47588;State
+1995;Taiwan;21.29041;State
+1995;Thailand;58.94228;State
+1995;Tonga;0.0952;State
+1995;U.S. Pacific Islands;0.23015;State
+1995;Vanuatu;0.17255;State
+1995;Vietnam;73.78339;State
+1995;World;5697.40615;World
+1996;North America;393.9428;Region
+1996;Bermuda;0.06087;State
+1996;Canada;30.02632;State
+1996;Greenland;0.05634;State
+1996;Mexico;94.39858;State
+1996;Saint Pierre and Miquelon;0.00641;State
+1996;United States;269.39428;State
+1996;Central & South America;397.13002;Region
+1996;Antigua and Barbuda;0.07006;State
+1996;Argentina;35.68296;State
+1996;Bahamas - The;0.26888;State
+1996;Barbados;0.26881;State
+1996;Belize;0.22297;State
+1996;Bolivia;7.5344;State
+1996;Brazil;166.08586;State
+1996;Cayman Islands;0.03368;State
+1996;Chile;14.40541;State
+1996;Colombia;37.09791;State
+1996;Costa Rica;3.536;State
+1996;Cuba;10.9117;State
+1996;Dominica;0.071;State
+1996;Dominican Republic;7.89898;State
+1996;Ecuador;11.52648;State
+1996;El Salvador;5.56411;State
+1996;Falkland Islands (Islas Malvinas);0.002;State
+1996;French Guiana;0.15;State
+1996;Grenada;0.09865;State
+1996;Guadeloupe;0.43;State
+1996;Guatemala;10.26795;State
+1996;Guyana;0.76889;State
+1996;Haiti;7.74067;State
+1996;Honduras;5.71284;State
+1996;Jamaica;2.50125;State
+1996;Martinique;0.399;State
+1996;Montserrat;0.00795;State
+1996;Netherlands Antilles;0.20124;State
+1996;Nicaragua;4.50076;State
+1996;Panama;2.68979;State
+1996;Paraguay;4.95484;State
+1996;Peru;24.40212;State
+1996;Puerto Rico;3.72466;State
+1996;Saint Kitts and Nevis;0.04358;State
+1996;Saint Lucia;0.14817;State
+1996;Saint Vincent/Grenadines;0.10877;State
+1996;Suriname;0.40761;State
+1996;Trinidad and Tobago;1.26246;State
+1996;Turks and Caicos Islands;0.01504;State
+1996;Uruguay;3.24212;State
+1996;Venezuela;21.96076;State
+1996;Virgin Islands -  U.S.;0.10809;State
+1996;Virgin Islands - British;0.01858;State
+1996;Europe;571.23256;Continent
+1996;Albania;3.2036;State
+1996;Austria;8.06085;State
+1996;Belgium;10.17893;State
+1996;Bulgaria;8.16103;State
+1996;Cyprus;0.8643;State
+1996;Denmark;5.26208;State
+1996;Faroe Islands;0.04359;State
+1996;Finland;5.12031;State
+1996;France;58.61602;State
+1996;Germany;81.89067;State
+1996;Gibraltar;0.02678;State
+1996;Greece;10.47942;State
+1996;Hungary;10.2593;State
+1996;Iceland;0.269;State
+1996;Ireland;3.63618;State
+1996;Italy;57.39232;State
+1996;Luxembourg;0.41557;State
+1996;Malta;0.37996;State
+1996;Netherlands;15.52781;State
+1996;Norway;4.38128;State
+1996;Poland;38.62984;State
+1996;Portugal;10.09992;State
+1996;Romania;22.62247;State
+1996;Spain;39.82056;State
+1996;Sweden;8.89223;State
+1996;Switzerland;7.21214;State
+1996;Turkey;63.0178;State
+1996;United Kingdom;58.58181;State
+1996;Eurasia;290.62283;Region
+1996;Middle East;155.84253;Region
+1996;Bahrain;0.58639;State
+1996;Iran;65.11578;State
+1996;Iraq;20.16797;State
+1996;Israel;5.51452;State
+1996;Jordan;4.28166;State
+1996;Kuwait;1.69316;State
+1996;Lebanon;3.68504;State
+1996;Oman;2.19966;State
+1996;Qatar;0.53602;State
+1996;Saudi Arabia;19.29336;State
+1996;Syria;14.8437;State
+1996;United Arab Emirates;2.59958;State
+1996;Yemen;15.32572;State
+1996;Africa;730.48755;Continent
+1996;Algeria;28.60404;State
+1996;Angola;9.65061;State
+1996;Benin;5.82023;State
+1996;Botswana;1.52091;State
+1996;Burkina Faso;10.22018;State
+1996;Burundi;6.20373;State
+1996;Cameroon;13.94474;State
+1996;Cape Verde;0.3948;State
+1996;Central African Republic;3.62161;State
+1996;Chad;7.051;State
+1996;Comoros;0.51232;State
+1996;Congo (Brazzaville);2.73125;State
+1996;Congo (Kinshasa);47.19667;State
+1996;Cote dIvoire (IvoryCoast);15.28145;State
+1996;Djibouti;0.56843;State
+1996;Egypt;59.75782;State
+1996;Equatorial Guinea;0.43842;State
+1996;Ethiopia;57.19265;State
+1996;Gabon;1.09771;State
+1996;Gambia - The;1.19258;State
+1996;Ghana;18.08539;State
+1996;Guinea;7.70157;State
+1996;Guinea-Bissau;1.16626;State
+1996;Kenya;27.79029;State
+1996;Lesotho;1.86905;State
+1996;Liberia;1.93223;State
+1996;Libya;4.69528;State
+1996;Madagascar;13.94848;State
+1996;Malawi;10.52681;State
+1996;Mali;9.5158;State
+1996;Mauritania;2.27068;State
+1996;Mauritius;1.13534;State
+1996;Morocco;26.56357;State
+1996;Mozambique;16.29834;State
+1996;Niger;9.52474;State
+1996;Nigeria;112.14902;State
+1996;Reunion;0.66;State
+1996;Rwanda;6.54646;State
+1996;Saint Helena;0.007;State
+1996;Sao Tome and Principe;0.12953;State
+1996;Senegal;8.59491;State
+1996;Seychelles;0.07571;State
+1996;Sierra Leone;3.8105;State
+1996;Somalia;6.57426;State
+1996;South Africa;42.79396;State
+1996;Sudan;30.63013;State
+1996;Swaziland;1.03245;State
+1996;Tanzania;30.39214;State
+1996;Togo;4.40207;State
+1996;Tunisia;9.10886;State
+1996;Uganda;21.24872;State
+1996;Western Sahara;0.27767;State
+1996;Zambia;9.25485;State
+1996;Zimbabwe;11.31695;State
+1996;Asia & Oceania;3238.06006;Region
+1996;Afghanistan;19.86465;State
+1996;American Samoa;0.05496;State
+1996;Australia;18.19585;State
+1996;Bangladesh;123.43252;State
+1996;Bhutan;0.56533;State
+1996;Brunei;0.29557;State
+1996;Burma (Myanmar);44.72671;State
+1996;Cambodia;11.48458;State
+1996;China;1227.88219;State
+1996;Cook Islands;0.01818;State
+1996;Fiji;0.77889;State
+1996;French Polynesia;0.2313;State
+1996;Guam;0.14532;State
+1996;Hong Kong;6.39156;State
+1996;India;937.72548;State
+1996;Indonesia;202.01216;State
+1996;Japan;125.64531;State
+1996;Kiribati;0.0779;State
+1996;Korea - North;21.60596;State
+1996;Korea - South;45.46797;State
+1996;Laos;4.94763;State
+1996;Macau;0.4104;State
+1996;Malaysia;20.85669;State
+1996;Maldives;0.27053;State
+1996;Mongolia;2.49485;State
+1996;Nauru;0.00983;State
+1996;Nepal;22.50257;State
+1996;New Caledonia;0.19553;State
+1996;New Zealand;3.69501;State
+1996;Niue;0.002;State
+1996;Pakistan;137.91117;State
+1996;Papua New Guinea;4.33107;State
+1996;Philippines;74.33582;State
+1996;Samoa;0.17033;State
+1996;Singapore;3.67228;State
+1996;Solomon Islands;0.38649;State
+1996;Sri Lanka;18.67967;State
+1996;Taiwan;21.45771;State
+1996;Thailand;59.67497;State
+1996;Tonga;0.0962;State
+1996;U.S. Pacific Islands;0.23427;State
+1996;Vanuatu;0.1761;State
+1996;Vietnam;74.94655;State
+1996;World;5777.31836;World
+1997;North America;398.97205;Region
+1997;Bermuda;0.06145;State
+1997;Canada;30.3056;State
+1997;Greenland;0.05651;State
+1997;Mexico;95.89515;State
+1997;Saint Pierre and Miquelon;0.00642;State
+1997;United States;272.64693;State
+1997;Central & South America;403.41352;Region
+1997;Antigua and Barbuda;0.07145;State
+1997;Argentina;36.10216;State
+1997;Bahamas - The;0.27256;State
+1997;Barbados;0.27006;State
+1997;Belize;0.22895;State
+1997;Bolivia;7.69515;State
+1997;Brazil;168.63874;State
+1997;Cayman Islands;0.03487;State
+1997;Chile;14.60109;State
+1997;Colombia;37.61994;State
+1997;Costa Rica;3.62532;State
+1997;Cuba;10.95186;State
+1997;Dominica;0.07028;State
+1997;Dominican Republic;8.03994;State
+1997;Ecuador;11.79247;State
+1997;El Salvador;5.63681;State
+1997;Falkland Islands (Islas Malvinas);0.00243;State
+1997;French Guiana;0.16;State
+1997;Grenada;0.09957;State
+1997;Guadeloupe;0.43;State
+1997;Guatemala;10.49612;State
+1997;Guyana;0.76841;State
+1997;Haiti;7.90968;State
+1997;Honduras;5.87503;State
+1997;Jamaica;2.53118;State
+1997;Martinique;0.403;State
+1997;Montserrat;0.00595;State
+1997;Netherlands Antilles;0.20354;State
+1997;Nicaragua;4.61188;State
+1997;Panama;2.74368;State
+1997;Paraguay;5.08116;State
+1997;Peru;24.84715;State
+1997;Puerto Rico;3.75943;State
+1997;Saint Kitts and Nevis;0.04407;State
+1997;Saint Lucia;0.14971;State
+1997;Saint Vincent/Grenadines;0.10861;State
+1997;Suriname;0.41339;State
+1997;Trinidad and Tobago;1.26015;State
+1997;Turks and Caicos Islands;0.01565;State
+1997;Uruguay;3.26667;State
+1997;Venezuela;22.3618;State
+1997;Virgin Islands -  U.S.;0.10836;State
+1997;Virgin Islands - British;0.01903;State
+1997;Europe;573.25103;Continent
+1997;Albania;3.22541;State
+1997;Austria;8.06988;State
+1997;Belgium;10.19979;State
+1997;Bulgaria;8.06606;State
+1997;Cyprus;0.87985;State
+1997;Denmark;5.28366;State
+1997;Faroe Islands;0.04405;State
+1997;Finland;5.13441;State
+1997;France;58.8725;State
+1997;Germany;82.01107;State
+1997;Gibraltar;0.02675;State
+1997;Greece;10.50237;State
+1997;Hungary;10.22955;State
+1997;Iceland;0.27119;State
+1997;Ireland;3.68123;State
+1997;Italy;57.5052;State
+1997;Luxembourg;0.42101;State
+1997;Malta;0.38295;State
+1997;Netherlands;15.60446;State
+1997;Norway;4.40567;State
+1997;Poland;38.65496;State
+1997;Portugal;10.15642;State
+1997;Romania;22.55774;State
+1997;Spain;39.90724;State
+1997;Sweden;8.89762;State
+1997;Switzerland;7.22506;State
+1997;Turkey;64.09769;State
+1997;United Kingdom;58.73261;State
+1997;Eurasia;290.27955;Region
+1997;Middle East;162.21659;Region
+1997;Bahrain;0.59893;State
+1997;Iran;66.04188;State
+1997;Iraq;20.78125;State
+1997;Israel;5.66009;State
+1997;Jordan;4.38525;State
+1997;Kuwait;1.76564;State
+1997;Lebanon;3.71429;State
+1997;Oman;2.25973;State
+1997;Qatar;0.55086;State
+1997;Saudi Arabia;19.81838;State
+1997;Syria;15.24445;State
+1997;United Arab Emirates;2.74633;State
+1997;Yemen;15.81571;State
+1997;Africa;747.90581;Continent
+1997;Algeria;29.08356;State
+1997;Angola;9.85558;State
+1997;Benin;6.00623;State
+1997;Botswana;1.56319;State
+1997;Burkina Faso;10.54257;State
+1997;Burundi;6.24364;State
+1997;Cameroon;14.29013;State
+1997;Cape Verde;0.404;State
+1997;Central African Republic;3.70738;State
+1997;Chad;7.26171;State
+1997;Comoros;0.52812;State
+1997;Congo (Brazzaville);2.80247;State
+1997;Congo (Kinshasa);47.73982;State
+1997;Cote dIvoire (IvoryCoast);15.68623;State
+1997;Djibouti;0.59249;State
+1997;Egypt;61.07191;State
+1997;Equatorial Guinea;0.45103;State
+1997;Ethiopia;58.80542;State
+1997;Gabon;1.12694;State
+1997;Gambia - The;1.23585;State
+1997;Ghana;18.47351;State
+1997;Guinea;7.79106;State
+1997;Guinea-Bissau;1.19411;State
+1997;Kenya;28.45861;State
+1997;Lesotho;1.88354;State
+1997;Liberia;2.09745;State
+1997;Libya;4.76892;State
+1997;Madagascar;14.3766;State
+1997;Malawi;10.83884;State
+1997;Mali;9.78384;State
+1997;Mauritania;2.31522;State
+1997;Mauritius;1.14835;State
+1997;Morocco;26.96872;State
+1997;Mozambique;16.75966;State
+1997;Niger;9.8513;State
+1997;Nigeria;114.86204;State
+1997;Reunion;0.67;State
+1997;Rwanda;7.64742;State
+1997;Saint Helena;0.00706;State
+1997;Sao Tome and Principe;0.13209;State
+1997;Senegal;8.80985;State
+1997;Seychelles;0.07641;State
+1997;Sierra Leone;3.76521;State
+1997;Somalia;6.75108;State
+1997;South Africa;43.35363;State
+1997;Sudan;31.4161;State
+1997;Swaziland;1.06106;State
+1997;Tanzania;31.09265;State
+1997;Togo;4.57245;State
+1997;Tunisia;9.23529;State
+1997;Uganda;21.86101;State
+1997;Western Sahara;0.29184;State
+1997;Zambia;9.51552;State
+1997;Zimbabwe;11.46939;State
+1997;Asia & Oceania;3282.33448;Region
+1997;Afghanistan;20.49022;State
+1997;American Samoa;0.05597;State
+1997;Australia;18.41526;State
+1997;Bangladesh;125.50582;State
+1997;Bhutan;0.57484;State
+1997;Brunei;0.30311;State
+1997;Burma (Myanmar);45.42617;State
+1997;Cambodia;11.72171;State
+1997;China;1238.12566;State
+1997;Cook Islands;0.01787;State
+1997;Fiji;0.78561;State
+1997;French Polynesia;0.23577;State
+1997;Guam;0.1468;State
+1997;Hong Kong;6.49592;State
+1997;India;954.92605;State
+1997;Indonesia;205.27672;State
+1997;Japan;125.95649;State
+1997;Kiribati;0.07969;State
+1997;Korea - North;21.47045;State
+1997;Korea - South;45.80783;State
+1997;Laos;5.0549;State
+1997;Macau;0.41699;State
+1997;Malaysia;21.40715;State
+1997;Maldives;0.27571;State
+1997;Mongolia;2.53922;State
+1997;Nauru;0.00987;State
+1997;Nepal;23.10934;State
+1997;New Caledonia;0.19938;State
+1997;New Zealand;3.73642;State
+1997;Niue;0.002;State
+1997;Pakistan;141.4455;State
+1997;Papua New Guinea;4.44837;State
+1997;Philippines;76.05706;State
+1997;Samoa;0.17181;State
+1997;Singapore;3.80231;State
+1997;Solomon Islands;0.39809;State
+1997;Sri Lanka;18.8682;State
+1997;Taiwan;21.63853;State
+1997;Thailand;60.36736;State
+1997;Tonga;0.09744;State
+1997;U.S. Pacific Islands;0.2384;State
+1997;Vanuatu;0.17962;State
+1997;Vietnam;76.05286;State
+1997;World;5858.37302;World
+1998;North America;403.85585;Region
+1998;Bermuda;0.06198;State
+1998;Canada;30.55166;State
+1998;Greenland;0.05661;State
+1998;Mexico;97.32506;State
+1998;Saint Pierre and Miquelon;0.00642;State
+1998;United States;275.8541;State
+1998;Central & South America;409.62879;Region
+1998;Antigua and Barbuda;0.07278;State
+1998;Argentina;36.51792;State
+1998;Bahamas - The;0.27599;State
+1998;Barbados;0.27129;State
+1998;Belize;0.23513;State
+1998;Bolivia;7.8589;State
+1998;Brazil;171.20116;State
+1998;Cayman Islands;0.03606;State
+1998;Chile;14.79216;State
+1998;Colombia;38.13259;State
+1998;Costa Rica;3.71374;State
+1998;Cuba;10.99853;State
+1998;Dominica;0.07004;State
+1998;Dominican Republic;8.18221;State
+1998;Ecuador;12.05063;State
+1998;El Salvador;5.71157;State
+1998;Falkland Islands (Islas Malvinas);0.0026;State
+1998;French Guiana;0.17;State
+1998;Grenada;0.10039;State
+1998;Guadeloupe;0.43;State
+1998;Guatemala;10.70814;State
+1998;Guyana;0.7726;State
+1998;Haiti;8.08056;State
+1998;Honduras;6.0391;State
+1998;Jamaica;2.56043;State
+1998;Martinique;0.407;State
+1998;Montserrat;0.00338;State
+1998;Netherlands Antilles;0.20581;State
+1998;Nicaragua;4.71974;State
+1998;Panama;2.79723;State
+1998;Paraguay;5.20018;State
+1998;Peru;25.27571;State
+1998;Puerto Rico;3.7811;State
+1998;Saint Kitts and Nevis;0.04461;State
+1998;Saint Lucia;0.15102;State
+1998;Saint Vincent/Grenadines;0.1084;State
+1998;Suriname;0.41993;State
+1998;Trinidad and Tobago;1.25764;State
+1998;Turks and Caicos Islands;0.01627;State
+1998;Uruguay;3.28869;State
+1998;Venezuela;22.75136;State
+1998;Virgin Islands -  U.S.;0.10854;State
+1998;Virgin Islands - British;0.01948;State
+1998;Europe;575.25757;Continent
+1998;Albania;3.21277;State
+1998;Austria;8.07862;State
+1998;Belgium;10.21703;State
+1998;Bulgaria;7.97177;State
+1998;Cyprus;0.89373;State
+1998;Denmark;5.30277;State
+1998;Faroe Islands;0.04456;State
+1998;Finland;5.14698;State
+1998;France;59.13674;State
+1998;Germany;82.02367;State
+1998;Gibraltar;0.02675;State
+1998;Greece;10.52007;State
+1998;Hungary;10.2004;State
+1998;Iceland;0.274;State
+1998;Ireland;3.72801;State
+1998;Italy;57.57648;State
+1998;Luxembourg;0.4265;State
+1998;Malta;0.38561;State
+1998;Netherlands;15.69926;State
+1998;Norway;4.43272;State
+1998;Poland;38.66876;State
+1998;Portugal;10.22483;State
+1998;Romania;22.51138;State
+1998;Spain;40.0461;State
+1998;Sweden;8.90268;State
+1998;Switzerland;7.23953;State
+1998;Turkey;65.17718;State
+1998;United Kingdom;58.92063;State
+1998;Eurasia;289.91891;Region
+1998;Middle East;165.85793;Region
+1998;Bahrain;0.61118;State
+1998;Iran;66.95374;State
+1998;Iraq;21.40271;State
+1998;Israel;5.80873;State
+1998;Jordan;4.48522;State
+1998;Kuwait;1.83621;State
+1998;Lebanon;3.74182;State
+1998;Oman;2.31861;State
+1998;Qatar;0.57056;State
+1998;Saudi Arabia;20.32909;State
+1998;Syria;15.64985;State
+1998;United Arab Emirates;2.8985;State
+1998;Yemen;16.3272;State
+1998;Africa;765.93193;Continent
+1998;Algeria;29.53558;State
+1998;Angola;10.03917;State
+1998;Benin;6.20232;State
+1998;Botswana;1.60401;State
+1998;Burkina Faso;10.87271;State
+1998;Burundi;6.41743;State
+1998;Cameroon;14.63798;State
+1998;Cape Verde;0.41297;State
+1998;Central African Republic;3.79796;State
+1998;Chad;7.47932;State
+1998;Comoros;0.54444;State
+1998;Congo (Brazzaville);2.88;State
+1998;Congo (Kinshasa);48.75971;State
+1998;Cote dIvoire (IvoryCoast);16.04536;State
+1998;Djibouti;0.62088;State
+1998;Egypt;62.41172;State
+1998;Equatorial Guinea;0.46406;State
+1998;Ethiopia;60.4839;State
+1998;Gabon;1.15717;State
+1998;Gambia - The;1.27957;State
+1998;Ghana;18.88771;State
+1998;Guinea;7.90661;State
+1998;Guinea-Bissau;1.22224;State
+1998;Kenya;29.12289;State
+1998;Lesotho;1.8966;State
+1998;Liberia;2.34951;State
+1998;Libya;4.8841;State
+1998;Madagascar;14.81658;State
+1998;Malawi;11.15534;State
+1998;Mali;10.04609;State
+1998;Mauritania;2.3741;State
+1998;Mauritius;1.16066;State
+1998;Morocco;27.36105;State
+1998;Mozambique;17.22003;State
+1998;Niger;10.19566;State
+1998;Nigeria;117.59957;State
+1998;Reunion;0.68;State
+1998;Rwanda;8.04184;State
+1998;Saint Helena;0.00712;State
+1998;Sao Tome and Principe;0.1348;State
+1998;Senegal;9.03714;State
+1998;Seychelles;0.07717;State
+1998;Sierra Leone;3.74573;State
+1998;Somalia;6.9652;State
+1998;South Africa;43.96192;State
+1998;Sudan;32.36192;State
+1998;Swaziland;1.0894;State
+1998;Tanzania;31.95096;State
+1998;Togo;4.71517;State
+1998;Tunisia;9.35274;State
+1998;Uganda;22.50214;State
+1998;Western Sahara;0.30635;State
+1998;Zambia;9.78077;State
+1998;Zimbabwe;11.60692;State
+1998;Asia & Oceania;3325.29036;Region
+1998;Afghanistan;21.13212;State
+1998;American Samoa;0.05693;State
+1998;Australia;18.62084;State
+1998;Bangladesh;127.66013;State
+1998;Bhutan;0.58527;State
+1998;Brunei;0.31053;State
+1998;Burma (Myanmar);46.11082;State
+1998;Cambodia;11.94447;State
+1998;China;1247.50222;State
+1998;Cook Islands;0.01738;State
+1998;Fiji;0.79269;State
+1998;French Polynesia;0.24024;State
+1998;Guam;0.14972;State
+1998;Hong Kong;6.54456;State
+1998;India;972.11281;State
+1998;Indonesia;208.47748;State
+1998;Japan;126.24609;State
+1998;Kiribati;0.08153;State
+1998;Korea - North;21.20487;State
+1998;Korea - South;46.15151;State
+1998;Laos;5.16765;State
+1998;Macau;0.42161;State
+1998;Malaysia;21.97723;State
+1998;Maldives;0.28118;State
+1998;Mongolia;2.58152;State
+1998;Nauru;0.00989;State
+1998;Nepal;23.70029;State
+1998;New Caledonia;0.20324;State
+1998;New Zealand;3.76231;State
+1998;Niue;0.002;State
+1998;Pakistan;144.88529;State
+1998;Papua New Guinea;4.5678;State
+1998;Philippines;77.74055;State
+1998;Samoa;0.17331;State
+1998;Singapore;3.90453;State
+1998;Solomon Islands;0.40984;State
+1998;Sri Lanka;19.05566;State
+1998;Taiwan;21.83444;State
+1998;Thailand;61.03791;State
+1998;Tonga;0.09887;State
+1998;U.S. Pacific Islands;0.24244;State
+1998;Vanuatu;0.18309;State
+1998;Vietnam;77.1075;State
+1998;World;5935.74132;World
+1999;North America;408.60296;Region
+1999;Bermuda;0.06251;State
+1999;Canada;30.82026;State
+1999;Greenland;0.0567;State
+1999;Mexico;98.61691;State
+1999;Saint Pierre and Miquelon;0.00643;State
+1999;United States;279.04017;State
+1999;Central & South America;415.63607;Region
+1999;Antigua and Barbuda;0.07402;State
+1999;Argentina;36.92342;State
+1999;Bahamas - The;0.27931;State
+1999;Barbados;0.2725;State
+1999;Belize;0.24148;State
+1999;Bolivia;8.02556;State
+1999;Brazil;173.76387;State
+1999;Cayman Islands;0.03725;State
+1999;Chile;14.97655;State
+1999;Colombia;38.56386;State
+1999;Costa Rica;3.80017;State
+1999;Cuba;11.05298;State
+1999;Dominica;0.07035;State
+1999;Dominican Republic;8.3252;State
+1999;Ecuador;12.26831;State
+1999;El Salvador;5.78837;State
+1999;Falkland Islands (Islas Malvinas);0.0028;State
+1999;French Guiana;0.17;State
+1999;Grenada;0.10099;State
+1999;Guadeloupe;0.43;State
+1999;Guatemala;10.90342;State
+1999;Guyana;0.78005;State
+1999;Haiti;8.24971;State
+1999;Honduras;6.19088;State
+1999;Jamaica;2.58887;State
+1999;Martinique;0.414;State
+1999;Montserrat;0.00338;State
+1999;Netherlands Antilles;0.20802;State
+1999;Nicaragua;4.82722;State
+1999;Panama;2.84779;State
+1999;Paraguay;5.31154;State
+1999;Peru;25.68629;State
+1999;Puerto Rico;3.80008;State
+1999;Saint Kitts and Nevis;0.04513;State
+1999;Saint Lucia;0.15211;State
+1999;Saint Vincent/Grenadines;0.10812;State
+1999;Suriname;0.42626;State
+1999;Trinidad and Tobago;1.25463;State
+1999;Turks and Caicos Islands;0.01689;State
+1999;Uruguay;3.30831;State
+1999;Venezuela;23.12864;State
+1999;Virgin Islands -  U.S.;0.1086;State
+1999;Virgin Islands - British;0.01993;State
+1999;Europe;577.29902;Continent
+1999;Albania;3.18733;State
+1999;Austria;8.09416;State
+1999;Belgium;10.23566;State
+1999;Bulgaria;7.89323;State
+1999;Cyprus;0.90688;State
+1999;Denmark;5.32013;State
+1999;Faroe Islands;0.04512;State
+1999;Finland;5.1581;State
+1999;France;59.40602;State
+1999;Germany;82.07478;State
+1999;Gibraltar;0.02676;State
+1999;Greece;10.53675;State
+1999;Hungary;10.17161;State
+1999;Iceland;0.27728;State
+1999;Ireland;3.77486;State
+1999;Italy;57.63023;State
+1999;Luxembourg;0.43253;State
+1999;Malta;0.3878;State
+1999;Netherlands;15.80195;State
+1999;Norway;4.46338;State
+1999;Poland;38.66554;State
+1999;Portugal;10.28338;State
+1999;Romania;22.47629;State
+1999;Spain;40.25144;State
+1999;Sweden;8.90979;State
+1999;Switzerland;7.26468;State
+1999;Turkey;66.254;State
+1999;United Kingdom;59.15164;State
+1999;Eurasia;289.39641;Region
+1999;Middle East;169.46952;Region
+1999;Bahrain;0.62308;State
+1999;Iran;67.80393;State
+1999;Iraq;22.0356;State
+1999;Israel;5.96029;State
+1999;Jordan;4.58483;State
+1999;Kuwait;1.90567;State
+1999;Lebanon;3.76753;State
+1999;Oman;2.37618;State
+1999;Qatar;0.59711;State
+1999;Saudi Arabia;20.82455;State
+1999;Syria;16.05894;State
+1999;United Arab Emirates;3.05608;State
+1999;Yemen;16.85909;State
+1999;Africa;784.59937;Continent
+1999;Algeria;29.97982;State
+1999;Angola;10.21544;State
+1999;Benin;6.40677;State
+1999;Botswana;1.64294;State
+1999;Burkina Faso;11.22531;State
+1999;Burundi;6.63114;State
+1999;Cameroon;14.9885;State
+1999;Cape Verde;0.42168;State
+1999;Central African Republic;3.88922;State
+1999;Chad;7.70874;State
+1999;Comoros;0.56126;State
+1999;Congo (Brazzaville);2.97232;State
+1999;Congo (Kinshasa);50.28355;State
+1999;Cote dIvoire (IvoryCoast);16.45688;State
+1999;Djibouti;0.64626;State
+1999;Egypt;63.77347;State
+1999;Equatorial Guinea;0.47754;State
+1999;Ethiopia;62.2794;State
+1999;Gabon;1.19565;State
+1999;Gambia - The;1.3237;State
+1999;Ghana;19.3145;State
+1999;Guinea;8.1544;State
+1999;Guinea-Bissau;1.25041;State
+1999;Kenya;29.7955;State
+1999;Lesotho;1.90767;State
+1999;Liberia;2.49539;State
+1999;Libya;5.00314;State
+1999;Madagascar;15.27126;State
+1999;Malawi;11.47685;State
+1999;Mali;10.33565;State
+1999;Mauritania;2.43691;State
+1999;Mauritius;1.17313;State
+1999;Morocco;27.74199;State
+1999;Mozambique;17.67673;State
+1999;Niger;10.56322;State
+1999;Nigeria;120.3692;State
+1999;Reunion;0.7;State
+1999;Rwanda;8.22235;State
+1999;Saint Helena;0.00718;State
+1999;Sao Tome and Principe;0.13767;State
+1999;Senegal;9.25282;State
+1999;Seychelles;0.07814;State
+1999;Sierra Leone;3.73557;State
+1999;Somalia;7.17102;State
+1999;South Africa;44.52627;State
+1999;Sudan;33.22446;State
+1999;Swaziland;1.11714;State
+1999;Tanzania;32.80803;State
+1999;Togo;4.85245;State
+1999;Tunisia;9.46255;State
+1999;Uganda;23.22767;State
+1999;Western Sahara;0.32118;State
+1999;Zambia;10.05002;State
+1999;Zimbabwe;11.73308;State
+1999;Asia & Oceania;3367.43739;Region
+1999;Afghanistan;21.82157;State
+1999;American Samoa;0.05785;State
+1999;Australia;18.83025;State
+1999;Bangladesh;129.87906;State
+1999;Bhutan;0.59563;State
+1999;Brunei;0.3179;State
+1999;Burma (Myanmar);46.78168;State
+1999;Cambodia;12.15466;State
+1999;China;1255.9925;State
+1999;Cook Islands;0.01686;State
+1999;Fiji;0.79908;State
+1999;French Polynesia;0.24472;State
+1999;Guam;0.15259;State
+1999;Hong Kong;6.59931;State
+1999;India;989.25019;State
+1999;Indonesia;211.6872;State
+1999;Japan;126.4944;State
+1999;Kiribati;0.08334;State
+1999;Korea - North;21.10209;State
+1999;Korea - South;46.48542;State
+1999;Laos;5.28581;State
+1999;Macau;0.42777;State
+1999;Malaysia;22.55341;State
+1999;Maldives;0.29148;State
+1999;Mongolia;2.62305;State
+1999;Nauru;0.00987;State
+1999;Nepal;24.26987;State
+1999;New Caledonia;0.20718;State
+1999;New Zealand;3.78176;State
+1999;Niue;0.002;State
+1999;Pakistan;148.3792;State
+1999;Papua New Guinea;4.68932;State
+1999;Philippines;79.44813;State
+1999;Samoa;0.17476;State
+1999;Singapore;3.96775;State
+1999;Solomon Islands;0.42172;State
+1999;Sri Lanka;19.24104;State
+1999;Taiwan;22.00781;State
+1999;Thailand;61.63419;State
+1999;Tonga;0.10051;State
+1999;U.S. Pacific Islands;0.2463;State
+1999;Vanuatu;0.18651;State
+1999;Vietnam;78.14167;State
+1999;World;6012.44075;World
+2000;North America;413.3245;Region
+2000;Bermuda;0.06306;State
+2000;Canada;31.09956;State
+2000;Greenland;0.05689;State
+2000;Mexico;99.92662;State
+2000;Saint Pierre and Miquelon;0.00641;State
+2000;United States;282.17196;State
+2000;Central & South America;421.4539;Region
+2000;Antigua and Barbuda;0.07535;State
+2000;Argentina;37.33565;State
+2000;Bahamas - The;0.28259;State
+2000;Barbados;0.27368;State
+2000;Belize;0.248;State
+2000;Bolivia;8.1951;State
+2000;Brazil;176.31962;State
+2000;Cayman Islands;0.03844;State
+2000;Chile;15.15574;State
+2000;Colombia;38.91035;State
+2000;Costa Rica;3.88258;State
+2000;Cuba;11.10586;State
+2000;Dominica;0.07082;State
+2000;Dominican Republic;8.46891;State
+2000;Ecuador;12.44584;State
+2000;El Salvador;5.84982;State
+2000;Falkland Islands (Islas Malvinas);0.00285;State
+2000;French Guiana;0.17;State
+2000;Grenada;0.10161;State
+2000;Guadeloupe;0.43;State
+2000;Guatemala;11.08503;State
+2000;Guyana;0.78556;State
+2000;Haiti;8.41289;State
+2000;Honduras;6.3594;State
+2000;Jamaica;2.61563;State
+2000;Martinique;0.416;State
+2000;Montserrat;0.00395;State
+2000;Netherlands Antilles;0.21018;State
+2000;Nicaragua;4.93515;State
+2000;Panama;2.89951;State
+2000;Paraguay;5.41824;State
+2000;Peru;26.0867;State
+2000;Puerto Rico;3.81441;State
+2000;Saint Kitts and Nevis;0.04566;State
+2000;Saint Lucia;0.1533;State
+2000;Saint Vincent/Grenadines;0.10786;State
+2000;Suriname;0.43249;State
+2000;Trinidad and Tobago;1.25178;State
+2000;Turks and Caicos Islands;0.01751;State
+2000;Uruguay;3.32808;State
+2000;Venezuela;23.49275;State
+2000;Virgin Islands -  U.S.;0.10864;State
+2000;Virgin Islands - British;0.02038;State
+2000;Europe;579.66957;Continent
+2000;Albania;3.15835;State
+2000;Austria;8.11341;State
+2000;Belgium;10.26362;State
+2000;Bulgaria;7.8185;State
+2000;Cyprus;0.91968;State
+2000;Denmark;5.33742;State
+2000;Faroe Islands;0.04579;State
+2000;Finland;5.1686;State
+2000;France;59.70356;State
+2000;Germany;82.18791;State
+2000;Gibraltar;0.02727;State
+2000;Greece;10.55911;State
+2000;Hungary;10.14743;State
+2000;Iceland;0.28104;State
+2000;Ireland;3.8222;State
+2000;Italy;57.74642;State
+2000;Luxembourg;0.43878;State
+2000;Malta;0.38995;State
+2000;Netherlands;15.90785;State
+2000;Norway;4.4924;State
+2000;Poland;38.65416;State
+2000;Portugal;10.3356;State
+2000;Romania;22.44735;State
+2000;Spain;40.589;State
+2000;Sweden;8.92357;State
+2000;Switzerland;7.29913;State
+2000;Turkey;67.3293;State
+2000;United Kingdom;59.38361;State
+2000;Eurasia;288.71912;Region
+2000;Middle East;173.09215;Region
+2000;Bahrain;0.63462;State
+2000;Iran;68.63155;State
+2000;Iraq;22.67908;State
+2000;Israel;6.11457;State
+2000;Jordan;4.68762;State
+2000;Kuwait;1.97408;State
+2000;Lebanon;3.7915;State
+2000;Oman;2.43238;State
+2000;Qatar;0.62696;State
+2000;Saudi Arabia;21.3119;State
+2000;Syria;16.47124;State
+2000;United Arab Emirates;3.2193;State
+2000;Yemen;17.40726;State
+2000;Africa;803.61288;Continent
+2000;Algeria;30.42923;State
+2000;Angola;10.37727;State
+2000;Benin;6.61912;State
+2000;Botswana;1.67968;State
+2000;Burkina Faso;11.58775;State
+2000;Burundi;6.8227;State
+2000;Cameroon;15.34304;State
+2000;Cape Verde;0.43013;State
+2000;Central African Republic;3.97986;State
+2000;Chad;7.94268;State
+2000;Comoros;0.57863;State
+2000;Congo (Brazzaville);3.10394;State
+2000;Congo (Kinshasa);51.84855;State
+2000;Cote dIvoire (IvoryCoast);16.88458;State
+2000;Djibouti;0.66942;State
+2000;Egypt;65.15855;State
+2000;Equatorial Guinea;0.49148;State
+2000;Ethiopia;64.16496;State
+2000;Gabon;1.23643;State
+2000;Gambia - The;1.36822;State
+2000;Ghana;19.75162;State
+2000;Guinea;8.35041;State
+2000;Guinea-Bissau;1.27886;State
+2000;Kenya;30.50798;State
+2000;Lesotho;1.91632;State
+2000;Liberia;2.60067;State
+2000;Libya;5.12544;State
+2000;Madagascar;15.74194;State
+2000;Malawi;11.80151;State
+2000;Mali;10.62082;State
+2000;Mauritania;2.50087;State
+2000;Mauritius;1.18593;State
+2000;Morocco;28.11304;State
+2000;Mozambique;18.12456;State
+2000;Niger;10.95143;State
+2000;Nigeria;123.17882;State
+2000;Reunion;0.72;State
+2000;Rwanda;8.39841;State
+2000;Saint Helena;0.00723;State
+2000;Sao Tome and Principe;0.14069;State
+2000;Senegal;9.46928;State
+2000;Seychelles;0.07916;State
+2000;Sierra Leone;3.80906;State
+2000;Somalia;7.38572;State
+2000;South Africa;45.0641;State
+2000;Sudan;34.1093;State
+2000;Swaziland;1.14393;State
+2000;Tanzania;33.71212;State
+2000;Togo;4.99183;State
+2000;Tunisia;9.56755;State
+2000;Uganda;23.95582;State
+2000;Western Sahara;0.3363;State
+2000;Zambia;10.34517;State
+2000;Zimbabwe;11.82003;State
+2000;Asia & Oceania;3408.81144;Region
+2000;Afghanistan;22.02095;State
+2000;American Samoa;0.05777;State
+2000;Australia;19.05319;State
+2000;Bangladesh;132.15077;State
+2000;Bhutan;0.60587;State
+2000;Brunei;0.3253;State
+2000;Burma (Myanmar);47.43887;State
+2000;Cambodia;12.35115;State
+2000;China;1263.63753;State
+2000;Cook Islands;0.01631;State
+2000;Fiji;0.80493;State
+2000;French Polynesia;0.24918;State
+2000;Guam;0.15532;State
+2000;Hong Kong;6.65872;State
+2000;India;1006.3003;State
+2000;Indonesia;214.67661;State
+2000;Japan;126.72922;State
+2000;Kiribati;0.08512;State
+2000;Korea - North;21.26345;State
+2000;Korea - South;46.83884;State
+2000;Laos;5.39741;State
+2000;Macau;0.43174;State
+2000;Malaysia;23.15128;State
+2000;Maldives;0.29998;State
+2000;Mongolia;2.66376;State
+2000;Nauru;0.00986;State
+2000;Nepal;24.81816;State
+2000;New Caledonia;0.21119;State
+2000;New Zealand;3.8004;State
+2000;Niue;0.002;State
+2000;Pakistan;152.42904;State
+2000;Papua New Guinea;4.81279;State
+2000;Philippines;81.22208;State
+2000;Samoa;0.17621;State
+2000;Singapore;4.03675;State
+2000;Solomon Islands;0.43373;State
+2000;Sri Lanka;19.43587;State
+2000;Taiwan;22.18286;State
+2000;Thailand;62.15674;State
+2000;Tonga;0.10235;State
+2000;U.S. Pacific Islands;0.24999;State
+2000;Vanuatu;0.18986;State
+2000;Vietnam;79.17798;State
+2000;World;6088.68355;World
+2001;North America;417.83236;Region
+2001;Bermuda;0.06361;State
+2001;Canada;31.37674;State
+2001;Greenland;0.05713;State
+2001;Mexico;101.24696;State
+2001;Saint Pierre and Miquelon;0.00637;State
+2001;United States;285.08156;State
+2001;Central & South America;427.24012;Region
+2001;Antigua and Barbuda;0.07673;State
+2001;Argentina;37.69417;State
+2001;Bahamas - The;0.28569;State
+2001;Barbados;0.27491;State
+2001;Belize;0.25464;State
+2001;Bolivia;8.36745;State
+2001;Brazil;178.86966;State
+2001;Cayman Islands;0.03962;State
+2001;Chile;15.33189;State
+2001;Colombia;39.31245;State
+2001;Costa Rica;3.95621;State
+2001;Cuba;11.15582;State
+2001;Dominica;0.07121;State
+2001;Dominican Republic;8.61355;State
+2001;Ecuador;12.62912;State
+2001;El Salvador;5.8837;State
+2001;Falkland Islands (Islas Malvinas);0.0029;State
+2001;French Guiana;0.17756;State
+2001;Grenada;0.10229;State
+2001;Guadeloupe;0.43117;State
+2001;Guatemala;11.28435;State
+2001;Guyana;0.78626;State
+2001;Haiti;8.56858;State
+2001;Honduras;6.52698;State
+2001;Jamaica;2.64051;State
+2001;Martinique;0.41845;State
+2001;Montserrat;0.00424;State
+2001;Netherlands Antilles;0.21229;State
+2001;Nicaragua;5.04262;State
+2001;Panama;2.95229;State
+2001;Paraguay;5.5234;State
+2001;Peru;26.48533;State
+2001;Puerto Rico;3.83777;State
+2001;Saint Kitts and Nevis;0.04619;State
+2001;Saint Lucia;0.1544;State
+2001;Saint Vincent/Grenadines;0.10761;State
+2001;Suriname;0.43851;State
+2001;Trinidad and Tobago;1.24905;State
+2001;Turks and Caicos Islands;0.01813;State
+2001;Uruguay;3.34802;State
+2001;Venezuela;23.84387;State
+2001;Virgin Islands -  U.S.;0.10875;State
+2001;Virgin Islands - British;0.02084;State
+2001;Europe;582.3036;Continent
+2001;Albania;3.128;State
+2001;Austria;8.13169;State
+2001;Belgium;10.29168;State
+2001;Bulgaria;7.73842;State
+2001;Cyprus;0.93263;State
+2001;Denmark;5.35583;State
+2001;Faroe Islands;0.04659;State
+2001;Finland;5.18031;State
+2001;France;60.0299;State
+2001;Germany;82.28055;State
+2001;Gibraltar;0.02802;State
+2001;Greece;10.58152;State
+2001;Hungary;10.12993;State
+2001;Iceland;0.28481;State
+2001;Ireland;3.8727;State
+2001;Italy;57.87254;State
+2001;Luxembourg;0.44478;State
+2001;Malta;0.39187;State
+2001;Netherlands;16.01744;State
+2001;Norway;4.5152;State
+2001;Poland;38.64364;State
+2001;Portugal;10.38675;State
+2001;Romania;22.4155;State
+2001;Spain;41.04689;State
+2001;Sweden;8.93991;State
+2001;Switzerland;7.34377;State
+2001;Turkey;68.4049;State
+2001;United Kingdom;59.61997;State
+2001;Eurasia;287.98099;Region
+2001;Middle East;176.80343;Region
+2001;Bahrain;0.64589;State
+2001;Iran;69.53153;State
+2001;Iraq;23.33473;State
+2001;Israel;6.25134;State
+2001;Jordan;4.79335;State
+2001;Kuwait;2.04256;State
+2001;Lebanon;3.81411;State
+2001;Oman;2.4873;State
+2001;Qatar;0.65885;State
+2001;Saudi Arabia;21.79609;State
+2001;Syria;16.88507;State
+2001;United Arab Emirates;3.38733;State
+2001;Yemen;17.97054;State
+2001;Africa;823.10298;Continent
+2001;Algeria;30.87431;State
+2001;Angola;10.53839;State
+2001;Benin;6.83901;State
+2001;Botswana;1.71401;State
+2001;Burkina Faso;12.03936;State
+2001;Burundi;7.04302;State
+2001;Cameroon;15.70686;State
+2001;Cape Verde;0.43845;State
+2001;Central African Republic;4.05393;State
+2001;Chad;8.17941;State
+2001;Comoros;0.59646;State
+2001;Congo (Brazzaville);3.23999;State
+2001;Congo (Kinshasa);53.49657;State
+2001;Cote dIvoire (IvoryCoast);17.31097;State
+2001;Djibouti;0.69299;State
+2001;Egypt;66.57408;State
+2001;Equatorial Guinea;0.50592;State
+2001;Ethiopia;66.12258;State
+2001;Gabon;1.26915;State
+2001;Gambia - The;1.41305;State
+2001;Ghana;20.19629;State
+2001;Guinea;8.41692;State
+2001;Guinea-Bissau;1.30645;State
+2001;Kenya;31.2987;State
+2001;Lesotho;1.92234;State
+2001;Liberia;2.67979;State
+2001;Libya;5.25089;State
+2001;Madagascar;16.22682;State
+2001;Malawi;12.12867;State
+2001;Mali;10.91763;State
+2001;Mauritania;2.56579;State
+2001;Mauritius;1.19788;State
+2001;Morocco;28.47748;State
+2001;Mozambique;18.55916;State
+2001;Niger;11.36215;State
+2001;Nigeria;126.01433;State
+2001;Reunion;0.73257;State
+2001;Rwanda;8.61098;State
+2001;Saint Helena;0.00728;State
+2001;Sao Tome and Principe;0.14385;State
+2001;Senegal;9.7162;State
+2001;Seychelles;0.08017;State
+2001;Sierra Leone;4.04341;State
+2001;Somalia;7.62677;State
+2001;South Africa;45.57622;State
+2001;Sudan;35.02449;State
+2001;Swaziland;1.16952;State
+2001;Tanzania;34.56725;State
+2001;Togo;5.13457;State
+2001;Tunisia;9.67117;State
+2001;Uganda;24.69;State
+2001;Western Sahara;0.35169;State
+2001;Zambia;10.6461;State
+2001;Zimbabwe;11.86786;State
+2001;Asia & Oceania;3450.06017;Region
+2001;Afghanistan;22.0222;State
+2001;American Samoa;0.05874;State
+2001;Australia;19.29426;State
+2001;Bangladesh;134.47753;State
+2001;Bhutan;0.61598;State
+2001;Brunei;0.33265;State
+2001;Burma (Myanmar);48.08106;State
+2001;Cambodia;12.53961;State
+2001;China;1270.74423;State
+2001;Cook Islands;0.01573;State
+2001;Fiji;0.81073;State
+2001;French Polynesia;0.25361;State
+2001;Guam;0.15833;State
+2001;Hong Kong;6.71338;State
+2001;India;1023.29508;State
+2001;Indonesia;217.83628;State
+2001;Japan;126.97191;State
+2001;Kiribati;0.08676;State
+2001;Korea - North;21.49473;State
+2001;Korea - South;47.17781;State
+2001;Laos;5.49852;State
+2001;Macau;0.43478;State
+2001;Malaysia;23.73736;State
+2001;Maldives;0.30591;State
+2001;Mongolia;2.70447;State
+2001;Nauru;0.00989;State
+2001;Nepal;25.33561;State
+2001;New Caledonia;0.21528;State
+2001;New Zealand;3.83576;State
+2001;Niue;0.00212;State
+2001;Pakistan;156.79544;State
+2001;Papua New Guinea;4.93745;State
+2001;Philippines;83.09528;State
+2001;Samoa;0.17779;State
+2001;Singapore;4.12023;State
+2001;Solomon Islands;0.44591;State
+2001;Sri Lanka;19.64627;State
+2001;Taiwan;22.33581;State
+2001;Thailand;62.68514;State
+2001;Tonga;0.10426;State
+2001;U.S. Pacific Islands;0.25365;State
+2001;Vanuatu;0.19317;State
+2001;Vietnam;80.20948;State
+2001;World;6165.32364;World
+2002;North America;422.05268;Region
+2002;Bermuda;0.06418;State
+2002;Canada;31.64096;State
+2002;Greenland;0.05736;State
+2002;Mexico;102.47993;State
+2002;Saint Pierre and Miquelon;0.00633;State
+2002;United States;287.80391;State
+2002;Central & South America;433.05116;Region
+2002;Antigua and Barbuda;0.07794;State
+2002;Argentina;37.99945;State
+2002;Bahamas - The;0.28858;State
+2002;Barbados;0.27622;State
+2002;Belize;0.2613;State
+2002;Bolivia;8.54249;State
+2002;Brazil;181.41759;State
+2002;Cayman Islands;0.0408;State
+2002;Chile;15.50394;State
+2002;Colombia;39.80495;State
+2002;Costa Rica;4.02095;State
+2002;Cuba;11.20269;State
+2002;Dominica;0.07153;State
+2002;Dominican Republic;8.7569;State
+2002;Ecuador;12.82728;State
+2002;El Salvador;5.90183;State
+2002;Falkland Islands (Islas Malvinas);0.00293;State
+2002;French Guiana;0.18224;State
+2002;Grenada;0.10284;State
+2002;Guadeloupe;0.43568;State
+2002;Guatemala;11.50667;State
+2002;Guyana;0.78273;State
+2002;Haiti;8.72319;State
+2002;Honduras;6.69369;State
+2002;Jamaica;2.66498;State
+2002;Martinique;0.42223;State
+2002;Montserrat;0.00481;State
+2002;Netherlands Antilles;0.21434;State
+2002;Nicaragua;5.14998;State
+2002;Panama;3.00342;State
+2002;Paraguay;5.62689;State
+2002;Peru;26.88171;State
+2002;Puerto Rico;3.85827;State
+2002;Saint Kitts and Nevis;0.04669;State
+2002;Saint Lucia;0.1553;State
+2002;Saint Vincent/Grenadines;0.10726;State
+2002;Suriname;0.44433;State
+2002;Trinidad and Tobago;1.24584;State
+2002;Turks and Caicos Islands;0.01875;State
+2002;Uruguay;3.36782;State
+2002;Venezuela;24.19177;State
+2002;Virgin Islands -  U.S.;0.10892;State
+2002;Virgin Islands - British;0.0213;State
+2002;Europe;585.01784;Continent
+2002;Albania;3.09803;State
+2002;Austria;8.14831;State
+2002;Belgium;10.31197;State
+2002;Bulgaria;7.6618;State
+2002;Cyprus;0.94681;State
+2002;Denmark;5.37469;State
+2002;Faroe Islands;0.04735;State
+2002;Finland;5.19304;State
+2002;France;60.3632;State
+2002;Germany;82.35067;State
+2002;Gibraltar;0.0282;State
+2002;Greece;10.60386;State
+2002;Hungary;10.11278;State
+2002;Iceland;0.28803;State
+2002;Ireland;3.93313;State
+2002;Italy;57.95519;State
+2002;Luxembourg;0.45079;State
+2002;Malta;0.39352;State
+2002;Netherlands;16.12283;State
+2002;Norway;4.53559;State
+2002;Poland;38.62598;State
+2002;Portugal;10.43387;State
+2002;Romania;22.36575;State
+2002;Spain;41.63961;State
+2002;Sweden;8.95417;State
+2002;Switzerland;7.3946;State
+2002;Turkey;69.47904;State
+2002;United Kingdom;59.84827;State
+2002;Eurasia;287.1886;Region
+2002;Middle East;180.37562;Region
+2002;Bahrain;0.65697;State
+2002;Iran;70.28374;State
+2002;Iraq;24.00405;State
+2002;Israel;6.36954;State
+2002;Jordan;4.90206;State
+2002;Kuwait;2.11225;State
+2002;Lebanon;3.83546;State
+2002;Oman;2.54108;State
+2002;Qatar;0.69173;State
+2002;Saudi Arabia;22.27404;State
+2002;Syria;17.29982;State
+2002;United Arab Emirates;3.5581;State
+2002;Yemen;18.5462;State
+2002;Africa;843.06171;Continent
+2002;Algeria;31.31248;State
+2002;Angola;10.76051;State
+2002;Benin;7.06449;State
+2002;Botswana;1.74618;State
+2002;Burkina Faso;12.58496;State
+2002;Burundi;7.28679;State
+2002;Cameroon;16.09444;State
+2002;Cape Verde;0.4467;State
+2002;Central African Republic;4.12842;State
+2002;Chad;8.43619;State
+2002;Comoros;0.61467;State
+2002;Congo (Brazzaville);3.33042;State
+2002;Congo (Kinshasa);55.20041;State
+2002;Cote dIvoire (IvoryCoast);17.68765;State
+2002;Djibouti;0.71635;State
+2002;Egypt;68.02312;State
+2002;Equatorial Guinea;0.52076;State
+2002;Ethiopia;68.18727;State
+2002;Gabon;1.30042;State
+2002;Gambia - The;1.45811;State
+2002;Ghana;20.66146;State
+2002;Guinea;8.5203;State
+2002;Guinea-Bissau;1.33312;State
+2002;Kenya;32.15532;State
+2002;Lesotho;1.92564;State
+2002;Liberia;2.75304;State
+2002;Libya;5.37924;State
+2002;Madagascar;16.72589;State
+2002;Malawi;12.46009;State
+2002;Mali;11.21969;State
+2002;Mauritania;2.63185;State
+2002;Mauritius;1.20959;State
+2002;Morocco;28.8389;State
+2002;Mozambique;18.97917;State
+2002;Niger;11.79208;State
+2002;Nigeria;128.86432;State
+2002;Reunion;0.74387;State
+2002;Rwanda;8.85737;State
+2002;Saint Helena;0.00734;State
+2002;Sao Tome and Principe;0.14713;State
+2002;Senegal;9.97244;State
+2002;Seychelles;0.08113;State
+2002;Sierra Leone;4.28683;State
+2002;Somalia;7.89678;State
+2002;South Africa;46.07695;State
+2002;Sudan;35.9266;State
+2002;Swaziland;1.19371;State
+2002;Tanzania;35.3831;State
+2002;Togo;5.27793;State
+2002;Tunisia;9.77448;State
+2002;Uganda;25.46958;State
+2002;Western Sahara;0.36739;State
+2002;Zambia;10.91696;State
+2002;Zimbabwe;11.86602;State
+2002;Asia & Oceania;3490.97008;Region
+2002;Afghanistan;23.05074;State
+2002;American Samoa;0.05964;State
+2002;Australia;19.53494;State
+2002;Bangladesh;136.86984;State
+2002;Bhutan;0.62594;State
+2002;Brunei;0.33999;State
+2002;Burma (Myanmar);48.71575;State
+2002;Cambodia;12.7292;State
+2002;China;1277.59472;State
+2002;Cook Islands;0.01515;State
+2002;Fiji;0.81667;State
+2002;French Polynesia;0.25798;State
+2002;Guam;0.16106;State
+2002;Hong Kong;6.76248;State
+2002;India;1040.28482;State
+2002;Indonesia;220.97191;State
+2002;Japan;127.18724;State
+2002;Kiribati;0.08826;State
+2002;Korea - North;21.71214;State
+2002;Korea - South;47.43728;State
+2002;Laos;5.57803;State
+2002;Macau;0.43898;State
+2002;Malaysia;24.28261;State
+2002;Maldives;0.31186;State
+2002;Mongolia;2.74455;State
+2002;Nauru;0.00992;State
+2002;Nepal;25.81505;State
+2002;New Caledonia;0.21944;State
+2002;New Zealand;3.89633;State
+2002;Niue;0.00213;State
+2002;Pakistan;160.26923;State
+2002;Papua New Guinea;5.0626;State
+2002;Philippines;84.93641;State
+2002;Samoa;0.17943;State
+2002;Singapore;4.19778;State
+2002;Solomon Islands;0.45822;State
+2002;Sri Lanka;19.87007;State
+2002;Taiwan;22.45063;State
+2002;Thailand;63.21312;State
+2002;Tonga;0.10616;State
+2002;U.S. Pacific Islands;0.25739;State
+2002;Vanuatu;0.19646;State
+2002;Vietnam;81.25796;State
+2002;World;6241.71768;World
+2003;North America;426.06238;Region
+2003;Bermuda;0.06476;State
+2003;Canada;31.88931;State
+2003;Greenland;0.05754;State
+2003;Mexico;103.71806;State
+2003;Saint Pierre and Miquelon;0.00629;State
+2003;United States;290.32642;State
+2003;Central & South America;438.97976;Region
+2003;Antigua and Barbuda;0.07907;State
+2003;Argentina;38.33688;State
+2003;Bahamas - The;0.29135;State
+2003;Barbados;0.27755;State
+2003;Belize;0.26796;State
+2003;Bolivia;8.71906;State
+2003;Brazil;183.95992;State
+2003;Cayman Islands;0.04199;State
+2003;Chile;15.67191;State
+2003;Colombia;40.35102;State
+2003;Costa Rica;4.08382;State
+2003;Cuba;11.24668;State
+2003;Dominica;0.07173;State
+2003;Dominican Republic;8.89658;State
+2003;Ecuador;13.07418;State
+2003;El Salvador;5.91985;State
+2003;Falkland Islands (Islas Malvinas);0.00297;State
+2003;French Guiana;0.18692;State
+2003;Grenada;0.10332;State
+2003;Guadeloupe;0.44019;State
+2003;Guatemala;11.72521;State
+2003;Guyana;0.77981;State
+2003;Haiti;8.88367;State
+2003;Honduras;6.86205;State
+2003;Jamaica;2.68915;State
+2003;Martinique;0.426;State
+2003;Montserrat;0.00449;State
+2003;Netherlands Antilles;0.21632;State
+2003;Nicaragua;5.25701;State
+2003;Panama;3.05361;State
+2003;Paraguay;5.72855;State
+2003;Peru;27.2752;State
+2003;Puerto Rico;3.87664;State
+2003;Saint Kitts and Nevis;0.04714;State
+2003;Saint Lucia;0.15601;State
+2003;Saint Vincent/Grenadines;0.10688;State
+2003;Suriname;0.44993;State
+2003;Trinidad and Tobago;1.24243;State
+2003;Turks and Caicos Islands;0.01936;State
+2003;Uruguay;3.38734;State
+2003;Venezuela;24.54543;State
+2003;Virgin Islands -  U.S.;0.10915;State
+2003;Virgin Islands - British;0.02176;State
+2003;Europe;587.74208;Continent
+2003;Albania;3.06967;State
+2003;Austria;8.16266;State
+2003;Belgium;10.33082;State
+2003;Bulgaria;7.5884;State
+2003;Cyprus;0.96465;State
+2003;Denmark;5.39414;State
+2003;Faroe Islands;0.04795;State
+2003;Finland;5.20441;State
+2003;France;60.6916;State
+2003;Germany;82.39833;State
+2003;Gibraltar;0.02832;State
+2003;Greece;10.62595;State
+2003;Hungary;10.09199;State
+2003;Iceland;0.29106;State
+2003;Ireland;4.00217;State
+2003;Italy;58.02709;State
+2003;Luxembourg;0.45676;State
+2003;Malta;0.39518;State
+2003;Netherlands;16.22325;State
+2003;Norway;4.5554;State
+2003;Poland;38.60285;State
+2003;Portugal;10.47996;State
+2003;Romania;22.30468;State
+2003;Spain;42.32103;State
+2003;Sweden;8.97031;State
+2003;Switzerland;7.44147;State
+2003;Turkey;70.54864;State
+2003;United Kingdom;60.0718;State
+2003;Eurasia;286.4099;Region
+2003;Middle East;183.75095;Region
+2003;Bahrain;0.66785;State
+2003;Iran;70.81183;State
+2003;Iraq;24.68518;State
+2003;Israel;6.49192;State
+2003;Jordan;5.01378;State
+2003;Kuwait;2.18395;State
+2003;Lebanon;3.85548;State
+2003;Oman;2.59379;State
+2003;Qatar;0.72512;State
+2003;Saudi Arabia;22.74289;State
+2003;Syria;17.71535;State
+2003;United Arab Emirates;3.7317;State
+2003;Yemen;19.13411;State
+2003;Africa;863.1923;Continent
+2003;Algeria;31.7409;State
+2003;Angola;11.05709;State
+2003;Benin;7.29371;State
+2003;Botswana;1.77709;State
+2003;Burkina Faso;13.06539;State
+2003;Burundi;7.55265;State
+2003;Cameroon;16.48901;State
+2003;Cape Verde;0.45483;State
+2003;Central African Republic;4.21492;State
+2003;Chad;8.74574;State
+2003;Comoros;0.63327;State
+2003;Congo (Brazzaville);3.41425;State
+2003;Congo (Kinshasa);56.88554;State
+2003;Cote dIvoire (IvoryCoast);18.068;State
+2003;Djibouti;0.69078;State
+2003;Egypt;69.50186;State
+2003;Equatorial Guinea;0.53593;State
+2003;Ethiopia;70.36607;State
+2003;Gabon;1.33262;State
+2003;Gambia - The;1.5034;State
+2003;Ghana;21.1372;State
+2003;Guinea;8.75554;State
+2003;Guinea-Bissau;1.35992;State
+2003;Kenya;33.04178;State
+2003;Lesotho;1.92635;State
+2003;Liberia;2.76968;State
+2003;Libya;5.51013;State
+2003;Madagascar;17.23952;State
+2003;Malawi;12.7968;State
+2003;Mali;11.5228;State
+2003;Mauritania;2.69924;State
+2003;Mauritius;1.221;State
+2003;Morocco;29.19706;State
+2003;Mozambique;19.38308;State
+2003;Niger;12.23931;State
+2003;Nigeria;131.72752;State
+2003;Reunion;0.75517;State
+2003;Rwanda;9.09847;State
+2003;Saint Helena;0.00739;State
+2003;Sao Tome and Principe;0.15051;State
+2003;Senegal;10.24014;State
+2003;Seychelles;0.08205;State
+2003;Sierra Leone;4.46568;State
+2003;Somalia;8.17424;State
+2003;South Africa;46.56663;State
+2003;Sudan;36.70783;State
+2003;Swaziland;1.21644;State
+2003;Tanzania;36.19879;State
+2003;Togo;5.42496;State
+2003;Tunisia;9.87718;State
+2003;Uganda;26.32196;State
+2003;Western Sahara;0.3834;State
+2003;Zambia;11.17251;State
+2003;Zimbabwe;11.81552;State
+2003;Asia & Oceania;3531.28903;Region
+2003;Afghanistan;24.38858;State
+2003;American Samoa;0.0605;State
+2003;Australia;19.76654;State
+2003;Bangladesh;139.30503;State
+2003;Bhutan;0.63576;State
+2003;Brunei;0.34726;State
+2003;Burma (Myanmar);49.34468;State
+2003;Cambodia;12.92071;State
+2003;China;1284.30332;State
+2003;Cook Islands;0.0146;State
+2003;Fiji;0.82318;State
+2003;French Polynesia;0.2623;State
+2003;Guam;0.16361;State
+2003;Hong Kong;6.80974;State
+2003;India;1057.25112;State
+2003;Indonesia;223.06967;State
+2003;Japan;127.35774;State
+2003;Kiribati;0.0897;State
+2003;Korea - North;21.89828;State
+2003;Korea - South;47.65663;State
+2003;Laos;5.654;State
+2003;Macau;0.44418;State
+2003;Malaysia;24.8804;State
+2003;Maldives;0.31849;State
+2003;Mongolia;2.78408;State
+2003;Nauru;0.00993;State
+2003;Nepal;26.27538;State
+2003;New Caledonia;0.22369;State
+2003;New Zealand;3.95813;State
+2003;Niue;0.00215;State
+2003;Pakistan;163.16564;State
+2003;Papua New Guinea;5.18811;State
+2003;Philippines;86.75169;State
+2003;Samoa;0.18109;State
+2003;Singapore;4.27679;State
+2003;Solomon Islands;0.47065;State
+2003;Sri Lanka;20.09749;State
+2003;Taiwan;22.54347;State
+2003;Thailand;63.73055;State
+2003;Tonga;0.10817;State
+2003;U.S. Pacific Islands;0.26116;State
+2003;Vanuatu;0.19971;State
+2003;Vietnam;82.29659;State
+2003;World;6317.4264;World
+2004;North America;430.26938;Region
+2004;Bermuda;0.06534;State
+2004;Canada;32.13476;State
+2004;Greenland;0.0577;State
+2004;Mexico;104.95959;State
+2004;Saint Pierre and Miquelon;0.00625;State
+2004;United States;293.04574;State
+2004;Central & South America;445.01525;Region
+2004;Antigua and Barbuda;0.08019;State
+2004;Argentina;38.74183;State
+2004;Bahamas - The;0.29406;State
+2004;Barbados;0.27882;State
+2004;Belize;0.27462;State
+2004;Bolivia;8.89597;State
+2004;Brazil;186.4886;State
+2004;Cayman Islands;0.04316;State
+2004;Chile;15.83563;State
+2004;Colombia;40.92215;State
+2004;Costa Rica;4.1467;State
+2004;Cuba;11.28785;State
+2004;Dominica;0.07193;State
+2004;Dominican Republic;9.03239;State
+2004;Ecuador;13.3684;State
+2004;El Salvador;5.93512;State
+2004;Falkland Islands (Islas Malvinas);0.00297;State
+2004;French Guiana;0.19131;State
+2004;Grenada;0.10397;State
+2004;Guadeloupe;0.44452;State
+2004;Guatemala;11.93999;State
+2004;Guyana;0.77948;State
+2004;Haiti;9.04569;State
+2004;Honduras;7.02944;State
+2004;Jamaica;2.713;State
+2004;Martinique;0.426;State
+2004;Montserrat;0.00496;State
+2004;Netherlands Antilles;0.21824;State
+2004;Nicaragua;5.36349;State
+2004;Panama;3.10418;State
+2004;Paraguay;5.82816;State
+2004;Peru;27.66518;State
+2004;Puerto Rico;3.89393;State
+2004;Saint Kitts and Nevis;0.04753;State
+2004;Saint Lucia;0.15666;State
+2004;Saint Vincent/Grenadines;0.10648;State
+2004;Suriname;0.45532;State
+2004;Trinidad and Tobago;1.23933;State
+2004;Turks and Caicos Islands;0.01997;State
+2004;Uruguay;3.40639;State
+2004;Venezuela;24.90462;State
+2004;Virgin Islands -  U.S.;0.10935;State
+2004;Virgin Islands - British;0.02222;State
+2004;Europe;590.55745;Continent
+2004;Albania;3.04564;State
+2004;Austria;8.17476;State
+2004;Belgium;10.34828;State
+2004;Bulgaria;7.51797;State
+2004;Cyprus;0.98719;State
+2004;Denmark;5.41339;State
+2004;Faroe Islands;0.04829;State
+2004;Finland;5.21451;State
+2004;France;61.04681;State
+2004;Germany;82.42461;State
+2004;Gibraltar;0.02841;State
+2004;Greece;10.64753;State
+2004;Hungary;10.07261;State
+2004;Iceland;0.29397;State
+2004;Ireland;4.09116;State
+2004;Italy;58.08669;State
+2004;Luxembourg;0.46269;State
+2004;Malta;0.39685;State
+2004;Netherlands;16.3182;State
+2004;Norway;4.57456;State
+2004;Poland;38.58044;State
+2004;Portugal;10.52415;State
+2004;Romania;22.24763;State
+2004;Spain;43.00016;State
+2004;Sweden;8.9864;State
+2004;Switzerland;7.48431;State
+2004;Turkey;71.61354;State
+2004;United Kingdom;60.37665;State
+2004;Eurasia;285.7158;Region
+2004;Middle East;187.25346;Region
+2004;Bahrain;0.67855;State
+2004;Iran;71.4395;State
+2004;Iraq;25.37625;State
+2004;Israel;6.61773;State
+2004;Jordan;5.12826;State
+2004;Kuwait;2.25843;State
+2004;Lebanon;3.87449;State
+2004;Oman;2.64561;State
+2004;Qatar;0.75882;State
+2004;Saudi Arabia;23.20004;State
+2004;Syria;18.13682;State
+2004;United Arab Emirates;3.90795;State
+2004;Yemen;19.73383;State
+2004;Africa;883.59024;Continent
+2004;Algeria;32.15767;State
+2004;Angola;11.39113;State
+2004;Benin;7.52683;State
+2004;Botswana;1.80783;State
+2004;Burkina Faso;13.47809;State
+2004;Burundi;7.85873;State
+2004;Cameroon;16.87275;State
+2004;Cape Verde;0.4628;State
+2004;Central African Republic;4.28875;State
+2004;Chad;9.09766;State
+2004;Comoros;0.65226;State
+2004;Congo (Brazzaville);3.50374;State
+2004;Congo (Kinshasa);58.62998;State
+2004;Cote dIvoire (IvoryCoast);18.50438;State
+2004;Djibouti;0.65741;State
+2004;Egypt;71.00947;State
+2004;Equatorial Guinea;0.55142;State
+2004;Ethiopia;72.63721;State
+2004;Gabon;1.36441;State
+2004;Gambia - The;1.54888;State
+2004;Ghana;21.60098;State
+2004;Guinea;8.97198;State
+2004;Guinea-Bissau;1.38693;State
+2004;Kenya;33.96709;State
+2004;Lesotho;1.9249;State
+2004;Liberia;2.79594;State
+2004;Libya;5.64308;State
+2004;Madagascar;17.76815;State
+2004;Malawi;13.14014;State
+2004;Mali;11.82733;State
+2004;Mauritania;2.76795;State
+2004;Mauritius;1.23206;State
+2004;Morocco;29.55151;State
+2004;Mozambique;19.77284;State
+2004;Niger;12.70466;State
+2004;Nigeria;134.60451;State
+2004;Reunion;0.76615;State
+2004;Rwanda;9.36125;State
+2004;Saint Helena;0.00743;State
+2004;Sao Tome and Principe;0.15397;State
+2004;Senegal;10.51912;State
+2004;Seychelles;0.08297;State
+2004;Sierra Leone;4.6022;State
+2004;Somalia;8.45947;State
+2004;South Africa;47.03287;State
+2004;Sudan;37.44223;State
+2004;Swaziland;1.23795;State
+2004;Tanzania;36.98997;State
+2004;Togo;5.57821;State
+2004;Tunisia;9.97893;State
+2004;Uganda;27.23366;State
+2004;Western Sahara;0.39974;State
+2004;Zambia;11.4337;State
+2004;Zimbabwe;11.73505;State
+2004;Asia & Oceania;3570.71937;Region
+2004;Afghanistan;25.00134;State
+2004;American Samoa;0.06146;State
+2004;Australia;19.99508;State
+2004;Bangladesh;141.7344;State
+2004;Bhutan;0.64541;State
+2004;Brunei;0.35431;State
+2004;Burma (Myanmar);49.9622;State
+2004;Cambodia;13.10994;State
+2004;China;1291.0018;State
+2004;Cook Islands;0.01409;State
+2004;Fiji;0.82982;State
+2004;French Polynesia;0.26655;State
+2004;Guam;0.16612;State
+2004;Hong Kong;6.85513;State
+2004;India;1074.15902;State
+2004;Indonesia;226.00413;State
+2004;Japan;127.4805;State
+2004;Kiribati;0.09112;State
+2004;Korea - North;22.05448;State
+2004;Korea - South;47.85385;State
+2004;Laos;5.74604;State
+2004;Macau;0.45523;State
+2004;Malaysia;25.47547;State
+2004;Maldives;0.3266;State
+2004;Mongolia;2.82457;State
+2004;Nauru;0.00997;State
+2004;Nepal;26.70832;State
+2004;New Caledonia;0.22802;State
+2004;New Zealand;4.00601;State
+2004;Niue;0.00216;State
+2004;Pakistan;166.22361;State
+2004;Papua New Guinea;5.31389;State
+2004;Philippines;88.62179;State
+2004;Samoa;0.18277;State
+2004;Singapore;4.35389;State
+2004;Solomon Islands;0.48317;State
+2004;Sri Lanka;20.30327;State
+2004;Taiwan;22.62239;State
+2004;Thailand;64.24084;State
+2004;Tonga;0.11026;State
+2004;U.S. Pacific Islands;0.26494;State
+2004;Vanuatu;0.20293;State
+2004;Vietnam;83.35245;State
+2004;World;6393.12094;World
+2005;North America;434.47232;Region
+2005;Bermuda;0.06591;State
+2005;Canada;32.38638;State
+2005;Greenland;0.05778;State
+2005;Mexico;106.2029;State
+2005;Saint Pierre and Miquelon;0.0062;State
+2005;United States;295.75315;State
+2005;Central & South America;451.05504;Region
+2005;Antigua and Barbuda;0.08128;State
+2005;Argentina;39.18126;State
+2005;Bahamas - The;0.29671;State
+2005;Barbados;0.28004;State
+2005;Belize;0.28129;State
+2005;Bolivia;9.07294;State
+2005;Brazil;188.99308;State
+2005;Cayman Islands;0.04434;State
+2005;Chile;15.99504;State
+2005;Colombia;41.48778;State
+2005;Costa Rica;4.20869;State
+2005;Cuba;11.32615;State
+2005;Dominica;0.07212;State
+2005;Dominican Republic;9.16447;State
+2005;Ecuador;13.66232;State
+2005;El Salvador;5.95622;State
+2005;Falkland Islands (Islas Malvinas);0.00297;State
+2005;French Guiana;0.19131;State
+2005;Grenada;0.10459;State
+2005;Guadeloupe;0.44452;State
+2005;Guatemala;12.18255;State
+2005;Guyana;0.7765;State
+2005;Haiti;9.20467;State
+2005;Honduras;7.19307;State
+2005;Jamaica;2.73651;State
+2005;Martinique;0.426;State
+2005;Montserrat;0.00453;State
+2005;Netherlands Antilles;0.2201;State
+2005;Nicaragua;5.46918;State
+2005;Panama;3.15503;State
+2005;Paraguay;5.92554;State
+2005;Peru;28.05111;State
+2005;Puerto Rico;3.91072;State
+2005;Saint Kitts and Nevis;0.0479;State
+2005;Saint Lucia;0.15737;State
+2005;Saint Vincent/Grenadines;0.10607;State
+2005;Suriname;0.4605;State
+2005;Trinidad and Tobago;1.23669;State
+2005;Turks and Caicos Islands;0.02057;State
+2005;Uruguay;3.42489;State
+2005;Venezuela;25.26918;State
+2005;Virgin Islands -  U.S.;0.1096;State
+2005;Virgin Islands - British;0.02268;State
+2005;Europe;593.44305;Continent
+2005;Albania;3.02453;State
+2005;Austria;8.18469;State
+2005;Belgium;10.36439;State
+2005;Bulgaria;7.45035;State
+2005;Cyprus;1.01074;State
+2005;Denmark;5.43234;State
+2005;Faroe Islands;0.04831;State
+2005;Finland;5.22344;State
+2005;France;61.43496;State
+2005;Germany;82.43139;State
+2005;Gibraltar;0.02846;State
+2005;Greece;10.66835;State
+2005;Hungary;10.05762;State
+2005;Iceland;0.29674;State
+2005;Ireland;4.19919;State
+2005;Italy;58.13264;State
+2005;Luxembourg;0.46857;State
+2005;Malta;0.39853;State
+2005;Netherlands;16.40749;State
+2005;Norway;4.59304;State
+2005;Poland;38.55798;State
+2005;Portugal;10.56621;State
+2005;Romania;22.19716;State
+2005;Spain;43.70437;State
+2005;Sweden;9.00177;State
+2005;Switzerland;7.5231;State
+2005;Turkey;72.67381;State
+2005;United Kingdom;60.73887;State
+2005;Eurasia;285.13088;Region
+2005;Middle East;190.98173;Region
+2005;Bahrain;0.68905;State
+2005;Iran;72.28271;State
+2005;Iraq;26.07609;State
+2005;Israel;6.74292;State
+2005;Jordan;5.2454;State
+2005;Kuwait;2.33662;State
+2005;Lebanon;3.89239;State
+2005;Oman;2.69689;State
+2005;Qatar;0.78567;State
+2005;Saudi Arabia;23.64221;State
+2005;Syria;18.56267;State
+2005;United Arab Emirates;4.0866;State
+2005;Yemen;20.34467;State
+2005;Africa;904.41715;Continent
+2005;Algeria;32.56074;State
+2005;Angola;11.70695;State
+2005;Benin;7.77771;State
+2005;Botswana;1.84012;State
+2005;Burkina Faso;13.90389;State
+2005;Burundi;8.16194;State
+2005;Cameroon;17.26147;State
+2005;Cape Verde;0.4706;State
+2005;Central African Republic;4.36304;State
+2005;Chad;9.40066;State
+2005;Comoros;0.67164;State
+2005;Congo (Brazzaville);3.604;State
+2005;Congo (Kinshasa);60.47351;State
+2005;Cote dIvoire (IvoryCoast);18.9205;State
+2005;Djibouti;0.6664;State
+2005;Egypt;72.54351;State
+2005;Equatorial Guinea;0.56723;State
+2005;Ethiopia;74.98029;State
+2005;Gabon;1.39569;State
+2005;Gambia - The;1.59451;State
+2005;Ghana;22.06238;State
+2005;Guinea;9.15373;State
+2005;Guinea-Bissau;1.41416;State
+2005;Kenya;34.91178;State
+2005;Lesotho;1.92212;State
+2005;Liberia;2.93008;State
+2005;Libya;5.77753;State
+2005;Madagascar;18.31216;State
+2005;Malawi;13.49211;State
+2005;Mali;12.13382;State
+2005;Mauritania;2.83794;State
+2005;Mauritius;1.24282;State
+2005;Morocco;29.90096;State
+2005;Mozambique;20.15401;State
+2005;Niger;13.18887;State
+2005;Nigeria;137.49506;State
+2005;Reunion;0.76615;State
+2005;Rwanda;9.61107;State
+2005;Saint Helena;0.00748;State
+2005;Sao Tome and Principe;0.15751;State
+2005;Senegal;10.80412;State
+2005;Seychelles;0.08389;State
+2005;Sierra Leone;4.70805;State
+2005;Somalia;8.75245;State
+2005;South Africa;47.48345;State
+2005;Sudan;38.36308;State
+2005;Swaziland;1.25898;State
+2005;Tanzania;37.77057;State
+2005;Togo;5.71452;State
+2005;Tunisia;10.07938;State
+2005;Uganda;28.19939;State
+2005;Western Sahara;0.4154;State
+2005;Zambia;11.71036;State
+2005;Zimbabwe;11.63947;State
+2005;Asia & Oceania;3609.62956;Region
+2005;Afghanistan;25.53805;State
+2005;American Samoa;0.0624;State
+2005;Australia;20.23235;State
+2005;Bangladesh;144.13874;State
+2005;Bhutan;0.6549;State
+2005;Brunei;0.36111;State
+2005;Burma (Myanmar);50.57209;State
+2005;Cambodia;13.2974;State
+2005;China;1297.76532;State
+2005;Cook Islands;0.0136;State
+2005;Fiji;0.83656;State
+2005;French Polynesia;0.27074;State
+2005;Guam;0.16861;State
+2005;Hong Kong;6.89869;State
+2005;India;1090.97303;State
+2005;Indonesia;228.89575;State
+2005;Japan;127.53719;State
+2005;Kiribati;0.09259;State
+2005;Korea - North;22.19857;State
+2005;Korea - South;48.00516;State
+2005;Laos;5.83636;State
+2005;Macau;0.47403;State
+2005;Malaysia;25.96812;State
+2005;Maldives;0.33625;State
+2005;Mongolia;2.86599;State
+2005;Nauru;0.01001;State
+2005;Nepal;27.09387;State
+2005;New Caledonia;0.2324;State
+2005;New Zealand;4.04606;State
+2005;Niue;0.00216;State
+2005;Pakistan;169.27864;State
+2005;Papua New Guinea;5.43977;State
+2005;Philippines;90.43579;State
+2005;Samoa;0.18449;State
+2005;Singapore;4.42572;State
+2005;Solomon Islands;0.49575;State
+2005;Sri Lanka;20.50426;State
+2005;Taiwan;22.70108;State
+2005;Thailand;64.7426;State
+2005;Tonga;0.11245;State
+2005;U.S. Pacific Islands;0.25814;State
+2005;Vanuatu;0.20609;State
+2005;Vietnam;84.42493;State
+2005;World;6469.12974;World
+2006;North America;438.82964;Region
+2006;Bermuda;0.06644;State
+2006;Canada;32.65668;State
+2006;Greenland;0.05764;State
+2006;Mexico;107.44953;State
+2006;Saint Pierre and Miquelon;0.00615;State
+2006;United States;298.59321;State
+2006;Central & South America;457.01699;Region
+2006;Antigua and Barbuda;0.08234;State
+2006;Argentina;39.61443;State
+2006;Bahamas - The;0.29929;State
+2006;Barbados;0.28121;State
+2006;Belize;0.28795;State
+2006;Bolivia;9.24971;State
+2006;Brazil;191.46901;State
+2006;Cayman Islands;0.04552;State
+2006;Chile;16.15084;State
+2006;Colombia;42.04625;State
+2006;Costa Rica;4.26977;State
+2006;Cuba;11.36155;State
+2006;Dominica;0.07225;State
+2006;Dominican Republic;9.29504;State
+2006;Ecuador;13.91706;State
+2006;El Salvador;5.97089;State
+2006;Falkland Islands (Islas Malvinas);0.00297;State
+2006;French Guiana;0.19131;State
+2006;Grenada;0.1052;State
+2006;Guadeloupe;0.44452;State
+2006;Guatemala;12.45475;State
+2006;Guyana;0.77021;State
+2006;Haiti;9.35756;State
+2006;Honduras;7.35516;State
+2006;Jamaica;2.75961;State
+2006;Martinique;0.426;State
+2006;Montserrat;0.00463;State
+2006;Netherlands Antilles;0.22189;State
+2006;Nicaragua;5.57459;State
+2006;Panama;3.20648;State
+2006;Paraguay;6.02047;State
+2006;Peru;28.43259;State
+2006;Puerto Rico;3.92674;State
+2006;Saint Kitts and Nevis;0.04828;State
+2006;Saint Lucia;0.15813;State
+2006;Saint Vincent/Grenadines;0.10569;State
+2006;Suriname;0.46561;State
+2006;Trinidad and Tobago;1.23456;State
+2006;Turks and Caicos Islands;0.02117;State
+2006;Uruguay;3.44295;State
+2006;Venezuela;25.64146;State
+2006;Virgin Islands -  U.S.;0.10976;State
+2006;Virgin Islands - British;0.02313;State
+2006;Europe;596.28503;Continent
+2006;Albania;3.00578;State
+2006;Austria;8.19288;State
+2006;Belgium;10.37907;State
+2006;Bulgaria;7.38537;State
+2006;Cyprus;1.03103;State
+2006;Denmark;5.45066;State
+2006;Faroe Islands;0.04832;State
+2006;Finland;5.23137;State
+2006;France;61.82613;State
+2006;Germany;82.4223;State
+2006;Gibraltar;0.02854;State
+2006;Greece;10.68806;State
+2006;Hungary;10.04627;State
+2006;Iceland;0.29939;State
+2006;Ireland;4.30902;State
+2006;Italy;58.16346;State
+2006;Luxembourg;0.47441;State
+2006;Malta;0.40021;State
+2006;Netherlands;16.49146;State
+2006;Norway;4.61082;State
+2006;Poland;38.53687;State
+2006;Portugal;10.60587;State
+2006;Romania;22.15048;State
+2006;Spain;44.43175;State
+2006;Sweden;9.0166;State
+2006;Switzerland;7.55793;State
+2006;Turkey;73.72612;State
+2006;United Kingdom;61.10066;State
+2006;Eurasia;284.59973;Region
+2006;Middle East;195.2996;Region
+2006;Bahrain;0.69934;State
+2006;Iran;73.1844;State
+2006;Iraq;26.78418;State
+2006;Israel;6.86688;State
+2006;Jordan;5.61722;State
+2006;Kuwait;2.41946;State
+2006;Lebanon;3.8511;State
+2006;Oman;2.7482;State
+2006;Qatar;0.80258;State
+2006;Saudi Arabia;24.0732;State
+2006;Syria;19.32269;State
+2006;United Arab Emirates;4.26591;State
+2006;Yemen;20.96452;State
+2006;Africa;925.68403;Continent
+2006;Algeria;32.95925;State
+2006;Angola;11.99281;State
+2006;Benin;8.03171;State
+2006;Botswana;1.87578;State
+2006;Burkina Faso;14.34353;State
+2006;Burundi;8.46451;State
+2006;Cameroon;17.65786;State
+2006;Cape Verde;0.47831;State
+2006;Central African Republic;4.44895;State
+2006;Chad;9.64896;State
+2006;Comoros;0.69137;State
+2006;Congo (Brazzaville);3.70406;State
+2006;Congo (Kinshasa);62.37591;State
+2006;Cote dIvoire (IvoryCoast);19.3268;State
+2006;Djibouti;0.67914;State
+2006;Egypt;74.10059;State
+2006;Equatorial Guinea;0.58335;State
+2006;Ethiopia;77.4114;State
+2006;Gabon;1.42639;State
+2006;Gambia - The;1.64029;State
+2006;Ghana;22.52438;State
+2006;Guinea;9.34573;State
+2006;Guinea-Bissau;1.44275;State
+2006;Kenya;35.89065;State
+2006;Lesotho;1.9192;State
+2006;Liberia;3.10761;State
+2006;Libya;5.91323;State
+2006;Madagascar;18.87216;State
+2006;Malawi;13.85568;State
+2006;Mali;12.44653;State
+2006;Mauritania;2.9091;State
+2006;Mauritius;1.25343;State
+2006;Morocco;30.24777;State
+2006;Mozambique;20.53002;State
+2006;Niger;13.69295;State
+2006;Nigeria;140.39777;State
+2006;Reunion;0.76615;State
+2006;Rwanda;9.85722;State
+2006;Saint Helena;0.00752;State
+2006;Sao Tome and Principe;0.16111;State
+2006;Senegal;11.09611;State
+2006;Seychelles;0.0848;State
+2006;Sierra Leone;4.81762;State
+2006;Somalia;9.03018;State
+2006;South Africa;47.92567;State
+2006;Sudan;39.3964;State
+2006;Swaziland;1.2798;State
+2006;Tanzania;38.56853;State
+2006;Togo;5.8654;State
+2006;Tunisia;10.17973;State
+2006;Uganda;29.2065;State
+2006;Western Sahara;0.43032;State
+2006;Zambia;12.01326;State
+2006;Zimbabwe;11.54433;State
+2006;Asia & Oceania;3648.16942;Region
+2006;Afghanistan;26.23521;State
+2006;American Samoa;0.06322;State
+2006;Australia;20.48947;State
+2006;Bangladesh;146.51711;State
+2006;Bhutan;0.66421;State
+2006;Brunei;0.36782;State
+2006;Burma (Myanmar);51.16167;State
+2006;Cambodia;13.49871;State
+2006;China;1304.26188;State
+2006;Cook Islands;0.01313;State
+2006;Fiji;0.84395;State
+2006;French Polynesia;0.27487;State
+2006;Guam;0.17109;State
+2006;Hong Kong;6.94043;State
+2006;India;1107.62435;State
+2006;Indonesia;231.82024;State
+2006;Japan;127.51517;State
+2006;Kiribati;0.09406;State
+2006;Korea - North;22.33156;State
+2006;Korea - South;48.12356;State
+2006;Laos;5.93079;State
+2006;Macau;0.49943;State
+2006;Malaysia;26.43216;State
+2006;Maldives;0.34812;State
+2006;Mongolia;2.9084;State
+2006;Nauru;0.00957;State
+2006;Nepal;27.45895;State
+2006;New Caledonia;0.23651;State
+2006;New Zealand;4.0878;State
+2006;Niue;0.00216;State
+2006;Pakistan;172.38187;State
+2006;Papua New Guinea;5.56556;State
+2006;Philippines;92.26694;State
+2006;Samoa;0.18625;State
+2006;Singapore;4.49215;State
+2006;Solomon Islands;0.50838;State
+2006;Sri Lanka;20.71793;State
+2006;Taiwan;22.78187;State
+2006;Thailand;65.23501;State
+2006;Tonga;0.11471;State
+2006;U.S. Pacific Islands;0.24957;State
+2006;Vanuatu;0.20922;State
+2006;Vietnam;85.47054;State
+2006;World;6545.88444;World
+2007;North America;443.3473;Region
+2007;Bermuda;0.06692;State
+2007;Canada;32.93596;State
+2007;Greenland;0.05753;State
+2007;Mexico;108.70089;State
+2007;Saint Pierre and Miquelon;0.0061;State
+2007;United States;301.5799;State
+2007;Central & South America;462.89157;Region
+2007;Antigua and Barbuda;0.08343;State
+2007;Argentina;40.04882;State
+2007;Bahamas - The;0.30197;State
+2007;Barbados;0.28236;State
+2007;Belize;0.29461;State
+2007;Bolivia;9.42594;State
+2007;Brazil;193.91858;State
+2007;Cayman Islands;0.04669;State
+2007;Chile;16.30385;State
+2007;Colombia;42.59732;State
+2007;Costa Rica;4.33113;State
+2007;Cuba;11.39404;State
+2007;Dominica;0.07238;State
+2007;Dominican Republic;9.42623;State
+2007;Ecuador;14.13496;State
+2007;El Salvador;5.98175;State
+2007;Falkland Islands (Islas Malvinas);0.00297;State
+2007;French Guiana;0.19131;State
+2007;Grenada;0.10589;State
+2007;Guadeloupe;0.44452;State
+2007;Guatemala;12.72811;State
+2007;Guyana;0.76381;State
+2007;Haiti;9.50049;State
+2007;Honduras;7.51621;State
+2007;Jamaica;2.78222;State
+2007;Martinique;0.426;State
+2007;Montserrat;0.00451;State
+2007;Netherlands Antilles;0.22365;State
+2007;Nicaragua;5.68021;State
+2007;Panama;3.25833;State
+2007;Paraguay;6.113;State
+2007;Peru;28.8093;State
+2007;Puerto Rico;3.94124;State
+2007;Saint Kitts and Nevis;0.04866;State
+2007;Saint Lucia;0.15887;State
+2007;Saint Vincent/Grenadines;0.10531;State
+2007;Suriname;0.47078;State
+2007;Trinidad and Tobago;1.23281;State
+2007;Turks and Caicos Islands;0.02176;State
+2007;Uruguay;3.46061;State
+2007;Venezuela;26.02353;State
+2007;Virgin Islands -  U.S.;0.10982;State
+2007;Virgin Islands - British;0.02359;State
+2007;Europe;599.16377;Continent
+2007;Albania;2.99158;State
+2007;Austria;8.19978;State
+2007;Belgium;10.39223;State
+2007;Bulgaria;7.32286;State
+2007;Cyprus;1.04891;State
+2007;Denmark;5.46812;State
+2007;Faroe Islands;0.04849;State
+2007;Finland;5.23846;State
+2007;France;62.22577;State
+2007;Germany;82.401;State
+2007;Gibraltar;0.02861;State
+2007;Greece;10.70629;State
+2007;Hungary;10.03423;State
+2007;Iceland;0.30193;State
+2007;Ireland;4.41998;State
+2007;Italy;58.17808;State
+2007;Luxembourg;0.48022;State
+2007;Malta;0.40188;State
+2007;Netherlands;16.57061;State
+2007;Norway;4.62793;State
+2007;Poland;38.51824;State
+2007;Portugal;10.64284;State
+2007;Romania;22.10615;State
+2007;Spain;45.21164;State
+2007;Sweden;9.03109;State
+2007;Switzerland;7.58892;State
+2007;Turkey;74.76784;State
+2007;United Kingdom;61.50589;State
+2007;Eurasia;284.11939;Region
+2007;Middle East;200.13219;Region
+2007;Bahrain;0.70938;State
+2007;Iran;74.09327;State
+2007;Iraq;27.50016;State
+2007;Israel;6.99006;State
+2007;Jordan;5.99719;State
+2007;Kuwait;2.50672;State
+2007;Lebanon;3.89556;State
+2007;Oman;2.80028;State
+2007;Qatar;0.8149;State
+2007;Saudi Arabia;24.49852;State
+2007;Syria;20.48772;State
+2007;United Arab Emirates;4.44401;State
+2007;Yemen;21.59104;State
+2007;Africa;947.55885;Continent
+2007;Algeria;33.36274;State
+2007;Angola;12.2636;State
+2007;Benin;8.27816;State
+2007;Botswana;1.91342;State
+2007;Burkina Faso;14.79717;State
+2007;Burundi;8.78294;State
+2007;Cameroon;18.06038;State
+2007;Cape Verde;0.48599;State
+2007;Central African Republic;4.54373;State
+2007;Chad;9.88566;State
+2007;Comoros;0.71142;State
+2007;Congo (Brazzaville);3.80233;State
+2007;Congo (Kinshasa);64.3902;State
+2007;Cote dIvoire (IvoryCoast);19.74695;State
+2007;Djibouti;0.69438;State
+2007;Egypt;75.67654;State
+2007;Equatorial Guinea;0.59976;State
+2007;Ethiopia;79.9358;State
+2007;Gabon;1.45645;State
+2007;Gambia - The;1.68614;State
+2007;Ghana;22.9807;State
+2007;Guinea;9.56922;State
+2007;Guinea-Bissau;1.47278;State
+2007;Kenya;36.91372;State
+2007;Lesotho;1.91686;State
+2007;Liberia;3.26994;State
+2007;Libya;6.0499;State
+2007;Madagascar;19.44882;State
+2007;Malawi;14.23279;State
+2007;Mali;12.76879;State
+2007;Mauritania;2.98145;State
+2007;Mauritius;1.2639;State
+2007;Morocco;30.59445;State
+2007;Mozambique;20.90558;State
+2007;Niger;14.21471;State
+2007;Nigeria;143.3121;State
+2007;Reunion;0.76615;State
+2007;Rwanda;10.14108;State
+2007;Saint Helena;0.00756;State
+2007;Sao Tome and Principe;0.16475;State
+2007;Senegal;11.3943;State
+2007;Seychelles;0.0857;State
+2007;Sierra Leone;4.91833;State
+2007;Somalia;9.29161;State
+2007;South Africa;48.36713;State
+2007;Sudan;40.52607;State
+2007;Swaziland;1.29991;State
+2007;Tanzania;39.38422;State
+2007;Togo;6.04238;State
+2007;Tunisia;10.28121;State
+2007;Uganda;30.26261;State
+2007;Western Sahara;0.4454;State
+2007;Zambia;12.34108;State
+2007;Zimbabwe;11.44319;State
+2007;Asia & Oceania;3686.3589;Region
+2007;Afghanistan;26.91153;State
+2007;American Samoa;0.06403;State
+2007;Australia;20.74963;State
+2007;Bangladesh;148.89374;State
+2007;Bhutan;0.67335;State
+2007;Brunei;0.37458;State
+2007;Burma (Myanmar);51.75584;State
+2007;Cambodia;13.71869;State
+2007;China;1310.58354;State
+2007;Cook Islands;0.01269;State
+2007;Fiji;0.85211;State
+2007;French Polynesia;0.27896;State
+2007;Guam;0.17354;State
+2007;Hong Kong;6.98041;State
+2007;India;1124.1348;State
+2007;Indonesia;234.694;State
+2007;Japan;127.43349;State
+2007;Kiribati;0.09548;State
+2007;Korea - North;22.45422;State
+2007;Korea - South;48.25015;State
+2007;Laos;6.03541;State
+2007;Macau;0.52553;State
+2007;Malaysia;26.89556;State
+2007;Maldives;0.36497;State
+2007;Mongolia;2.95179;State
+2007;Nauru;0.00912;State
+2007;Nepal;27.82789;State
+2007;New Caledonia;0.24045;State
+2007;New Zealand;4.13018;State
+2007;Niue;0.00216;State
+2007;Pakistan;175.49508;State
+2007;Papua New Guinea;5.69109;State
+2007;Philippines;94.15747;State
+2007;Samoa;0.18796;State
+2007;Singapore;4.55301;State
+2007;Solomon Islands;0.52107;State
+2007;Sri Lanka;20.92632;State
+2007;Taiwan;22.85887;State
+2007;Thailand;65.71702;State
+2007;Tonga;0.11694;State
+2007;U.S. Pacific Islands;0.24888;State
+2007;Vanuatu;0.21234;State
+2007;Vietnam;86.51885;State
+2007;World;6623.57196;World
+2008;North America;447.67394;Region
+2008;Bermuda;0.06739;State
+2008;Canada;33.2127;State
+2008;Greenland;0.05756;State
+2008;Mexico;109.9554;State
+2008;Saint Pierre and Miquelon;0.00605;State
+2008;United States;304.37485;State
+2008;Central & South America;468.73872;Region
+2008;Antigua and Barbuda;0.08452;State
+2008;Argentina;40.482;State
+2008;Bahamas - The;0.30473;State
+2008;Barbados;0.2835;State
+2008;Belize;0.30127;State
+2008;Bolivia;9.60126;State
+2008;Brazil;196.34259;State
+2008;Cayman Islands;0.04786;State
+2008;Chile;16.45414;State
+2008;Colombia;43.14111;State
+2008;Costa Rica;4.39324;State
+2008;Cuba;11.42395;State
+2008;Dominica;0.07251;State
+2008;Dominican Republic;9.55818;State
+2008;Ecuador;14.35447;State
+2008;El Salvador;6.00645;State
+2008;Falkland Islands (Islas Malvinas);0.00314;State
+2008;French Guiana;0.19131;State
+2008;Grenada;0.10656;State
+2008;Guadeloupe;0.44452;State
+2008;Guatemala;13.00221;State
+2008;Guyana;0.75806;State
+2008;Haiti;9.63908;State
+2008;Honduras;7.67585;State
+2008;Jamaica;2.80433;State
+2008;Martinique;0.426;State
+2008;Montserrat;0.00508;State
+2008;Netherlands Antilles;0.22537;State
+2008;Nicaragua;5.78585;State
+2008;Panama;3.30968;State
+2008;Paraguay;6.2032;State
+2008;Peru;29.1809;State
+2008;Puerto Rico;3.95455;State
+2008;Saint Kitts and Nevis;0.04906;State
+2008;Saint Lucia;0.15959;State
+2008;Saint Vincent/Grenadines;0.10494;State
+2008;Suriname;0.476;State
+2008;Trinidad and Tobago;1.23132;State
+2008;Turks and Caicos Islands;0.02235;State
+2008;Uruguay;3.47778;State
+2008;Venezuela;26.41482;State
+2008;Virgin Islands -  U.S.;0.10983;State
+2008;Virgin Islands - British;0.02404;State
+2008;Europe;601.85194;Continent
+2008;Albania;2.98412;State
+2008;Austria;8.20553;State
+2008;Belgium;10.40395;State
+2008;Bulgaria;7.26268;State
+2008;Cyprus;1.06682;State
+2008;Denmark;5.48472;State
+2008;Faroe Islands;0.04867;State
+2008;Finland;5.24475;State
+2008;France;62.61158;State
+2008;Germany;82.36955;State
+2008;Gibraltar;0.02871;State
+2008;Greece;10.72282;State
+2008;Hungary;10.02048;State
+2008;Iceland;0.30437;State
+2008;Ireland;4.51771;State
+2008;Italy;58.17607;State
+2008;Luxembourg;0.48601;State
+2008;Malta;0.40353;State
+2008;Netherlands;16.64531;State
+2008;Norway;4.64446;State
+2008;Poland;38.5007;State
+2008;Portugal;10.67691;State
+2008;Romania;22.06081;State
+2008;Spain;45.91037;State
+2008;Sweden;9.04539;State
+2008;Switzerland;7.61604;State
+2008;Turkey;75.79384;State
+2008;United Kingdom;61.90184;State
+2008;Eurasia;283.68562;Region
+2008;Middle East;204.5201;Region
+2008;Bahrain;0.71917;State
+2008;Iran;75.02536;State
+2008;Iraq;28.22144;State
+2008;Israel;7.11236;State
+2008;Jordan;6.13263;State
+2008;Kuwait;2.59806;State
+2008;Lebanon;4.03802;State
+2008;Oman;2.85388;State
+2008;Qatar;0.82479;State
+2008;Saudi Arabia;24.91741;State
+2008;Syria;21.32486;State
+2008;United Arab Emirates;4.6214;State
+2008;Yemen;22.22285;State
+2008;Africa;969.97221;Continent
+2008;Algeria;33.76967;State
+2008;Angola;12.53136;State
+2008;Benin;8.53255;State
+2008;Botswana;1.95205;State
+2008;Burkina Faso;15.26474;State
+2008;Burundi;9.13931;State
+2008;Cameroon;18.46769;State
+2008;Cape Verde;0.49362;State
+2008;Central African Republic;4.64132;State
+2008;Chad;10.11134;State
+2008;Comoros;0.73178;State
+2008;Congo (Brazzaville);3.90501;State
+2008;Congo (Kinshasa);66.51451;State
+2008;Cote dIvoire (IvoryCoast);20.1796;State
+2008;Djibouti;0.7092;State
+2008;Egypt;77.26669;State
+2008;Equatorial Guinea;0.61646;State
+2008;Ethiopia;82.54484;State
+2008;Gabon;1.48583;State
+2008;Gambia - The;1.73208;State
+2008;Ghana;23.43457;State
+2008;Guinea;9.80651;State
+2008;Guinea-Bissau;1.50318;State
+2008;Kenya;37.95384;State
+2008;Lesotho;1.91547;State
+2008;Liberia;3.44037;State
+2008;Libya;6.18704;State
+2008;Madagascar;20.04255;State
+2008;Malawi;14.62368;State
+2008;Mali;13.10081;State
+2008;Mauritania;3.05493;State
+2008;Mauritius;1.27419;State
+2008;Morocco;30.94046;State
+2008;Mozambique;21.2847;State
+2008;Niger;14.75208;State
+2008;Nigeria;146.25531;State
+2008;Reunion;0.76615;State
+2008;Rwanda;10.44077;State
+2008;Saint Helena;0.0076;State
+2008;Sao Tome and Principe;0.16842;State
+2008;Senegal;11.69834;State
+2008;Seychelles;0.0866;State
+2008;Sierra Leone;5.023;State
+2008;Somalia;9.55867;State
+2008;South Africa;48.78276;State
+2008;Sudan;41.68078;State
+2008;Swaziland;1.3191;State
+2008;Tanzania;40.21316;State
+2008;Togo;6.22035;State
+2008;Tunisia;10.38358;State
+2008;Uganda;31.36797;State
+2008;Western Sahara;0.46063;State
+2008;Zambia;12.69423;State
+2008;Zimbabwe;11.35011;State
+2008;Asia & Oceania;3724.32335;Region
+2008;Afghanistan;27.65889;State
+2008;American Samoa;0.06483;State
+2008;Australia;21.00731;State
+2008;Bangladesh;151.28999;State
+2008;Bhutan;0.68232;State
+2008;Brunei;0.38137;State
+2008;Burma (Myanmar);52.22815;State
+2008;Cambodia;13.95701;State
+2008;China;1317.06568;State
+2008;Cook Islands;0.01227;State
+2008;Fiji;0.86054;State
+2008;French Polynesia;0.28302;State
+2008;Guam;0.17599;State
+2008;Hong Kong;7.01864;State
+2008;India;1140.56621;State
+2008;Indonesia;237.51236;State
+2008;Japan;127.28842;State
+2008;Kiribati;0.09686;State
+2008;Korea - North;22.56535;State
+2008;Korea - South;48.37939;State
+2008;Laos;6.14518;State
+2008;Macau;0.54567;State
+2008;Malaysia;27.35776;State
+2008;Maldives;0.38593;State
+2008;Mongolia;2.99608;State
+2008;Nauru;0.00916;State
+2008;Nepal;28.19696;State
+2008;New Caledonia;0.24445;State
+2008;New Zealand;4.1713;State
+2008;Niue;0.00216;State
+2008;Pakistan;178.47939;State
+2008;Papua New Guinea;5.81623;State
+2008;Philippines;96.06168;State
+2008;Samoa;0.1895;State
+2008;Singapore;4.60817;State
+2008;Solomon Islands;0.53378;State
+2008;Sri Lanka;21.12877;State
+2008;Taiwan;22.92095;State
+2008;Thailand;66.18726;State
+2008;Tonga;0.11901;State
+2008;U.S. Pacific Islands;0.24678;State
+2008;Vanuatu;0.21545;State
+2008;Vietnam;87.55836;State
+2008;World;6700.76588;World
+2009;North America;451.83698;Region
+2009;Bermuda;0.06784;State
+2009;Canada;33.48721;State
+2009;Greenland;0.0576;State
+2009;Mexico;111.21179;State
+2009;Saint Pierre and Miquelon;0.006;State
+2009;United States;307.00655;State
+2009;Central & South America;474.53897;Region
+2009;Antigua and Barbuda;0.08563;State
+2009;Argentina;40.91358;State
+2009;Bahamas - The;0.30755;State
+2009;Barbados;0.28459;State
+2009;Belize;0.3079;State
+2009;Bolivia;9.77525;State
+2009;Brazil;198.73927;State
+2009;Cayman Islands;0.04904;State
+2009;Chile;16.60171;State
+2009;Colombia;43.67737;State
+2009;Costa Rica;4.45505;State
+2009;Cuba;11.45165;State
+2009;Dominica;0.07266;State
+2009;Dominican Republic;9.69079;State
+2009;Ecuador;14.5731;State
+2009;El Salvador;6.0306;State
+2009;Falkland Islands (Islas Malvinas);0.00314;State
+2009;French Guiana;0.19131;State
+2009;Grenada;0.1072;State
+2009;Guadeloupe;0.44452;State
+2009;Guatemala;13.27652;State
+2009;Guyana;0.75294;State
+2009;Haiti;9.77797;State
+2009;Honduras;7.8337;State
+2009;Jamaica;2.82593;State
+2009;Martinique;0.426;State
+2009;Montserrat;0.0051;State
+2009;Netherlands Antilles;0.22705;State
+2009;Nicaragua;5.8912;State
+2009;Panama;3.36047;State
+2009;Paraguay;6.29088;State
+2009;Peru;29.54696;State
+2009;Puerto Rico;3.96729;State
+2009;Saint Kitts and Nevis;0.04948;State
+2009;Saint Lucia;0.16027;State
+2009;Saint Vincent/Grenadines;0.10457;State
+2009;Suriname;0.48127;State
+2009;Trinidad and Tobago;1.22995;State
+2009;Turks and Caicos Islands;0.02294;State
+2009;Uruguay;3.49438;State
+2009;Venezuela;26.81484;State
+2009;Virgin Islands -  U.S.;0.10981;State
+2009;Virgin Islands - British;0.02449;State
+2009;Europe;604.06725;Continent
+2009;Albania;2.98254;State
+2009;Austria;8.21028;State
+2009;Belgium;10.41434;State
+2009;Bulgaria;7.20469;State
+2009;Cyprus;1.08475;State
+2009;Denmark;5.50051;State
+2009;Faroe Islands;0.04886;State
+2009;Finland;5.25028;State
+2009;France;62.98296;State
+2009;Germany;82.32976;State
+2009;Gibraltar;0.0288;State
+2009;Greece;10.73743;State
+2009;Hungary;10.00717;State
+2009;Iceland;0.30669;State
+2009;Ireland;4.58;State
+2009;Italy;58.15733;State
+2009;Luxembourg;0.49178;State
+2009;Malta;0.40517;State
+2009;Netherlands;16.716;State
+2009;Norway;4.66054;State
+2009;Poland;38.48292;State
+2009;Portugal;10.70792;State
+2009;Romania;22.01182;State
+2009;Spain;46.29524;State
+2009;Sweden;9.05965;State
+2009;Switzerland;7.63923;State
+2009;Turkey;76.80552;State
+2009;United Kingdom;62.25857;State
+2009;Eurasia;283.28968;Region
+2009;Middle East;208.44134;Region
+2009;Bahrain;0.72871;State
+2009;Iran;75.96761;State
+2009;Iraq;28.94557;State
+2009;Israel;7.2337;State
+2009;Jordan;6.26929;State
+2009;Kuwait;2.69253;State
+2009;Lebanon;4.09932;State
+2009;Oman;2.90963;State
+2009;Qatar;0.83329;State
+2009;Saudi Arabia;25.32887;State
+2009;Syria;21.76298;State
+2009;United Arab Emirates;4.79849;State
+2009;Yemen;22.85824;State
+2009;Africa;992.58225;Continent
+2009;Algeria;34.17819;State
+2009;Angola;12.79929;State
+2009;Benin;8.79183;State
+2009;Botswana;1.99088;State
+2009;Burkina Faso;15.74623;State
+2009;Burundi;9.51133;State
+2009;Cameroon;18.8793;State
+2009;Cape Verde;0.50118;State
+2009;Central African Republic;4.74192;State
+2009;Chad;10.32921;State
+2009;Comoros;0.75244;State
+2009;Congo (Brazzaville);4.01281;State
+2009;Congo (Kinshasa);68.69254;State
+2009;Cote dIvoire (IvoryCoast);20.61707;State
+2009;Djibouti;0.72462;State
+2009;Egypt;78.86664;State
+2009;Equatorial Guinea;0.63344;State
+2009;Ethiopia;85.23734;State
+2009;Gabon;1.51499;State
+2009;Gambia - The;1.77808;State
+2009;Ghana;23.88781;State
+2009;Guinea;10.05798;State
+2009;Guinea-Bissau;1.53396;State
+2009;Kenya;39.00277;State
+2009;Lesotho;1.91613;State
+2009;Liberia;3.58339;State
+2009;Libya;6.32436;State
+2009;Madagascar;20.65356;State
+2009;Malawi;15.02876;State
+2009;Mali;13.44323;State
+2009;Mauritania;3.12949;State
+2009;Mauritius;1.28426;State
+2009;Morocco;31.28517;State
+2009;Mozambique;21.66928;State
+2009;Niger;15.30625;State
+2009;Nigeria;149.22909;State
+2009;Reunion;0.76615;State
+2009;Rwanda;10.74631;State
+2009;Saint Helena;0.00764;State
+2009;Sao Tome and Principe;0.1721;State
+2009;Senegal;12.00807;State
+2009;Seychelles;0.08748;State
+2009;Sierra Leone;5.13214;State
+2009;Somalia;9.83202;State
+2009;South Africa;49.05249;State
+2009;Sudan;42.81128;State
+2009;Swaziland;1.33719;State
+2009;Tanzania;41.04853;State
+2009;Togo;6.40501;State
+2009;Tunisia;10.48634;State
+2009;Uganda;32.36956;State
+2009;Western Sahara;0.47601;State
+2009;Zambia;13.06068;State
+2009;Zimbabwe;11.39263;State
+2009;Asia & Oceania;3762.16099;Region
+2009;Afghanistan;28.39572;State
+2009;American Samoa;0.06563;State
+2009;Australia;21.26264;State
+2009;Bangladesh;153.70033;State
+2009;Bhutan;0.69114;State
+2009;Brunei;0.38819;State
+2009;Burma (Myanmar);52.82612;State
+2009;Cambodia;14.20623;State
+2009;China;1323.59158;State
+2009;Cook Islands;0.01187;State
+2009;Fiji;0.8685;State
+2009;French Polynesia;0.28703;State
+2009;Guam;0.17843;State
+2009;Hong Kong;7.05507;State
+2009;India;1156.89777;State
+2009;Indonesia;240.27152;State
+2009;Japan;127.07868;State
+2009;Kiribati;0.09819;State
+2009;Korea - North;22.66535;State
+2009;Korea - South;48.50897;State
+2009;Laos;6.25687;State
+2009;Macau;0.55985;State
+2009;Malaysia;27.81787;State
+2009;Maldives;0.39633;State
+2009;Mongolia;3.04114;State
+2009;Nauru;0.00921;State
+2009;Nepal;28.56338;State
+2009;New Caledonia;0.24841;State
+2009;New Zealand;4.21126;State
+2009;Niue;0.00216;State
+2009;Pakistan;181.45728;State
+2009;Papua New Guinea;5.94078;State
+2009;Philippines;97.9766;State
+2009;Samoa;0.1909;State
+2009;Singapore;4.65754;State
+2009;Solomon Islands;0.54649;State
+2009;Sri Lanka;21.32479;State
+2009;Taiwan;22.97435;State
+2009;Thailand;66.64481;State
+2009;Tonga;0.1209;State
+2009;U.S. Pacific Islands;0.24424;State
+2009;Vanuatu;0.21852;State
+2009;Vietnam;88.57676;State
+2009;World;6776.91747;World
+2010;North America;456.59331;Region
+2010;Bermuda;0.06827;State
+2010;Canada;33.75974;State
+2010;Greenland;0.05764;State
+2010;Mexico;112.46886;State
+2010;Saint Pierre and Miquelon;0.00594;State
+2010;United States;310.23286;State
+2010;Central & South America;480.01228;Region
+2010;Antigua and Barbuda;0.08675;State
+2010;Argentina;41.3432;State
+2010;Bahamas - The;0.31043;State
+2010;Barbados;0.28565;State
+2010;Belize;0.31452;State
+2010;Bolivia;9.94742;State
+2010;Brazil;201.10333;State
+2010;Cayman Islands;0.05021;State
+2010;Chile;16.74649;State
+2010;Colombia;44.20529;State
+2010;Costa Rica;4.51622;State
+2010;Cuba;11.47746;State
+2010;Dominica;0.07281;State
+2010;Dominican Republic;9.82382;State
+2010;Ecuador;14.79061;State
+2010;El Salvador;6.05206;State
+2010;Falkland Islands (Islas Malvinas);0.00314;State
+2010;French Guiana;0.19131;State
+2010;Grenada;0.10782;State
+2010;Guadeloupe;0.44452;State
+2010;Guatemala;13.55044;State
+2010;Guyana;0.74849;State
+2010;Haiti;9.64892;State
+2010;Honduras;7.98942;State
+2010;Jamaica;2.84723;State
+2010;Martinique;0.426;State
+2010;Montserrat;0.00512;State
+2010;Netherlands Antilles;0.22869;State
+2010;Nicaragua;5.99593;State
+2010;Panama;3.41068;State
+2010;Paraguay;6.37583;State
+2010;Peru;29.907;State
+2010;Puerto Rico;3.9787;State
+2010;Saint Kitts and Nevis;0.0499;State
+2010;Saint Lucia;0.16092;State
+2010;Saint Vincent/Grenadines;0.10422;State
+2010;Suriname;0.48662;State
+2010;Trinidad and Tobago;1.22869;State
+2010;Turks and Caicos Islands;0.02353;State
+2010;Uruguay;3.51039;State
+2010;Venezuela;27.22323;State
+2010;Virgin Islands -  U.S.;0.10975;State
+2010;Virgin Islands - British;0.02494;State
+2010;Europe;606.00344;Continent
+2010;Albania;2.98695;State
+2010;Austria;8.21416;State
+2010;Belgium;10.42349;State
+2010;Bulgaria;7.14879;State
+2010;Cyprus;1.10268;State
+2010;Denmark;5.51558;State
+2010;Faroe Islands;0.04906;State
+2010;Finland;5.25507;State
+2010;France;63.33964;State
+2010;Germany;82.28299;State
+2010;Gibraltar;0.02888;State
+2010;Greece;10.74994;State
+2010;Hungary;9.99234;State
+2010;Iceland;0.30891;State
+2010;Ireland;4.62292;State
+2010;Italy;58.12216;State
+2010;Luxembourg;0.49754;State
+2010;Malta;0.40677;State
+2010;Netherlands;16.78309;State
+2010;Norway;4.67631;State
+2010;Poland;38.46369;State
+2010;Portugal;10.73577;State
+2010;Romania;21.95928;State
+2010;Spain;46.50596;State
+2010;Sweden;9.07406;State
+2010;Switzerland;7.65844;State
+2010;Turkey;77.80412;State
+2010;United Kingdom;62.61254;State
+2010;Eurasia;282.92477;Region
+2010;Middle East;212.33692;Region
+2010;Bahrain;0.738;State
+2010;Iran;76.9233;State
+2010;Iraq;29.67161;State
+2010;Israel;7.35399;State
+2010;Jordan;6.40709;State
+2010;Kuwait;2.78913;State
+2010;Lebanon;4.12525;State
+2010;Oman;2.96772;State
+2010;Qatar;0.84093;State
+2010;Saudi Arabia;25.73178;State
+2010;Syria;22.19811;State
+2010;United Arab Emirates;4.97559;State
+2010;Yemen;23.49536;State
+2010;Africa;1015.47842;Continent
+2010;Algeria;34.58618;State
+2010;Angola;13.06816;State
+2010;Benin;9.05601;State
+2010;Botswana;2.02931;State
+2010;Burkina Faso;16.24181;State
+2010;Burundi;9.86312;State
+2010;Cameroon;19.29415;State
+2010;Cape Verde;0.50866;State
+2010;Central African Republic;4.84493;State
+2010;Chad;10.54346;State
+2010;Comoros;0.77341;State
+2010;Congo (Brazzaville);4.12592;State
+2010;Congo (Kinshasa);70.91644;State
+2010;Cote dIvoire (IvoryCoast);21.0588;State
+2010;Djibouti;0.74053;State
+2010;Egypt;80.47187;State
+2010;Equatorial Guinea;0.6507;State
+2010;Ethiopia;88.01349;State
+2010;Gabon;1.54526;State
+2010;Gambia - The;1.82416;State
+2010;Ghana;24.33984;State
+2010;Guinea;10.32403;State
+2010;Guinea-Bissau;1.56513;State
+2010;Kenya;40.04657;State
+2010;Lesotho;1.91955;State
+2010;Liberia;3.68508;State
+2010;Libya;6.46145;State
+2010;Madagascar;21.28184;State
+2010;Malawi;15.4475;State
+2010;Mali;13.79635;State
+2010;Mauritania;3.20506;State
+2010;Mauritius;1.2941;State
+2010;Morocco;31.62743;State
+2010;Mozambique;22.06145;State
+2010;Niger;15.87827;State
+2010;Nigeria;152.21734;State
+2010;Reunion;0.76615;State
+2010;Rwanda;11.05598;State
+2010;Saint Helena;0.00767;State
+2010;Sao Tome and Principe;0.17581;State
+2010;Senegal;12.32325;State
+2010;Seychelles;0.08834;State
+2010;Sierra Leone;5.2457;State
+2010;Somalia;10.11245;State
+2010;South Africa;49.10911;State
+2010;Sudan;43.9396;State
+2010;Swaziland;1.35405;State
+2010;Tanzania;41.8929;State
+2010;Togo;6.58724;State
+2010;Tunisia;10.58903;State
+2010;Uganda;33.39868;State
+2010;Western Sahara;0.49152;State
+2010;Zambia;13.46031;State
+2010;Zimbabwe;11.65186;State
+2010;Asia & Oceania;3799.67028;Region
+2010;Afghanistan;29.12129;State
+2010;American Samoa;0.06643;State
+2010;Australia;21.51575;State
+2010;Bangladesh;156.11846;State
+2010;Bhutan;0.69985;State
+2010;Brunei;0.39503;State
+2010;Burma (Myanmar);53.41437;State
+2010;Cambodia;14.45368;State
+2010;China;1330.14129;State
+2010;Cook Islands;0.01149;State
+2010;Fiji;0.87598;State
+2010;French Polynesia;0.291;State
+2010;Guam;0.18087;State
+2010;Hong Kong;7.08971;State
+2010;India;1173.10802;State
+2010;Indonesia;242.96834;State
+2010;Japan;126.80443;State
+2010;Kiribati;0.09948;State
+2010;Korea - North;22.75728;State
+2010;Korea - South;48.63607;State
+2010;Laos;6.36816;State
+2010;Macau;0.56796;State
+2010;Malaysia;28.27473;State
+2010;Maldives;0.39565;State
+2010;Mongolia;3.08692;State
+2010;Nauru;0.00927;State
+2010;Nepal;28.95185;State
+2010;New Caledonia;0.25235;State
+2010;New Zealand;4.25012;State
+2010;Niue;0.00216;State
+2010;Pakistan;184.40479;State
+2010;Papua New Guinea;6.06452;State
+2010;Philippines;99.90018;State
+2010;Samoa;0.192;State
+2010;Singapore;4.70107;State
+2010;Solomon Islands;0.5592;State
+2010;Sri Lanka;21.51399;State
+2010;Taiwan;23.02496;State
+2010;Thailand;67.0895;State
+2010;Tonga;0.12258;State
+2010;U.S. Pacific Islands;0.24221;State
+2010;Vanuatu;0.22155;State
+2010;Vietnam;89.57113;State
+2010;World;6853.01941;World
