@@ -27,3 +27,9 @@ Es.: {job="eureka-discovery-catalog"}
 * sintassi per un filtro con più valori: {<proprietà>=~"valore1|valore2"}
 
 Es.: {level=~"error|warn"}
+
+##### Tipi di grafici
+
+* tabella
+* graph (grafico a linee, per serie temporali)
+* singlestat (singolo valore)
