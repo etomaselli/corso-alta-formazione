@@ -42,7 +42,7 @@ In fondo alla homepage troverai il database Sample Dataset.
    - Clicca su Visualizza per vedere il risultato
    - Scegli il tipo di grafico che vuoi per rappresentare la classifica (es. a barre, a righe, tabella) e salva la domanda in E-Shop
 
-7. Crea una nuova dashboard "Risultati 2018" nella collection E-Shop e aggiungi le domande create finora (sfrutta la griglia per ridimensionarle e posizionarle per renderle leggibili al meglio).
+7. Crea una nuova dashboard "Risultati 2018" nella collection E-Shop e aggiungi le domande create finora (sfrutta la griglia per ridimensionarle e posizionarle). Per rendere più leggibile la dashboard, puoi ritoccare l'aspetto dei grafici sulla dashboard (es. titoli, titoli degli assi) senza che la domanda originale venga modificata.
 
 ---
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
