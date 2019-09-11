@@ -27,9 +27,11 @@ In fondo alla homepage troverai il database Sample Dataset.
 ---
 - get started: https://metabase.com/docs/v0.33.0/getting-started.html
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
-	1. numero di utenti iscritti nel tempo
-	2. entrate totali nel tempo
-	3. tasse versate nel tempo
+	1. incassi totali nel tempo |
+	2. tasse versate nel tempo  |
+	3. numero di utenti iscritti nel tempo
 	4. numero di ordini nel tempo
 	5. classifica dei prodotti più acquistati e loro rating
+	6. numero totale di utenti iscritti
+	7. numero totale di incassi
 - database di Alberto: creazione dashboard con filtri e multiserie
