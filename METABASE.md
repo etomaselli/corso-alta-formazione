@@ -29,6 +29,13 @@ In fondo alla homepage troverai il database Sample Dataset.
 5. Crea le domande **Numero totale di utenti iscritti nell'anno 2018** (conteggio su Sample Dataset - People) e **Incassi totali nell'anno 2018** (somma su Sample Dataset - Orders, "Total").
    - Su Visualizzazione si può modificare il modo in cui è rappresentato il numero (es. simbolo della valuta, arrotondamento dei decimali)
    - Se si aggiunge un raggruppamento sul campo "Created At", anziché il numero totale si può visualizzare la [tendenza](https://metabase.com/docs/v0.33.0/users-guide/05-visualizing-results.html#trends) (il numero totale nell'ultimo periodo e la differenza in percentuale rispetto al periodo precedente)
+6. Crea con l'editor la [domanda personalizzata](https://metabase.com/docs/v0.33.0/users-guide/custom-questions.html) **Prodotti più acquistati nell'anno 2018** (cliccando sulle frecce a destra delle sezioni si può vedere l'anteprima dei dati ad ogni passaggio):
+   - Nell'editor, scegli come tabella di partenza Sample Dataset - Orders e aggiungi un join con Sample Dataset - Products (automaticamente verrà selezionato il left outer join con la condizione Orders.ProductID = Products.ID)
+   - Aggiungi un filtro su Orders.CreatedAt per selezionare solo gli ordini fatti nel 2018
+   - Seleziona come metrica il "Conteggio di righe" raggruppando per Product.Title, per ottenere il numero di ordini per ciascun prodotto
+   - Per creare una classifica, ordina per "Conteggio" e scegli un numero massimo di righe da includere (es. 10)
+   - Clicca su Visualizza per vedere il risultato
+   - Scegli il tipo di grafico che vuoi per rappresentare la classifica (es. a barre, a righe, tabella) e salva la domanda in E-Shop
 
 ---
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
@@ -38,5 +45,5 @@ In fondo alla homepage troverai il database Sample Dataset.
 	4. numero di ordini nel tempo
 	5. numero totale di utenti iscritti
 	6. incassi totali
-	7. classifica dei prodotti più acquistati e loro rating
+	7. classifica dei prodotti più acquistati
 - database di Alberto: creazione dashboard con filtri e multiserie
