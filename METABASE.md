@@ -44,6 +44,14 @@ In fondo alla homepage troverai il database Sample Dataset.
 
 7. Crea una nuova dashboard "Risultati 2018" nella collection E-Shop e aggiungi le domande create finora (sfrutta la griglia per ridimensionarle e posizionarle). Per rendere più leggibile la dashboard, puoi ritoccare l'aspetto dei grafici sulla dashboard (es. titoli, titoli degli assi) senza che la domanda originale venga modificata.
 
+## Esercizio 2
+1. Duplica la dashboard "Risultati 2018" e rinomina la nuova copia "Risultati 2018 - Compatta".
+
+2. Modifica la nuova copia per [riunire in un unico grafico](https://metabase.com/docs/v0.33.0/users-guide/09-multi-series-charting.html) le domande **Incasso totale per mese nell'anno 2018** e **Tasse versate per mese nell'anno 2018**:
+   - Clicca su "Aggiungi" nell'angolo del grafico sull'incasso e seleziona la seconda domanda per aggiungerla allo stesso grafico
+   - Per rendere i dati confrontabili (entrambe le serie sono in dollari), modifica le impostazioni del grafico per mostrare anche la seconda serie sull'asse verticale di sinistra
+   - Adesso che le due domande sono combinate, il grafico sulle tasse versate è superfluo e può essere rimosso dalla dashboard.
+
 ---
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
 	1. incassi totali nel tempo *
