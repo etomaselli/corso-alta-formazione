@@ -1,6 +1,9 @@
 Link utili:
-- Guida utenti: 
-- Visualizzazioni disponibili: 
+- Documentazione: https://grafana.com/docs/
+- Getting Started: https://grafana.com/docs/guides/getting_started/
+
+## Configurazione del Database
+Scarica il file <FILE DB FERRANDINA> e importalo in un nuovo database su PostgreSQL.
 
 ## Download e Configurazione di Grafana
 - https://grafana.com/grafana/download?platform=windows -> **Download the zip file**
@@ -14,5 +17,11 @@ grafana-server.exe
 
 Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
 
-## Esercizio 1
-1. 
+## Configurazione di una Datasource
+1. Crea una nuova [datasource PostgreSQL](https://grafana.com/docs/features/datasources/postgres/#adding-the-data-source):
+   - name: Rilevamenti Aria
+   - host: localhost:5432
+   - database: ferrandina
+   - user: postgres
+   - password: postgres
+   - SSL mode: disable
