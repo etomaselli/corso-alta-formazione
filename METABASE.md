@@ -60,6 +60,8 @@ In fondo alla homepage troverai il database Sample Dataset.
    - Su ogni grafico seleziona il campo User.State
    - Salva di nuovo e testa il filtro
 
+- Se aggiungi filtri che non sono validi per tutti i grafici della dashboard, quelli su cui il filtro non è applicabile non saranno influenzati dal filtro e continueranno a mostrare gli stessi dati (es. se filtri sul campo Product.Category, il filtro non sarà applicabile ai due grafici sugli utenti)
+
 ---
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
 	1. incassi totali nel tempo *
