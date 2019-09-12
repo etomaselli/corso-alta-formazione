@@ -61,14 +61,3 @@ In fondo alla homepage troverai il database Sample Dataset.
    - Salva di nuovo e testa il filtro
 
 - Se aggiungi filtri che non sono validi per tutti i grafici della dashboard, quelli su cui il filtro non è applicabile non saranno influenzati dal filtro e continueranno a mostrare gli stessi dati (es. se filtri sul campo Product.Category, il filtro non sarà applicabile ai due grafici sugli utenti)
-
----
-- sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
-	1. incassi totali nel tempo *
-	2. tasse versate nel tempo *
-	3. numero di utenti iscritti nel tempo
-	4. numero di ordini nel tempo
-	5. numero totale di utenti iscritti
-	6. incassi totali
-	7. classifica dei prodotti più acquistati
-- database di Alberto: creazione dashboard con filtri e multiserie
