@@ -50,7 +50,15 @@ In fondo alla homepage troverai il database Sample Dataset.
 2. Modifica la nuova copia per [riunire in un unico grafico](https://metabase.com/docs/v0.33.0/users-guide/09-multi-series-charting.html) le domande **Incasso totale per mese nell'anno 2018** e **Tasse versate per mese nell'anno 2018**:
    - Clicca su "Aggiungi" nell'angolo del grafico sull'incasso e seleziona la seconda domanda per aggiungerla allo stesso grafico
    - Per rendere i dati confrontabili (entrambe le serie sono in dollari), modifica le impostazioni del grafico per mostrare anche la seconda serie sull'asse verticale di sinistra
-   - Adesso che le due domande sono combinate, il grafico sulle tasse versate è superfluo e può essere rimosso dalla dashboard.
+   - Adesso che le due domande sono combinate, il grafico sulle tasse versate è superfluo e può essere rimosso dalla dashboard
+
+3. Clicca su "Aggiungi un filtro" per inserire alcuni [filtri](https://metabase.com/docs/v0.33.0/users-guide/08-dashboard-filters.html) nella dashboard:
+   - Scegli il tipo di filtro "Tempo" e seleziona "Mese e anno" per poter filtrare i dati relativi ad un mese specifico
+   - Su ogni grafico, seleziona il campo temporale ("Created At") su cui dovrà agire il filtro
+   - Salva la dashboard e testa il filtro (dato che tutti i grafici sono già filtrati sul 2018, scegliendo altri anni non ci saranno dati)
+   - Torna su "Aggiungi un filtro" e inserisci un filtro di tipo "Altre categorie" per filtrare i dati relativi ad uno Stato specifico
+   - Su ogni grafico seleziona il campo User.State
+   - Salva di nuovo e testa il filtro
 
 ---
 - sample database: creazione dashboard senza filtri e senza grafici multi-serie, aggiunta di filtri e multi-serie
