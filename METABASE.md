@@ -61,3 +61,19 @@ In fondo alla homepage troverai il database Sample Dataset.
    - Salva di nuovo e testa il filtro
 
 - Se aggiungi filtri che non sono validi per tutti i grafici della dashboard, quelli su cui il filtro non è applicabile non saranno influenzati dal filtro e continueranno a mostrare gli stessi dati (es. se filtri sul campo Product.Category, il filtro non sarà applicabile ai due grafici sugli utenti)
+
+## Esercizio 3
+- Connessione allo schema **twitter** del database **corso_af**
+
+1. Dalla home page di Metabase vai su Impostazioni (in alto a destra) -> Admin -> Aggiungi Database e inserisci:
+   - Database type: PostgreSQL
+   - Nome: Twitter
+   - Host: localhost
+   - Porta: 5432
+   - Database: corso_af (o il nome che hai usato)
+   - Username: postgres
+   - Password: postgres
+
+2. Clicca su "Sfoglia i dati" e verifica che Metabase legga correttamente la tabella **Utenti**
+
+3. Crea una dashboard con alcune domande per analizzare la tabella Utenti (es. da quali Paesi proviene il maggior numero di utenti, da quali il maggior numero di utenti maschi o femmine, qual è il dominio più comune a cui sono registrate le mail, ...)
