@@ -77,3 +77,10 @@ In fondo alla homepage troverai il database Sample Dataset.
 2. Clicca su "Sfoglia i dati" e verifica che Metabase legga correttamente la tabella **Utenti**
 
 3. Crea una dashboard con alcune domande per analizzare la tabella Utenti (es. da quali Paesi proviene il maggior numero di utenti, da quali il maggior numero di utenti maschi o femmine, qual è il dominio più comune a cui sono registrate le mail, ...)
+
+- numero di utenti per ogni dominio email:
+
+```
+select distinct substring(email, position('@' in email)+ 1), count(id) from Twitter.utenti
+group by substring(email, position('@' in email)+ 1)
+```
