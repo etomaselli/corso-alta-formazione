@@ -7,6 +7,19 @@ Link utili:
 Scarica il file <FILE DB FERRANDINA> e importalo in un nuovo database su PostgreSQL.
 
 ```
+CREATE TABLE rilevamenti
+(
+	id serial NOT NULL,
+	stazione character varying(50),
+	parametro character varying(50),
+	udm character varying(50),
+	giorno date,
+	ora time,
+	media double precision,
+	validita integer,
+	CONSTRAINT rilevamenti_pkey PRIMARY KEY (id)
+)
+
 COPY rilevamenti(stazione,parametro,udm,giorno,ora,media,validita)
 FROM 'path\to\ferrandina.csv' DELIMITER ',' CSV HEADER;
 ```
