@@ -6,6 +6,11 @@ Link utili:
 ## Configurazione del Database
 Scarica il file <FILE DB FERRANDINA> e importalo in un nuovo database su PostgreSQL.
 
+```
+COPY rilevamenti(stazione,parametro,udm,giorno,ora,media,validita)
+FROM 'path\to\ferrandina.csv' DELIMITER ',' CSV HEADER;
+```
+
 ## Download e Configurazione di Grafana
 - https://grafana.com/grafana/download?platform=windows -> **Download the zip file**
 - Segui le istruzioni di configurazione: https://grafana.com/docs/installation/windows/ (la porta 10000 di solito è utilizzabile)
