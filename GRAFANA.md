@@ -4,24 +4,18 @@ Link utili:
 - Grafana Play: https://play.grafana.org/d/000000012/grafana-play-home?orgId=1
 
 ## Configurazione del Database
-Scarica il file <FILE DB FERRANDINA> e importalo in un nuovo database su PostgreSQL.
+Crea un nuovo database "Misurazioni" su PostgreSQL e aggiungi la tabella "log_series":
 
 ```
-CREATE TABLE rilevamenti
-(
-	id serial NOT NULL,
-	stazione character varying(50),
-	parametro character varying(50),
-	udm character varying(50),
-	giorno date,
-	ora time,
-	media double precision,
-	validita integer,
-	CONSTRAINT rilevamenti_pkey PRIMARY KEY (id)
-)
+CREATE TABLE log_series (measurement timestamp with time zone, active_users integer, inactive_users integer);
+```
 
-COPY rilevamenti(stazione,parametro,udm,giorno,ora,media,validita)
-FROM 'path\to\ferrandina.csv' DELIMITER ',' CSV HEADER;
+Inserisci una serie di dati temporali:
+
+```
+INSERT INTO log_series(measurement, active_users, inactive_users)
+SELECT generate_series as measurement, round(random()*50) as active_users, round(random()*50) as inactive_users
+FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12:00', '15 seconds');
 ```
 
 ## Download e Configurazione di Grafana
