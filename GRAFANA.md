@@ -2,6 +2,7 @@ Link utili:
 - Documentazione: https://grafana.com/docs/
 - Getting Started: https://grafana.com/docs/guides/getting_started/
 - Grafana Play: https://play.grafana.org/d/000000012/grafana-play-home?orgId=1
+- Configurazione dei pannelli: https://grafana.com/docs/features/panels/graph/
 
 ## Configurazione del Database
 Crea un nuovo database "Misurazioni" su PostgreSQL e aggiungi la tabella "log_series":
@@ -32,9 +33,9 @@ Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
 
 ## Configurazione di una Datasource
 1. Crea una nuova [datasource PostgreSQL](https://grafana.com/docs/features/datasources/postgres/#adding-the-data-source):
-   - name: Rilevamenti Aria
+   - name: Misurazioni
    - host: localhost:5432
-   - database: ferrandina
+   - database: Misurazioni
    - user: postgres
    - password: postgres
    - SSL mode: disable
