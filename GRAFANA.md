@@ -66,4 +66,6 @@ Crea una nuova [datasource PostgreSQL](https://grafana.com/docs/features/datasou
    - usa "avg" come funzione di aggregazione sulle colonne "active_users" e "inactive_users" e raggruppa usando la funzione *time(1m, none)*
 
 ## Esercizio 2
-Crea una nuova dashboard e crea almeno cinque pannelli a tua scelta che mostrino i dati presenti nelle tabelle *log_series* e *server_status*, utilizzando anche delle variabili (es. l'ID del server).
+Crea una nuova dashboard e crea almeno cinque pannelli a tua scelta che mostrino i dati presenti nelle tabelle *log_series* e *server_status*, utilizzando anche delle variabili.
+
+Puoi prendere spunto dalle dashboard presenti su Grafana Play (link a inizio pagina).
