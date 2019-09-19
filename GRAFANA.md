@@ -68,4 +68,4 @@ Crea una nuova [datasource PostgreSQL](https://grafana.com/docs/features/datasou
 ## Esercizio 2
 Crea una nuova dashboard e crea almeno cinque pannelli a tua scelta che mostrino i dati presenti nelle tabelle *log_series* e *server_status*, utilizzando anche delle variabili.
 
-Puoi prendere spunto dalle dashboard presenti su Grafana Play (link a inizio pagina).
+Puoi prendere spunto dalle dashboard presenti su Grafana Play (link a inizio pagina) e dalla documentazione che riguarda le variabili (https://grafana.com/docs/reference/templating/).
