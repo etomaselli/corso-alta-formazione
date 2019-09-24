@@ -62,7 +62,7 @@ GET /bank/_search
     "sort": [{ "account_number": "asc" }]
   }
   ```
-- "query": specifica come selezionare i documenti, prendendo solo quelli che rispondono ad un certo criterio o clausola
+- "query": specifica come selezionare i documenti, prendendo solo quelli che rispondono ad un certo criterio o clausola (simile a `WHERE` in SQL)
   - es. per selezionare i documenti in cui il campo "address" contiene la parola "lane":
   ```
   {
@@ -70,7 +70,7 @@ GET /bank/_search
   }
   ```
 - "query.bool": specifica una combinazione di **clausole** (simile a `WHERE ... AND ... AND ...` in SQL)
-  - es. per selezionare gli account di *donne* che hanno *tra i 30 e i 40 anni* e che *non* vivono in California:
+  - es. per selezionare gli account di *donne* che hanno *tra i 30 e i 40 anni* e che *non vivono in California*:
   ```
   {
     "query": {
@@ -93,5 +93,31 @@ GET /bank/_search
     }
   }
   ```
-
+- "aggs": specifica come aggregare i documenti (simile a `GROUP BY` e alle funzioni di aggregazione in SQL)
+  - es. per contare quanti account ci sono per ogni Stato ("group_by_state" è il nome che stai dando al risultato, "terms" indica il tipo di aggregazione, "state.keyword" indica di raggruppare sul campo "state"; "city.keyword" raggrupperebbe sul campo "city"):
+  ```
+  {
+    "size": 0,
+    "aggs": {
+      "group_by_state": {
+        "terms": {
+          "field": "state.keyword"
+        }
+      }
+    }
+  }
+  ```
+  - es. per calcolare l'età media delle persone associate agli account:
+  ```
+  {
+    "size": 0,
+    "aggs": {
+      "average_age": {
+        "avg": {
+          "field": "age"
+        }
+      }
+    }
+  }
+  ```
 
