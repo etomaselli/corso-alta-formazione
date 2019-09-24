@@ -25,21 +25,23 @@ Url: http://localhost:5601 (per vedere lo status del server: http://localhost:56
 - L'esercizio segue la guida [Getting Started with Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.3/getting-started-index.html)
 - Endpoint e comandi più comuni: https://gist.github.com/stephen-puiszis/212b8a8b37f67c670422
 - Le API di Elasticsearch: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/rest-apis.html
+- Se non hai cURL installato (verifica con `curl --version`), installalo da https://curl.haxx.se/dlwiz/?type=bin
 
+### Carica dei dati in Elasticsearch
 1. Copia e salva in un file il dataset [accounts.json](https://raw.githubusercontent.com/elastic/elasticsearch/master/docs/src/test/resources/accounts.json), che contiene una serie di account fittizi.
 
 2. Dalla cartella in cui hai salvato il file, carica in Elasticsearch i dati usando l'API `_bulk`:
 ```
 curl -H "Content-Type: application/json" -XPOST "localhost:9200/bank/_bulk?pretty&refresh" --data-binary "@accounts.json"
 ```
-- Se non hai cURL installato (verifica con `curl --version`), installalo da https://curl.haxx.se/dlwiz/?type=bin
 
 3. Per verificare che l'inserimento sia andato a buon fine, con l'API `_cat/indices` controlla che l'indice "bank" sia stato creato e abbia 1000 documenti (docs.count):
 ```
 curl "localhost:9200/_cat/indices?v"
 ```
 
-4. Dalla console di Kibana puoi vedere i dati inseriti chiamando:
+### Esplora i dati tramite il Query DSL dalla console di Kibana
+1. Dalla console puoi vedere i dati inseriti chiamando:
 ```
 GET /bank/_search
 ```
