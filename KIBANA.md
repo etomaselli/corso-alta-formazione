@@ -45,12 +45,12 @@ curl "http://localhost:9200/_cat/indices/bank?v"
 ```
 GET /bank/_search
 ```
-Nella sezione "hits" vedrai un'array con i primi dieci documenti. Per vedere un numero di risultati diverso, devi specificarlo nel body della query:
+Nella sezione "hits" vedrai un'array con i primi dieci documenti, ma il campo "hits.total.value" indica il numero totale di documenti selezionati. Per vedere un numero di risultati diverso (es. 30), devi specificarlo nel body della query:
 ```
 GET /bank/_search
 {
   "from": 0,
-  "size": 2
+  "size": 30
 }
 ```
 
@@ -62,5 +62,36 @@ GET /bank/_search
     "sort": [{ "account_number": "asc" }]
   }
   ```
-- "query": specifica come selezionare i documenti, prendendo solo quelli che rispondono ad un certo criterio
-  - es. per 
+- "query": specifica come selezionare i documenti, prendendo solo quelli che rispondono ad un certo criterio o clausola
+  - es. per selezionare i documenti in cui il campo "address" contiene la parola "lane":
+  ```
+  {
+    "query": { "match": { "address": "lane" } }
+  }
+  ```
+- "query.bool": specifica una combinazione di **clausole** (simile a `WHERE ... AND ... AND ...` in SQL)
+  - es. per selezionare gli account di *donne* che hanno *tra i 30 e i 40 anni* e che *non* vivono in California:
+  ```
+  {
+    "query": {
+      "bool": {
+        "must": [
+          { "match": { "gender": "F" } }
+        ],
+        "must_not": [
+          { "match": { "state": "CA" } }
+        ],
+        "filter": {
+          "range": {
+            "age": {
+              "gte": 30,
+              "lte": 40
+            }
+          }
+        }
+      }
+    }
+  }
+  ```
+
+
