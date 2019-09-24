@@ -21,7 +21,7 @@ Avvio (dalla cartella root di Kibana):
 
 Url: http://localhost:5601 (per vedere lo status del server: http://localhost:5601/status)
 
-## Primi Passi con Elasticsearch
+## Come Usare Elasticsearch
 - L'esercizio segue la guida [Getting Started with Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.3/getting-started-index.html)
 - Endpoint e comandi più comuni: https://gist.github.com/stephen-puiszis/212b8a8b37f67c670422
 - Le API di Elasticsearch: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/rest-apis.html
@@ -121,3 +121,19 @@ GET /bank/_search
   }
   ```
 
+### Documentazione completa
+- Query: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/query-dsl.html
+- Aggregazioni: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/search-aggregations.html
+
+## Esplorazione di Dati su Kibana
+- L'esercizio segue il [tutorial ufficiale di Kibana](https://www.elastic.co/guide/en/kibana/current/tutorial-sample-data.html)
+
+### Esercizio 1: sample data
+1. Dalla homepage di Kibana, clicca il link sotto **Add Sample Data** e aggiungi il dataset **Sample flight data**, che contiene dati fittizi sulle rotte aeree globali.
+   - In questo modo verrà creato su Elasticsearch un nuovo indice *kibana_sample_data_flights* contenente 10000 voli
+
+2. Esplora il nuovo indice nella console di Kibana usando `GET /kibana_sample_data_flights/_search` per vedere da quali campi sono composti i documenti dei voli (es. Paese d'origine, meteo all'arrivo, coordinate della destinazione, ...).
+
+3. Clicca su **View Data** per aprire una dashboard già pronta sui nuovi dati
+
+4. Il riquadro **Controls** è un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider. Usalo per selezionare una città di partenza e di destinazione oppure per filtrare sul prezzo medio del biglietto. In alternativa puoi aggiungere qualunque filtro cliccando su **Add filter**.
