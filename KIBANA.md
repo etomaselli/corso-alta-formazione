@@ -35,9 +35,9 @@ Url: http://localhost:5601 (per vedere lo status del server: http://localhost:56
 curl -H "Content-Type: application/json" -XPOST "localhost:9200/bank/_bulk?pretty&refresh" --data-binary "@accounts.json"
 ```
 
-3. Per verificare che l'inserimento sia andato a buon fine, con l'API `_cat/indices` controlla che l'indice "bank" sia stato creato e abbia 1000 documenti (docs.count):
+3. Per verificare che l'inserimento sia andato a buon fine, con l'API `_cat` controlla che l'indice "bank" sia stato creato e abbia 1000 documenti (docs.count):
 ```
-curl "localhost:9200/_cat/indices?v"
+curl "http://localhost:9200/_cat/indices/bank?v"
 ```
 
 ### Esplora i dati tramite il Query DSL dalla console di Kibana
@@ -53,3 +53,7 @@ GET /bank/_search
   "size": 2
 }
 ```
+
+2. Tramite i campi del body puoi filtrare e organizzare i dati che ti interessano:
+   - "query"
+   - "sort"
