@@ -55,6 +55,6 @@ GET /bank/_search
 ```
 
 2. Tramite i campi del body puoi filtrare e organizzare i dati che ti interessano:
-   - "sort": specifica come ordinare i documenti (simile a `ORDER BY` in SQL)
-      es. `"sort": [{ "account_number": "asc" }]` li ordina in modo crescente in base al numero dell'account
-   - "query"
+- "sort": specifica come ordinare i documenti (simile a `ORDER BY` in SQL)
+  - es. `"sort": [{ "account_number": "asc" }]` li ordina in modo crescente in base al numero dell'account
+- "query"
