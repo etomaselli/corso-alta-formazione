@@ -138,7 +138,9 @@ GET /bank/_search
 
 4. Per applicare dei filtri sui dati nella dashboard ci sono vari modi:
    - Con KQL ([Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html))
-   `OriginCityName:Rome` 
+   ```
+   OriginCityName:Rome      //seleziona i documenti con il campo OriginCityName = Rome
+   ```
    - Cliccando su **Add filter**
    - Usando **Controls**, un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider
 
