@@ -136,12 +136,18 @@ GET /bank/_search
 
 3. Clicca su **View Data** per aprire una dashboard già pronta sui nuovi dati
 
-4. Per applicare dei filtri sui dati nella dashboard ci sono vari modi:
-   - Con KQL ([Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html))
-   ```
-   OriginCityName:Rome      //seleziona i documenti con il campo OriginCityName = Rome
-   ```
-   - Cliccando su **Add filter**
-   - Usando **Controls**, un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider
+4. Il filtro temporale permette di selezionare i dati che rientrano in un certo intervallo di tempo (tra due momenti assoluti oppure in un periodo relativo ad adesso). Per avere più dati nella dashboard, impostalo sulle ultime 24 ore.
 
-Usalo per selezionare una città di partenza e di destinazione oppure per filtrare sul prezzo medio del biglietto (clicca **Apply Changes** per applicare il filtro). In alternativa puoi aggiungere qualunque filtro cliccando su **Add filter**.
+5. Per applicare dei filtri sui dati nella dashboard ci sono vari modi:
+   - Con KQL ([Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html)):
+   ```
+   OriginCityName:Rome                               //seleziona i documenti in cui il campo OriginCityName = Rome
+   not OriginCityName:Rome                           //seleziona i documenti in cui il campo OriginCityName != Rome
+   AvgTicketPrice < 100                              //seleziona i documenti in cui il campo AvgTicketPrice < Rome
+   OriginCityName:Rome and not DestCountry:US        //seleziona i documenti in cui OriginCityName = Rome e DestCountry != US
+   OriginCityName:R*                                 //seleziona i documenti in cui il campo OriginCityName inizia con "R"
+   ```
+   - Cliccando su **Add filter** e usando i menu a tendina per impostare il filtro
+   - Usando **Controls**, un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider (bisogna cliccare su **Apply Changes** per applicare il filtro)
+
+   Per esempio, usa uno dei metodi per selezionare Roma come città di partenza (OriginCityName) e solo i voli in ritardo (FlightDelay).
