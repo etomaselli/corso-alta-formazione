@@ -136,4 +136,10 @@ GET /bank/_search
 
 3. Clicca su **View Data** per aprire una dashboard già pronta sui nuovi dati
 
-4. Il riquadro **Controls** è un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider. Usalo per selezionare una città di partenza e di destinazione oppure per filtrare sul prezzo medio del biglietto. In alternativa puoi aggiungere qualunque filtro cliccando su **Add filter**.
+4. Per applicare dei filtri sui dati nella dashboard ci sono vari modi:
+   - Con KQL ([Kibana Query Language](https://www.elastic.co/guide/en/kibana/current/kuery-query.html))
+   `OriginCityName:Rome` 
+   - Cliccando su **Add filter**
+   - Usando **Controls**, un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider
+
+Usalo per selezionare una città di partenza e di destinazione oppure per filtrare sul prezzo medio del biglietto (clicca **Apply Changes** per applicare il filtro). In alternativa puoi aggiungere qualunque filtro cliccando su **Add filter**.
