@@ -126,9 +126,10 @@ GET /bank/_search
 - Aggregazioni: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/search-aggregations.html
 
 ## Esplorazione di Dati su Kibana
+
+### Esercizio 1
 - L'esercizio segue il [tutorial ufficiale di Kibana](https://www.elastic.co/guide/en/kibana/current/tutorial-sample-data.html)
 
-### Esercizio 1: sample data
 1. Dalla homepage di Kibana, clicca il link sotto **Add Sample Data** e aggiungi il dataset **Sample flight data**, che contiene dati fittizi sulle rotte aeree globali.
    - In questo modo verrà creato su Elasticsearch un nuovo indice *kibana_sample_data_flights* contenente 10000 voli
 
@@ -150,4 +151,23 @@ GET /bank/_search
    - Cliccando su **Add filter** e usando i menu a tendina per impostare il filtro
    - Usando **Controls**, un [tipo speciale](https://www.elastic.co/guide/en/kibana/current/controls.html) di visualizzazione che permette di filtrare i dati tramite menu a tendina oppure range slider (bisogna cliccare su **Apply Changes** per applicare il filtro)
 
-   Per esempio, usa uno dei metodi per selezionare Roma come città di partenza (OriginCityName) e solo i voli in ritardo (FlightDelay).
+   Per esempio, usa uno dei metodi per selezionare Roma come città di partenza (OriginCityName=Rome) e solo i voli in ritardo (FlightDelay=true).
+
+6. Cliccando su **Edit** puoi riorganizzare i riquadri all'interno della dashboard e aggiungere oppure modificare visualizzazioni. Per esempio, cliccando sull'ingranaggio e poi su **Edit visualization** nel riquadro intitolato "\[Flights] Total Flights", anziché il numero totale di voli puoi mostrare il numero di voli raggruppato per compagnia aerea (Carrier) oppure per la città di destinazione (DestCityName).
+   - Documentazione sui tipi di visualizzazioni e su come configurarli: https://www.elastic.co/guide/en/kibana/current/visualize.html
+
+7. Puoi ispezionare i documenti su cui si basa una visualizzazione cliccando **Inspect** sul suo menu (nell'angolo a destra). Passando da **View: Data** a **View: Requests** puoi vedere la query ad Elasticsearch e il risultato in formato JSON.
+
+### Esercizio 2
+1. Dalla homepage di Kibana, clicca su **Management** -> **Index Patterns** -> **Create index pattern** e inserisci il nome "bank" per leggere l'indice con i dati sugli account che hai caricato su Elasticsearch. Clicca su **Next step** e poi su **Create index pattern**.
+
+2. Vai nella sezione **Discover**, seleziona "bank*" come indice e dai un'occhiata ai suoi dati. Per esempio, inserisci nella barra per le ricerche la query `account_number<100 AND balance>47500` per selezionare i primi 100 account con un saldo superiore a 47500. Puoi scegliere dalla lista **Available fields** quali campi dei documenti vuoi visualizzare (es. "account_number" o "balance").
+
+3. Vai nella sezione **Visualize** e crea un pie chart seguendo le istruzioni che trovi [qui](https://www.elastic.co/guide/en/kibana/current/tutorial-visualizing.html#tutorial-visualize-pie).
+
+4. Crea altre visualizzazioni sugli account aiutandoti con la documentazione sui tipi di grafici disponibili: https://www.elastic.co/guide/en/kibana/current/visualize.html
+
+5. Vai nella sezione **Dashboard** e crea una nuova dashboard con le visualizzazioni che hai configurato.
+
+### Esercizio 3
+Carica su Elasticsearch gli indici sulle opere di Shakespeare e sui log che trovi su https://www.elastic.co/guide/en/kibana/current/tutorial-build-dashboard.html e crea delle nuove dashboard per esplorare questi dati.
