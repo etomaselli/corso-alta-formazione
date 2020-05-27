@@ -31,7 +31,7 @@ FROM generate_series('2020-05-01 00:00'::timestamp with time zone,'2020-05-31 12
 ```
 
 ## Download e Configurazione di Grafana
-#Per Windows:
+**Per Windows:**
 - https://grafana.com/grafana/download/6.3.5?platform=windows -> **Standalone Windows Binaries**
 - Segui le istruzioni di configurazione: https://grafana.com/docs/grafana/v6.3/installation/windows/ (la porta 10000 di solito è utilizzabile)
 
@@ -43,7 +43,7 @@ grafana-server.exe
 
 Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
 
-#Per Linux:
+**Per Linux:**
 - https://grafana.com/grafana/download/6.3.5?platform=linux
 - Istruzioni per l'avvio https://grafana.com/docs/grafana/v6.3/installation/debian/
 
