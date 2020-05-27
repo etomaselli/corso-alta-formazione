@@ -17,17 +17,17 @@ Inserisci i dati:
 ```
 INSERT INTO log_series(measurement, active_users, inactive_users)
 SELECT generate_series as measurement, round(random()*50) as active_users, round(random()*50) as inactive_users
-FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12:00', '15 seconds');
+FROM generate_series('2020-05-01 00:00'::timestamp with time zone,'2020-05-31 12:00', '15 seconds');
 
 INSERT INTO server_status(measurement, server_id, cpu, num_of_requests)
 SELECT generate_series as measurement, 'server1' as server_id, round(random()::numeric, 1) as cpu, round(random()*50) as num_of_requests
-FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12:00', '15 seconds')
+FROM generate_series('2020-05-01 00:00'::timestamp with time zone,'2020-05-31 12:00', '15 seconds')
 UNION
 SELECT generate_series as measurement, 'server2' as server_id, round(random()::numeric, 1) as cpu, round(random()*50) as num_of_requests
-FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12:00', '15 seconds')
+FROM generate_series('2020-05-01 00:00'::timestamp with time zone,'2020-05-31 12:00', '15 seconds')
 UNION
 SELECT generate_series as measurement, 'server3' as server_id, round(random()::numeric, 1) as cpu, round(random()*50) as num_of_requests
-FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12:00', '15 seconds');
+FROM generate_series('2020-05-01 00:00'::timestamp with time zone,'2020-05-31 12:00', '15 seconds');
 ```
 
 ## Download e Configurazione di Grafana
