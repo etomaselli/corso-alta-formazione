@@ -41,13 +41,15 @@ Da linea di comando, naviga alla cartella \path\di\grafana\bin ed esegui
 grafana-server.exe
 ```
 
+Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
+
 #Per Linux:
 - https://grafana.com/grafana/download/6.3.5?platform=linux
 - Istruzioni per l'avvio https://grafana.com/docs/grafana/v6.3/installation/debian/
 
 Da linea di comando esegui `sudo service grafana-server start`.
 
-Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
+Raggiungi l'indirizzo http://localhost:3000 e autenticati come admin/admin.
 
 ## Configurazione di una Datasource
 Crea una nuova [datasource PostgreSQL](https://grafana.com/docs/features/datasources/postgres/#adding-the-data-source):
