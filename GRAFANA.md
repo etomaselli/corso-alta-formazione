@@ -31,14 +31,21 @@ FROM generate_series('2019-09-01 00:00'::timestamp with time zone,'2019-09-30 12
 ```
 
 ## Download e Configurazione di Grafana
-- https://grafana.com/grafana/download?platform=windows -> **Download the zip file**
-- Segui le istruzioni di configurazione: https://grafana.com/docs/installation/windows/ (la porta 10000 di solito è utilizzabile)
+#Per Windows:
+- https://grafana.com/grafana/download/6.3.5?platform=windows -> **Standalone Windows Binaries**
+- Segui le istruzioni di configurazione: https://grafana.com/docs/grafana/v6.3/installation/windows/ (la porta 10000 di solito è utilizzabile)
 
 Da linea di comando, naviga alla cartella \path\di\grafana\bin ed esegui
 
 ```
 grafana-server.exe
 ```
+
+#Per Linux:
+- https://grafana.com/grafana/download/6.3.5?platform=linux
+- Istruzioni per l'avvio https://grafana.com/docs/grafana/v6.3/installation/debian/
+
+Da linea di comando esegui `sudo service grafana-server start`.
 
 Raggiungi l'indirizzo http://localhost:10000 e autenticati come admin/admin.
 
