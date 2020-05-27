@@ -1,6 +1,6 @@
 Link utili:
 - Documentazione: https://grafana.com/docs/
-- Getting Started: https://grafana.com/docs/guides/getting_started/
+- Getting Started: https://grafana.com/docs/grafana/v6.3/guides/getting_started/
 - Grafana Play: https://play.grafana.org/d/000000012/grafana-play-home?orgId=1
 - Configurazione dei pannelli: https://grafana.com/docs/features/panels/graph/
 
