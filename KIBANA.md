@@ -22,9 +22,9 @@ Avvio (dalla cartella root di Kibana):
 Url: http://localhost:5601 (per vedere lo status del server: http://localhost:5601/status)
 
 ## Come Usare Elasticsearch
-- L'esercizio segue la guida [Getting Started with Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.3/getting-started-index.html)
+- L'esercizio segue la guida [Getting Started with Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/7.7/getting-started-index.html)
 - Endpoint e comandi più comuni: https://gist.github.com/stephen-puiszis/212b8a8b37f67c670422
-- Le API di Elasticsearch: https://www.elastic.co/guide/en/elasticsearch/reference/7.3/rest-apis.html
+- Le API di Elasticsearch: https://www.elastic.co/guide/en/elasticsearch/reference/7.7/rest-apis.html
 - Se non hai cURL installato (verifica con `curl --version`), installalo da https://curl.haxx.se/dlwiz/?type=bin
 
 ### Carica dei dati in Elasticsearch
